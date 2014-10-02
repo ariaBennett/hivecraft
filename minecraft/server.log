@@ -1,0 +1,198 @@
+2014-10-02 08:28:44 [INFO] Starting minecraft server version 1.6.4
+2014-10-02 08:28:44 [INFO] Loading properties
+2014-10-02 08:28:44 [WARNING] server.properties does not exist
+2014-10-02 08:28:44 [INFO] Generating new properties file
+2014-10-02 08:28:44 [INFO] Default game type: SURVIVAL
+2014-10-02 08:28:44 [INFO] Generating keypair
+2014-10-02 08:28:46 [INFO] Starting Minecraft server on *:25565
+2014-10-02 08:28:46 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2014-10-02 08:28:46 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2014-10-02 08:28:46 [INFO] Preparing level "world"
+2014-10-02 08:28:47 [INFO] Preparing start region for level 0
+2014-10-02 08:28:48 [INFO] Preparing spawn area: 2%
+2014-10-02 08:28:49 [INFO] Preparing spawn area: 5%
+2014-10-02 08:28:50 [INFO] Preparing spawn area: 8%
+2014-10-02 08:28:51 [INFO] Preparing spawn area: 12%
+2014-10-02 08:28:52 [INFO] Preparing spawn area: 16%
+2014-10-02 08:28:53 [INFO] Preparing spawn area: 23%
+2014-10-02 08:28:54 [INFO] Preparing spawn area: 34%
+2014-10-02 08:28:55 [INFO] Preparing spawn area: 42%
+2014-10-02 08:28:56 [INFO] Preparing spawn area: 52%
+2014-10-02 08:28:57 [INFO] Preparing spawn area: 57%
+2014-10-02 08:28:58 [INFO] Preparing spawn area: 63%
+2014-10-02 08:28:59 [INFO] Preparing spawn area: 73%
+2014-10-02 08:29:00 [INFO] Preparing spawn area: 86%
+2014-10-02 08:29:01 [INFO] Preparing spawn area: 98%
+2014-10-02 08:29:02 [INFO] Done (15.305s)! For help, type "help" or "?"
+2014-10-02 08:35:12 [INFO] /98.210.147.109:50623 lost connection
+2014-10-02 08:35:12 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:35:12 [INFO] /98.210.147.109:50624 lost connection
+2014-10-02 08:35:17 [INFO] /98.210.147.109:50626 lost connection
+2014-10-02 08:38:03 [INFO] /98.210.147.109:50678 lost connection
+2014-10-02 08:38:03 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:38:03 [INFO] /98.210.147.109:50679 lost connection
+2014-10-02 08:38:05 [INFO] /98.210.147.109:50680 lost connection
+2014-10-02 08:38:17 [INFO] /98.210.147.109:50683 lost connection
+2014-10-02 08:42:23 [INFO] /98.210.147.109:50820 lost connection
+2014-10-02 08:42:24 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:42:24 [INFO] /98.210.147.109:50822 lost connection
+2014-10-02 08:43:24 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:43:30 [INFO] Chani[/98.210.147.109:50868] logged in with entity id 5684 at (166.5, 73.0, 192.5)
+2014-10-02 08:43:30 [INFO] Chani joined the game
+2014-10-02 08:44:22 [INFO] Chani was shot by Skeleton
+2014-10-02 08:45:11 [INFO] Chani was shot by Skeleton
+2014-10-02 08:46:10 [INFO] Chani was slain by Zombie
+2014-10-02 08:47:37 [INFO] Chani was slain by Zombie
+2014-10-02 08:47:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-02 08:48:50 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:48:50 [INFO] Chani was doomed to fall by Zombie
+2014-10-02 08:48:50 [INFO] Chani lost connection: disconnect.endOfStream
+2014-10-02 08:48:50 [INFO] Chani left the game
+2014-10-02 08:48:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-02 08:48:51 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:49:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-02 08:49:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-02 08:49:51 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:50:35 [INFO] Stopping server
+2014-10-02 08:50:35 [INFO] Closing listening thread
+2014-10-02 08:50:35 [INFO] Saving players
+2014-10-02 08:50:35 [INFO] Saving worlds
+2014-10-02 08:50:35 [INFO] Saving chunks for level 'world'/Overworld
+2014-10-02 08:51:40 [INFO] Starting minecraft server version 1.6.4
+2014-10-02 08:51:40 [INFO] Loading properties
+2014-10-02 08:51:40 [INFO] Default game type: SURVIVAL
+2014-10-02 08:51:40 [INFO] Generating keypair
+2014-10-02 08:51:41 [INFO] Starting Minecraft server on *:25565
+2014-10-02 08:51:41 [INFO] Preparing level "world"
+2014-10-02 08:51:41 [INFO] Preparing start region for level 0
+2014-10-02 08:51:42 [INFO] Preparing spawn area: 23%
+2014-10-02 08:51:43 [INFO] Preparing spawn area: 90%
+2014-10-02 08:51:43 [INFO] Done (2.307s)! For help, type "help" or "?"
+2014-10-02 08:51:50 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 08:53:26 [INFO] Stopping server
+2014-10-02 08:53:26 [INFO] Closing listening thread
+2014-10-02 08:53:26 [INFO] Saving players
+2014-10-02 08:53:26 [INFO] Saving worlds
+2014-10-02 08:53:26 [INFO] Saving chunks for level 'world'/Overworld
+2014-10-02 08:54:04 [INFO] Starting minecraft server version 1.6.4
+2014-10-02 08:54:04 [INFO] Loading properties
+2014-10-02 08:54:04 [INFO] Default game type: SURVIVAL
+2014-10-02 08:54:04 [INFO] Generating keypair
+2014-10-02 08:54:05 [INFO] Starting Minecraft server on *:25565
+2014-10-02 08:54:05 [INFO] Preparing level "world"
+2014-10-02 08:54:05 [INFO] Preparing start region for level 0
+2014-10-02 08:54:06 [INFO] Preparing spawn area: 26%
+2014-10-02 08:54:07 [INFO] Preparing spawn area: 69%
+2014-10-02 08:54:07 [INFO] Done (2.656s)! For help, type "help" or "?"
+2014-10-02 09:02:22 [WARNING] Failed to check session lock, aborting
+2014-10-02 09:02:49 [INFO] Stopping server
+2014-10-02 09:02:49 [INFO] Closing listening thread
+2014-10-02 09:02:49 [INFO] Saving players
+2014-10-02 09:02:49 [INFO] Saving worlds
+2014-10-02 09:02:49 [INFO] Saving chunks for level 'world'/Overworld
+2014-10-02 09:02:49 [WARNING] Failed to check session lock, aborting
+2014-10-02 09:02:49 [INFO] Saving chunks for level 'world'/Nether
+2014-10-02 09:02:49 [INFO] Saving chunks for level 'world'/The End
+2014-10-02 09:02:54 [INFO] Starting minecraft server version 1.6.4
+2014-10-02 09:02:54 [INFO] Loading properties
+2014-10-02 09:02:54 [INFO] Default game type: SURVIVAL
+2014-10-02 09:02:54 [INFO] Generating keypair
+2014-10-02 09:02:55 [INFO] Starting Minecraft server on *:25565
+2014-10-02 09:02:55 [INFO] Preparing level "world"
+2014-10-02 09:02:56 [INFO] Preparing start region for level 0
+2014-10-02 09:02:57 [INFO] Preparing spawn area: 3%
+2014-10-02 09:02:58 [INFO] Preparing spawn area: 5%
+2014-10-02 09:02:59 [INFO] Preparing spawn area: 8%
+2014-10-02 09:03:00 [INFO] Preparing spawn area: 9%
+2014-10-02 09:03:01 [INFO] Preparing spawn area: 12%
+2014-10-02 09:03:02 [INFO] Preparing spawn area: 16%
+2014-10-02 09:03:03 [INFO] Preparing spawn area: 20%
+2014-10-02 09:03:04 [INFO] Preparing spawn area: 27%
+2014-10-02 09:03:05 [INFO] Preparing spawn area: 33%
+2014-10-02 09:03:06 [INFO] Preparing spawn area: 42%
+2014-10-02 09:03:07 [INFO] Preparing spawn area: 52%
+2014-10-02 09:03:08 [INFO] Preparing spawn area: 57%
+2014-10-02 09:03:09 [INFO] Preparing spawn area: 65%
+2014-10-02 09:03:10 [INFO] Preparing spawn area: 72%
+2014-10-02 09:03:11 [INFO] Preparing spawn area: 79%
+2014-10-02 09:03:12 [INFO] Preparing spawn area: 87%
+2014-10-02 09:03:13 [INFO] Preparing spawn area: 99%
+2014-10-02 09:03:14 [INFO] Done (18.379s)! For help, type "help" or "?"
+2014-10-02 09:03:20 [SEVERE] Reached end of stream for /98.210.147.109
+2014-10-02 09:03:29 [INFO] Chani[/98.210.147.109:51305] logged in with entity id 4756 at (-6.5, 64.0, 253.5)
+2014-10-02 09:03:29 [INFO] Chani joined the game
+2014-10-02 09:03:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-02 09:04:35 [INFO] Chani lost connection: disconnect.quitting
+2014-10-02 09:04:35 [INFO] Chani left the game
+2014-10-02 09:04:38 [INFO] Stopping server
+2014-10-02 09:04:38 [INFO] Closing listening thread
+2014-10-02 09:04:38 [INFO] Saving players
+2014-10-02 09:04:38 [INFO] Saving worlds
+2014-10-02 09:04:38 [INFO] Saving chunks for level 'world'/Overworld
+2014-10-02 09:05:02 [INFO] Starting minecraft server version 1.6.4
+2014-10-02 09:05:02 [INFO] Loading properties
+2014-10-02 09:05:02 [INFO] Default game type: SURVIVAL
+2014-10-02 09:05:02 [INFO] Generating keypair
+2014-10-02 09:05:03 [INFO] Starting Minecraft server on *:25565
+2014-10-02 09:05:03 [INFO] Preparing level "towers"
+2014-10-02 09:05:04 [INFO] Preparing start region for level 0
+2014-10-02 09:05:05 [INFO] Preparing spawn area: 3%
+2014-10-02 09:05:06 [INFO] Preparing spawn area: 5%
+2014-10-02 09:05:07 [INFO] Preparing spawn area: 6%
+2014-10-02 09:05:08 [INFO] Preparing spawn area: 9%
+2014-10-02 09:05:09 [INFO] Preparing spawn area: 12%
+2014-10-02 09:05:10 [INFO] Preparing spawn area: 16%
+2014-10-02 09:05:11 [INFO] Preparing spawn area: 20%
+2014-10-02 09:05:12 [INFO] Preparing spawn area: 26%
+2014-10-02 09:05:13 [INFO] Preparing spawn area: 33%
+2014-10-02 09:05:14 [INFO] Preparing spawn area: 43%
+2014-10-02 09:05:15 [INFO] Preparing spawn area: 52%
+2014-10-02 09:05:16 [INFO] Preparing spawn area: 56%
+2014-10-02 09:05:17 [INFO] Preparing spawn area: 63%
+2014-10-02 09:05:18 [INFO] Preparing spawn area: 71%
+2014-10-02 09:05:19 [INFO] Preparing spawn area: 78%
+2014-10-02 09:05:20 [INFO] Preparing spawn area: 87%
+2014-10-02 09:05:21 [INFO] Preparing spawn area: 99%
+2014-10-02 09:05:21 [INFO] Done (18.531s)! For help, type "help" or "?"
+2014-10-02 09:05:29 [INFO] Unknown command. Try /help for a list of commands
+2014-10-02 09:05:33 [INFO] Stopping server
+2014-10-02 09:05:33 [INFO] Closing listening thread
+2014-10-02 09:05:33 [INFO] Saving players
+2014-10-02 09:05:33 [INFO] Saving worlds
+2014-10-02 09:05:33 [INFO] Saving chunks for level 'towers'/Overworld
+2014-10-02 09:05:54 [INFO] Starting minecraft server version 1.6.4
+2014-10-02 09:05:54 [INFO] Loading properties
+2014-10-02 09:05:54 [INFO] Default game type: SURVIVAL
+2014-10-02 09:05:54 [INFO] Generating keypair
+2014-10-02 09:05:54 [INFO] Stopping server
+2014-10-02 09:05:54 [INFO] Saving worlds
+2014-10-02 09:06:13 [INFO] Starting minecraft server version 1.6.4
+2014-10-02 09:06:13 [INFO] Loading properties
+2014-10-02 09:06:13 [INFO] Default game type: SURVIVAL
+2014-10-02 09:06:13 [INFO] Generating keypair
+2014-10-02 09:06:13 [INFO] Starting Minecraft server on *:25565
+2014-10-02 09:06:14 [INFO] Preparing level "levels/towers"
+2014-10-02 09:06:15 [INFO] Preparing start region for level 0
+2014-10-02 09:06:16 [INFO] Preparing spawn area: 3%
+2014-10-02 09:06:17 [INFO] Preparing spawn area: 5%
+2014-10-02 09:06:18 [INFO] Preparing spawn area: 7%
+2014-10-02 09:06:19 [INFO] Preparing spawn area: 10%
+2014-10-02 09:06:20 [INFO] Preparing spawn area: 12%
+2014-10-02 09:06:21 [INFO] Preparing spawn area: 16%
+2014-10-02 09:06:22 [INFO] Preparing spawn area: 20%
+2014-10-02 09:06:23 [INFO] Preparing spawn area: 26%
+2014-10-02 09:06:24 [INFO] Preparing spawn area: 34%
+2014-10-02 09:06:25 [INFO] Preparing spawn area: 41%
+2014-10-02 09:06:26 [INFO] Preparing spawn area: 51%
+2014-10-02 09:06:27 [INFO] Preparing spawn area: 54%
+2014-10-02 09:06:28 [INFO] Preparing spawn area: 63%
+2014-10-02 09:06:29 [INFO] Preparing spawn area: 71%
+2014-10-02 09:06:30 [INFO] Preparing spawn area: 77%
+2014-10-02 09:06:31 [INFO] Preparing spawn area: 84%
+2014-10-02 09:06:32 [INFO] Preparing spawn area: 95%
+2014-10-02 09:06:33 [INFO] Done (19.231s)! For help, type "help" or "?"
+2014-10-02 09:06:35 [INFO] Stopping server
+2014-10-02 09:06:35 [INFO] Closing listening thread
+2014-10-02 09:06:35 [INFO] Saving players
+2014-10-02 09:06:35 [INFO] Saving worlds
+2014-10-02 09:06:35 [INFO] Saving chunks for level 'levels/towers'/Overworld
