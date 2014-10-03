@@ -1,368 +1,154 @@
-[18:31:49] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[18:31:49] [Server thread/INFO]: Loading properties
-[18:31:49] [Server thread/INFO]: Default game type: SURVIVAL
-[18:31:49] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[18:31:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:31:49] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:31:49] [Server thread/INFO]: Debug logging is disabled
-[18:31:49] [Server thread/INFO]: Generating keypair
-[18:31:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:31:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:31:51] [Server thread/INFO]: [Carbon] Loading Carbon v1.5
-[18:31:51] [Server thread/INFO]: [Carbon] Modifying world generation...
-[18:31:51] [Server thread/INFO]: [Carbon] Injected Carbon.injector().stoneBlock into Blocks.STONE
-[18:31:51] [Server thread/INFO]: [Carbon] Injected Carbon.injector().spongeBlock into Blocks.SPONGE
-[18:31:51] [Server thread/INFO]: [Carbon] Done with world generation editing.
-[18:31:51] [Server thread/INFO]: Carbon has finished injecting all 1.8 functionalities.
-[18:31:51] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:31:51] [Server thread/INFO]: Preparing level "worlds/oldhome"
-[18:31:51] [Server thread/INFO]: -------- World Settings For [worlds/oldhome] --------
-[18:31:51] [Server thread/INFO]: Mob Spawn Range: 4
-[18:31:51] [Server thread/INFO]: Anti X-Ray: true
-[18:31:51] [Server thread/INFO]: 	Engine Mode: 1
-[18:31:51] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:31:51] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:31:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:31:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:31:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:31:51] [Server thread/INFO]: Alternative Hopper Ticking: false
-[18:31:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:31:51] [Server thread/INFO]: Random Lighting Updates: false
-[18:31:51] [Server thread/INFO]: Structure Info Saving: true
-[18:31:51] [Server thread/INFO]: Sending up to 5 chunks per packet
-[18:31:51] [Server thread/INFO]: Max Entity Collisions: 8
-[18:31:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:31:51] [Server thread/INFO]: Max TNT Explosions: 100
-[18:31:51] [Server thread/INFO]: View Distance: 10
-[18:31:51] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:31:51] [Server thread/INFO]: Clear tick list: false
-[18:31:51] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:31:51] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:31:51] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:31:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:31:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:31:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:31:51] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_nether] --------
-[18:31:51] [Server thread/INFO]: Mob Spawn Range: 4
-[18:31:51] [Server thread/INFO]: Anti X-Ray: true
-[18:31:51] [Server thread/INFO]: 	Engine Mode: 1
-[18:31:51] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:31:51] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:31:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:31:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:31:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:31:51] [Server thread/INFO]: Alternative Hopper Ticking: false
-[18:31:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:31:51] [Server thread/INFO]: Random Lighting Updates: false
-[18:31:51] [Server thread/INFO]: Structure Info Saving: true
-[18:31:51] [Server thread/INFO]: Sending up to 5 chunks per packet
-[18:31:51] [Server thread/INFO]: Max Entity Collisions: 8
-[18:31:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:31:51] [Server thread/INFO]: Max TNT Explosions: 100
-[18:31:51] [Server thread/INFO]: View Distance: 10
-[18:31:51] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:31:51] [Server thread/INFO]: Clear tick list: false
-[18:31:51] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:31:51] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:31:51] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:31:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:31:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:31:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:31:51] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_the_end] --------
-[18:31:51] [Server thread/INFO]: Mob Spawn Range: 4
-[18:31:51] [Server thread/INFO]: Anti X-Ray: true
-[18:31:51] [Server thread/INFO]: 	Engine Mode: 1
-[18:31:51] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:31:51] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:31:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:31:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:31:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:31:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:31:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:31:52] [Server thread/INFO]: Alternative Hopper Ticking: false
-[18:31:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:31:52] [Server thread/INFO]: Random Lighting Updates: false
-[18:31:52] [Server thread/INFO]: Structure Info Saving: true
-[18:31:52] [Server thread/INFO]: Sending up to 5 chunks per packet
-[18:31:52] [Server thread/INFO]: Max Entity Collisions: 8
-[18:31:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:31:52] [Server thread/INFO]: Max TNT Explosions: 100
-[18:31:52] [Server thread/INFO]: View Distance: 10
-[18:31:52] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:31:52] [Server thread/INFO]: Clear tick list: false
-[18:31:52] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:31:52] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:31:52] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:31:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:31:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:31:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:31:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7463534065174579158)
-[18:31:53] [Server thread/INFO]: Preparing spawn area: 13%
-[18:31:54] [Server thread/INFO]: Preparing spawn area: 72%
-[18:31:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7463534065174579158)
-[18:31:55] [Server thread/INFO]: Preparing spawn area: 59%
-[18:31:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7463534065174579158)
-[18:31:56] [Server thread/INFO]: [Carbon] Enabling Carbon v1.5
-[18:31:56] [Server thread/INFO]: [Carbon] Carbon is enabled.
-[18:31:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:31:56] [Server thread/INFO]: Done (5.044s)! For help, type "help" or "?"
-[18:45:30] [User Authenticator #1/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[18:45:31] [Server thread/INFO]: Chani[/98.210.147.109:64512] logged in with entity id 445 at ([worlds/oldhome] 162.01098463518372, 63.0, 128.9785791540528)
-[18:45:39] [Server thread/WARN]: Skipping Entity with id Rabbit
-[18:47:50] [Server thread/INFO]: Chani issued server command: /give chani diamond-pickaxe
-[18:47:50] [Server thread/INFO]: Chani: Gave Chani some 0 (AIR)[m
-[18:47:54] [Server thread/INFO]: Chani issued server command: /give chani diamond_pickaxe
-[18:47:54] [Server thread/INFO]: Chani: Gave Chani some 278 (DIAMOND_PICKAXE)[m
-[18:48:01] [Server thread/INFO]: Chani issued server command: /give chani obsidian 64
-[18:48:01] [Server thread/INFO]: Chani: Gave Chani some 49 (OBSIDIAN)[m
-[18:48:07] [Server thread/INFO]: Chani issued server command: /give chani fire
-[18:48:07] [Server thread/INFO]: Chani: Gave Chani some 51 (FIRE)[m
-[18:49:08] [Server thread/INFO]: Chani issued server command: /give chani prismarine
-[18:49:08] [Server thread/INFO]: Chani: Gave Chani some 168 (prismarine)[m
-[18:49:14] [Server thread/INFO]: Chani issued server command: /give chani prismarine 63
-[18:49:14] [Server thread/INFO]: Chani: Gave Chani some 168 (prismarine)[m
-[18:51:02] [Server thread/INFO]: Chani issued server command: /spawn
-[18:51:05] [Server thread/INFO]: Chani issued server command: /tp spawn
-[18:51:10] [Server thread/INFO]: Chani issued server command: /help s
-[18:51:21] [Server thread/INFO]: Chani issued server command: /tp chani 0 80 0
-[18:51:21] [Server thread/INFO]: Chani: Teleported Chani to 0.50, 80.50, 0.50[m
-[18:51:49] [Server thread/INFO]: Chani issued server command: /tp
-[18:52:00] [Server thread/INFO]: Chani issued server command: /tp set spawn
-[18:52:06] [Server thread/INFO]: Chani issued server command: /help s
-[18:52:13] [Server thread/INFO]: Chani issued server command: /help t
-[18:52:20] [Server thread/INFO]: Chani issued server command: /help c
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Rabbit
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Rabbit
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Rabbit
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Rabbit
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:35] [Server thread/WARN]: Skipping Entity with id Guardian
-[18:55:36] [Server thread/INFO]: Chani issued server command: /help e
-[18:55:39] [Server thread/INFO]: Chani issued server command: /enchant
-[18:55:57] [Server thread/INFO]: Chani issued server command: /enchant chani effeciency max
-[18:56:05] [Server thread/INFO]: Chani issued server command: /enchant chani Effeciency max
-[18:57:01] [Server thread/INFO]: Chani issued server command: /give chani sand 10
-[18:57:01] [Server thread/INFO]: Chani: Gave Chani some 12 (SAND)[m
-[18:57:31] [Server thread/INFO]: Chani issued server command: /enchant chani 32 max
-[18:57:31] [Server thread/INFO]: Chani: Applied Dig Speed (Lvl 5) on Chani's Diamond Pickaxe[m
-[18:57:45] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[18:57:45] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Pickaxe[m
-[18:57:50] [Server thread/INFO]: Chani issued server command: /enchant chani 35 max
-[18:57:50] [Server thread/INFO]: Chani: Applied Loot Bonus Blocks (Lvl 3) on Chani's Diamond Pickaxe[m
-[18:58:06] [Server thread/INFO]: Chani issued server command: /give chani diamond_armor
-[18:58:06] [Server thread/INFO]: Chani: Gave Chani some 0 (AIR)[m
-[18:58:17] [Server thread/INFO]: Chani issued server command: /give chani diamond 64
-[18:58:17] [Server thread/INFO]: Chani: Gave Chani some 264 (DIAMOND)[m
-[18:58:23] [Server thread/INFO]: Chani issued server command: /give chani wood 64
-[18:58:23] [Server thread/INFO]: Chani: Gave Chani some 5 (WOOD)[m
-[18:59:23] [Server thread/INFO]: Chani issued server command: /enchant chani 0 max
-[18:59:23] [Server thread/INFO]: Chani: Applied Protection Environmental (Lvl 4) on Chani's Diamond Chestplate[m
-[18:59:30] [Server thread/INFO]: Chani issued server command: /enchant chani 1 max
-[18:59:45] [Server thread/INFO]: Chani issued server command: /enchant chani 7 max
-[18:59:45] [Server thread/INFO]: Chani: Applied Thorns (Lvl 3) on Chani's Diamond Chestplate[m
-[18:59:52] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[18:59:52] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Chestplate[m
-[18:59:57] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[18:59:57] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Helmet[m
-[19:00:02] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[19:00:02] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Leggings[m
-[19:00:08] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[19:00:08] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Boots[m
-[19:00:21] [Server thread/INFO]: Chani issued server command: /enchant chani 5 max
-[19:00:21] [Server thread/INFO]: Chani: Applied Oxygen (Lvl 3) on Chani's Diamond Helmet[m
-[19:00:28] [Server thread/INFO]: Chani issued server command: /enchant chani 6 max
-[19:00:28] [Server thread/INFO]: Chani: Applied Water Worker (Lvl 1) on Chani's Diamond Helmet[m
-[19:00:39] [Server thread/INFO]: Chani issued server command: /enchant chani 1 max
-[19:00:39] [Server thread/INFO]: Chani: Applied Protection Fire (Lvl 4) on Chani's Diamond Helmet[m
-[19:00:50] [Server thread/INFO]: Chani issued server command: /enchant chani 2 max
-[19:00:50] [Server thread/INFO]: Chani: Applied Protection Fall (Lvl 4) on Chani's Diamond Boots[m
-[19:00:57] [Server thread/INFO]: Chani issued server command: /enchant chani 3 max
-[19:00:57] [Server thread/INFO]: Chani: Applied Protection Explosions (Lvl 4) on Chani's Diamond Boots[m
-[19:01:19] [Server thread/INFO]: Chani issued server command: /enchant chani 4 max
-[19:01:19] [Server thread/INFO]: Chani: Applied Protection Projectile (Lvl 4) on Chani's Diamond Leggings[m
-[19:02:18] [Server thread/INFO]: Chani issued server command: /enchant chani 16 max
-[19:02:18] [Server thread/INFO]: Chani: Applied Damage All (Lvl 5) on Chani's Diamond Sword[m
-[19:02:25] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[19:02:25] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Sword[m
-[19:02:30] [Server thread/INFO]: Chani issued server command: /enchant chani 21 max
-[19:02:30] [Server thread/INFO]: Chani: Applied Loot Bonus Mobs (Lvl 3) on Chani's Diamond Sword[m
-[19:02:37] [Server thread/INFO]: Chani issued server command: /enchant chani 20 max
-[19:02:37] [Server thread/INFO]: Chani: Applied Fire Aspect (Lvl 2) on Chani's Diamond Sword[m
-[19:02:47] [Server thread/INFO]: Chani issued server command: /enchant chani 33 max
-[19:02:56] [Server thread/INFO]: Chani issued server command: /give chani bow
-[19:02:56] [Server thread/INFO]: Chani: Gave Chani some 261 (BOW)[m
-[19:03:02] [Server thread/INFO]: Chani issued server command: /give chani arrow
-[19:03:02] [Server thread/INFO]: Chani: Gave Chani some 262 (ARROW)[m
-[19:03:20] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[19:03:20] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Bow[m
-[19:03:26] [Server thread/INFO]: Chani issued server command: /enchant chani 21 max
-[19:03:33] [Server thread/INFO]: Chani issued server command: /enchant chani 16 max
-[19:03:39] [Server thread/INFO]: Chani issued server command: /enchant chani 48 max
-[19:03:39] [Server thread/INFO]: Chani: Applied Arrow Damage (Lvl 5) on Chani's Bow[m
-[19:03:45] [Server thread/INFO]: Chani issued server command: /enchant chani 51 max
-[19:03:45] [Server thread/INFO]: Chani: Applied Arrow Infinite (Lvl 1) on Chani's Bow[m
-[19:03:49] [Server thread/INFO]: Chani issued server command: /enchant chani 50 max
-[19:03:49] [Server thread/INFO]: Chani: Applied Arrow Fire (Lvl 1) on Chani's Bow[m
-[19:03:56] [Server thread/INFO]: Chani issued server command: /enchant chani 49 max
-[19:03:56] [Server thread/INFO]: Chani: Applied Arrow Knockback (Lvl 2) on Chani's Bow[m
-[19:05:20] [Server thread/INFO]: Chani issued server command: /give chani beef 64
-[19:05:20] [Server thread/INFO]: Chani: Gave Chani some 363 (RAW_BEEF)[m
-[19:05:27] [Server thread/INFO]: Chani issued server command: /give chani cooked_beef 64
-[19:05:27] [Server thread/INFO]: Chani: Gave Chani some 364 (COOKED_BEEF)[m
-[19:06:52] [Server thread/INFO]: Chani issued server command: /give chani flint_and_steel
-[19:06:52] [Server thread/INFO]: Chani: Gave Chani some 259 (FLINT_AND_STEEL)[m
-[19:09:24] [Server thread/INFO]: Chani issued server command: /tp chani 0 64 0
-[19:09:24] [Server thread/INFO]: Chani: Teleported Chani to 0.50, 64.50, 0.50[m
-[19:11:39] [Server thread/INFO]: Chani issued server command: /give chani torch 64
-[19:11:39] [Server thread/INFO]: Chani: Gave Chani some 50 (TORCH)[m
-[19:12:48] [Server thread/INFO]: Chani issued server command: /give chani torch 64
-[19:12:48] [Server thread/INFO]: Chani: Gave Chani some 50 (TORCH)[m
-[19:14:59] [Server thread/INFO]: Chani issued server command: /give chani glass 64
-[19:14:59] [Server thread/INFO]: Chani: Gave Chani some 20 (GLASS)[m
-[19:17:49] [Server thread/INFO]: Chani issued server command: /tp chani 184 32 61
-[19:17:49] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 32.50, 61.50[m
-[19:19:06] [Server thread/INFO]: Chani issued server command: /tp chani 184 32 61
-[19:19:06] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 32.50, 61.50[m
-[19:19:40] [Server thread/INFO]: Chani issued server command: /help s
-[19:19:44] [Server thread/INFO]: Chani issued server command: /help
-[19:20:02] [Server thread/INFO]: Chani issued server command: /help spigot
-[19:20:05] [Server thread/INFO]: Chani issued server command: /help 2
-[19:20:41] [Server thread/INFO]: Chani issued server command: /mvtp
-[19:21:22] [Server thread/INFO]: Chani issued server command: /tp
-[19:22:04] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
-[19:22:10] [Server thread/INFO]: Chani issued server command: /tp chani 184 32 61
-[19:22:10] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 32.50, 61.50[m
-[19:26:36] [Server thread/INFO]: Chani issued server command: /time set 0
-[19:26:36] [Server thread/INFO]: Chani: Set time to 0[m
-[19:27:44] [Server thread/INFO]: Chani issued server command: /tp chani 184 32 61
-[19:27:44] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 32.50, 61.50[m
-[19:41:13] [Server thread/INFO]: Chani issued server command: /time set 0
-[19:41:13] [Server thread/INFO]: Chani: Set time to 0[m
-[19:41:41] [Server thread/INFO]: Chani issued server command: /help d
-[19:45:14] [Server thread/INFO]: Chani issued server command: /give chani melon 2
-[19:45:14] [Server thread/INFO]: Chani: Gave Chani some 360 (MELON)[m
-[19:45:45] [Server thread/INFO]: Chani issued server command: /give chani melon_block 2
-[19:45:45] [Server thread/INFO]: Chani: Gave Chani some 103 (MELON_BLOCK)[m
-[19:48:21] [Server thread/INFO]: Chani issued server command: /help e
-[19:48:23] [Server thread/INFO]: Chani issued server command: /help g
-[19:48:26] [Server thread/INFO]: Chani issued server command: /help s
-[19:48:32] [Server thread/INFO]: Chani issued server command: /help e
-[19:48:34] [Server thread/INFO]: Chani issued server command: /help a
-[19:48:35] [Server thread/INFO]: Chani issued server command: /help b
-[19:48:36] [Server thread/INFO]: Chani issued server command: /help c
-[19:48:38] [Server thread/INFO]: Chani issued server command: /help d
-[19:48:39] [Server thread/INFO]: Chani issued server command: /help e
-[19:48:41] [Server thread/INFO]: Chani issued server command: /help f
-[19:48:43] [Server thread/INFO]: Chani issued server command: /help g
-[19:48:48] [Server thread/INFO]: Chani issued server command: /help h
-[19:48:50] [Server thread/INFO]: Chani issued server command: /help i
-[19:48:52] [Server thread/INFO]: Chani issued server command: /help j
-[19:48:53] [Server thread/INFO]: Chani issued server command: /help k
-[19:48:55] [Server thread/INFO]: Chani issued server command: /help l
-[19:48:57] [Server thread/INFO]: Chani issued server command: /help m
-[19:48:59] [Server thread/INFO]: Chani issued server command: /help n
-[19:49:00] [Server thread/INFO]: Chani issued server command: /help o
-[19:49:01] [Server thread/INFO]: Chani issued server command: /help op
-[19:49:03] [Server thread/INFO]: Chani issued server command: /help p
-[19:49:05] [Server thread/INFO]: Chani issued server command: /help q
-[19:49:06] [Server thread/INFO]: Chani issued server command: /help r
-[19:49:08] [Server thread/INFO]: Chani issued server command: /help s
-[19:49:13] [Server thread/INFO]: Chani issued server command: /help t
-[19:49:18] [Server thread/INFO]: Chani issued server command: /help u
-[19:49:20] [Server thread/INFO]: Chani issued server command: /help uv
-[19:49:22] [Server thread/INFO]: Chani issued server command: /help v
-[19:49:23] [Server thread/INFO]: Chani issued server command: /help w
-[19:49:25] [Server thread/INFO]: Chani issued server command: /help x
-[19:49:31] [Server thread/INFO]: Chani issued server command: /xp chani 10
-[19:49:45] [Server thread/INFO]: Chani issued server command: /xp 60L chani
-[19:49:45] [Server thread/INFO]: Chani: Given 60 level(s) to Chani[m
-[19:52:21] [Server thread/INFO]: Chani issued server command: /time set 0
-[19:52:21] [Server thread/INFO]: Chani: Set time to 0[m
-[20:04:51] [Server thread/INFO]: Chani issued server command: /give chani diamond_axe
-[20:04:51] [Server thread/INFO]: Chani: Gave Chani some 279 (DIAMOND_AXE)[m
-[20:05:09] [Server thread/INFO]: Chani issued server command: /enchant chani 48 max
-[20:05:19] [Server thread/INFO]: Chani issued server command: /enchant chani 32 max
-[20:05:19] [Server thread/INFO]: Chani: Applied Dig Speed (Lvl 5) on Chani's Diamond Axe[m
-[20:05:24] [Server thread/INFO]: Chani issued server command: /enchant chani 33 max
-[20:05:24] [Server thread/INFO]: Chani: Applied Silk Touch (Lvl 1) on Chani's Diamond Axe[m
-[20:05:30] [Server thread/INFO]: Chani issued server command: /enchant chani 35 max
-[20:07:28] [Server thread/INFO]: Chani issued server command: /give chani diamond_axe
-[20:07:28] [Server thread/INFO]: Chani: Gave Chani some 279 (DIAMOND_AXE)[m
-[20:07:43] [Server thread/INFO]: Chani issued server command: /enchant chani 35 max
-[20:07:43] [Server thread/INFO]: Chani: Applied Loot Bonus Blocks (Lvl 3) on Chani's Diamond Axe[m
-[20:07:49] [Server thread/INFO]: Chani issued server command: /enchant chani 32 max
-[20:07:49] [Server thread/INFO]: Chani: Applied Dig Speed (Lvl 5) on Chani's Diamond Axe[m
-[20:07:52] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[20:07:52] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Axe[m
-[20:07:57] [Server thread/INFO]: Chani issued server command: /enchant chani 16 max
-[20:07:57] [Server thread/INFO]: Chani: Applied Damage All (Lvl 5) on Chani's Diamond Axe[m
-[20:08:09] [Server thread/INFO]: Chani issued server command: /enchant chani 21 max
-[20:08:21] [Server thread/INFO]: Chani issued server command: /enchant chani 20 max
-[20:11:00] [Server thread/INFO]: Chani issued server command: /give chani diamond_pickaxe
-[20:11:00] [Server thread/INFO]: Chani: Gave Chani some 278 (DIAMOND_PICKAXE)[m
-[20:11:15] [Server thread/INFO]: Chani issued server command: /enchant chani 32 max
-[20:11:15] [Server thread/INFO]: Chani: Applied Dig Speed (Lvl 5) on Chani's Diamond Pickaxe[m
-[20:11:18] [Server thread/INFO]: Chani issued server command: /enchant chani 33 max
-[20:11:18] [Server thread/INFO]: Chani: Applied Silk Touch (Lvl 1) on Chani's Diamond Pickaxe[m
-[20:11:20] [Server thread/INFO]: Chani issued server command: /enchant chani 34 max
-[20:11:20] [Server thread/INFO]: Chani: Applied Durability (Lvl 3) on Chani's Diamond Pickaxe[m
-[20:23:42] [Server thread/INFO]: Chani issued server command: /give chani iron_block 64
-[20:23:42] [Server thread/INFO]: Chani: Gave Chani some 42 (IRON_BLOCK)[m
-[20:23:43] [Server thread/INFO]: Chani issued server command: /give chani iron_block 64
-[20:23:43] [Server thread/INFO]: Chani: Gave Chani some 42 (IRON_BLOCK)[m
-[20:24:07] [Server thread/INFO]: Chani issued server command: /give chani iron_block 64
-[20:24:07] [Server thread/INFO]: Chani: Gave Chani some 42 (IRON_BLOCK)[m
-[20:24:08] [Server thread/INFO]: Chani issued server command: /give chani iron_block 64
-[20:24:08] [Server thread/INFO]: Chani: Gave Chani some 42 (IRON_BLOCK)[m
-[20:24:16] [Server thread/INFO]: Chani issued server command: /give chani beacon 3
-[20:24:16] [Server thread/INFO]: Chani: Gave Chani some 138 (BEACON)[m
-[20:26:55] [Server thread/INFO]: Chani issued server command: /time set 0
-[20:26:55] [Server thread/INFO]: Chani: Set time to 0[m
-[20:29:06] [Server thread/INFO]: Chani issued server command: /tp chani 184 32 61
-[20:29:06] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 32.50, 61.50[m
-[20:56:39] [Server thread/INFO]: Chani issued server command: /give chani diamond_block 64
-[20:56:39] [Server thread/INFO]: Chani: Gave Chani some 57 (DIAMOND_BLOCK)[m
-[20:57:57] [Server thread/INFO]: Chani issued server command: /give chani diamond_block 64
-[20:57:57] [Server thread/INFO]: Chani: Gave Chani some 57 (DIAMOND_BLOCK)[m
-[20:59:40] [Server thread/INFO]: Chani issued server command: /give chani diamond_block 64
-[20:59:40] [Server thread/INFO]: Chani: Gave Chani some 57 (DIAMOND_BLOCK)[m
-[21:00:50] [Server thread/INFO]: Chani issued server command: /give chani diamond_block 64
-[21:00:50] [Server thread/INFO]: Chani: Gave Chani some 57 (DIAMOND_BLOCK)[m
-[21:01:38] [Server thread/INFO]: Chani issued server command: /give chani
-[21:08:32] [Server thread/INFO]: Chani issued server command: /tp chani 184 32 61
-[21:08:32] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 32.50, 61.50[m
-[21:08:43] [Server thread/INFO]: Chani lost connection: Disconnected
-[21:08:43] [Server thread/INFO]: Chani left the game.
-[21:13:49] [Thread-4/INFO]: Stopping server
-[21:13:49] [Thread-4/INFO]: [Carbon] Disabling Carbon v1.5
+[21:30:03] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[21:30:03] [Server thread/INFO]: Loading properties
+[21:30:03] [Server thread/INFO]: Default game type: SURVIVAL
+[21:30:04] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[21:30:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:30:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:30:04] [Server thread/INFO]: Debug logging is disabled
+[21:30:04] [Server thread/INFO]: Generating keypair
+[21:30:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:30:05] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:30:05] [Server thread/INFO]: [Carbon] Loading Carbon v1.5
+[21:30:05] [Server thread/INFO]: [Carbon] Modifying world generation...
+[21:30:05] [Server thread/INFO]: [Carbon] Injected Carbon.injector().stoneBlock into Blocks.STONE
+[21:30:05] [Server thread/INFO]: [Carbon] Injected Carbon.injector().spongeBlock into Blocks.SPONGE
+[21:30:05] [Server thread/INFO]: [Carbon] Done with world generation editing.
+[21:30:05] [Server thread/INFO]: Carbon has finished injecting all 1.8 functionalities.
+[21:30:05] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:30:05] [Server thread/INFO]: Preparing level "worlds/oldhome"
+[21:30:05] [Server thread/INFO]: -------- World Settings For [worlds/oldhome] --------
+[21:30:05] [Server thread/INFO]: Mob Spawn Range: 4
+[21:30:05] [Server thread/INFO]: Anti X-Ray: true
+[21:30:05] [Server thread/INFO]: 	Engine Mode: 1
+[21:30:05] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:30:05] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:30:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:30:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:30:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:30:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:30:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:30:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:30:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:30:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:30:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:30:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:30:05] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:30:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:30:05] [Server thread/INFO]: Random Lighting Updates: false
+[21:30:05] [Server thread/INFO]: Structure Info Saving: true
+[21:30:05] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:30:05] [Server thread/INFO]: Max Entity Collisions: 8
+[21:30:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:30:05] [Server thread/INFO]: Max TNT Explosions: 100
+[21:30:05] [Server thread/INFO]: View Distance: 10
+[21:30:05] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:30:05] [Server thread/INFO]: Clear tick list: false
+[21:30:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:30:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:30:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:30:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:30:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:30:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:30:06] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_nether] --------
+[21:30:06] [Server thread/INFO]: Mob Spawn Range: 4
+[21:30:06] [Server thread/INFO]: Anti X-Ray: true
+[21:30:06] [Server thread/INFO]: 	Engine Mode: 1
+[21:30:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:30:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:30:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:30:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:30:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:30:06] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:30:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:30:06] [Server thread/INFO]: Random Lighting Updates: false
+[21:30:06] [Server thread/INFO]: Structure Info Saving: true
+[21:30:06] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:30:06] [Server thread/INFO]: Max Entity Collisions: 8
+[21:30:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:30:06] [Server thread/INFO]: Max TNT Explosions: 100
+[21:30:06] [Server thread/INFO]: View Distance: 10
+[21:30:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:30:06] [Server thread/INFO]: Clear tick list: false
+[21:30:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:30:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:30:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:30:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:30:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:30:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:30:06] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_the_end] --------
+[21:30:06] [Server thread/INFO]: Mob Spawn Range: 4
+[21:30:06] [Server thread/INFO]: Anti X-Ray: true
+[21:30:06] [Server thread/INFO]: 	Engine Mode: 1
+[21:30:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:30:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:30:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:30:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:30:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:30:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:30:06] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:30:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:30:06] [Server thread/INFO]: Random Lighting Updates: false
+[21:30:06] [Server thread/INFO]: Structure Info Saving: true
+[21:30:06] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:30:06] [Server thread/INFO]: Max Entity Collisions: 8
+[21:30:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:30:06] [Server thread/INFO]: Max TNT Explosions: 100
+[21:30:06] [Server thread/INFO]: View Distance: 10
+[21:30:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:30:06] [Server thread/INFO]: Clear tick list: false
+[21:30:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:30:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:30:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:30:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:30:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:30:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:30:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7463534065174579158)
+[21:30:07] [Server thread/INFO]: Preparing spawn area: 15%
+[21:30:08] [Server thread/INFO]: Preparing spawn area: 74%
+[21:30:08] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7463534065174579158)
+[21:30:09] [Server thread/INFO]: Preparing spawn area: 30%
+[21:30:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7463534065174579158)
+[21:30:10] [Server thread/INFO]: [Carbon] Enabling Carbon v1.5
+[21:30:10] [Server thread/INFO]: [Carbon] Carbon is enabled.
+[21:30:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:30:11] [Server thread/INFO]: Done (5.327s)! For help, type "help" or "?"
+[21:30:15] [User Authenticator #1/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
+[21:30:16] [Server thread/INFO]: Chani[/98.210.147.109:65473] logged in with entity id 285 at ([worlds/oldhome] 196.90861046954535, 32.0, 55.77042098131751)
+[21:30:22] [Server thread/INFO]: Chani issued server command: /tp 0 64 0
+[21:30:22] [Server thread/INFO]: Chani: Teleported Chani to 0.50, 64.50, 0.50[m
+[21:30:39] [Server thread/INFO]: Chani issued server command: /tp 184 40 61
+[21:30:39] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 40.50, 61.50[m
+[21:34:29] [Server thread/INFO]: Chani issued server command: /tp 184 40 61
+[21:34:29] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 40.50, 61.50[m
+[21:37:55] [Server thread/INFO]: Chani issued server command: /time set 0
+[21:37:55] [Server thread/INFO]: Chani: Set time to 0[m
+[21:43:31] [Server thread/INFO]: Chani issued server command: /tp 184 40 61
+[21:43:31] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 40.50, 61.50[m
+[21:43:50] [Server thread/INFO]: Chani issued server command: /give chani torch 62
+[21:43:50] [Server thread/INFO]: Chani: Gave Chani some 50 (TORCH)[m
+[21:54:15] [Server thread/INFO]: Chani lost connection: Disconnected
+[21:54:15] [Server thread/INFO]: Chani left the game.
+[21:55:00] [User Authenticator #2/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
+[21:55:00] [Server thread/INFO]: Chani[/98.210.147.109:1120] logged in with entity id 3769 at ([worlds/oldhome] 193.85126169479003, 40.0, 68.8483254096463)
+[22:03:36] [Server thread/INFO]: Chani issued server command: /set time 0
+[22:03:45] [Server thread/INFO]: Chani issued server command: /time set 0
+[22:03:45] [Server thread/INFO]: Chani: Set time to 0[m
+[22:14:19] [Server thread/INFO]: Chani issued server command: /time set 0
+[22:14:19] [Server thread/INFO]: Chani: Set time to 0[m
+[22:25:27] [Server thread/INFO]: Chani issued server command: /time set 0
+[22:25:27] [Server thread/INFO]: Chani: Set time to 0[m
+[23:15:00] [Thread-4/INFO]: Stopping server
+[23:15:00] [Thread-4/INFO]: [Carbon] Disabling Carbon v1.5
