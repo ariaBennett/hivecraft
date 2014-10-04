@@ -1,0 +1,20 @@
+uuid: 232f5f76-3c82-4ff0-b524-24ab40bf7f63
+timestamps:
+  login: 1412454640844
+  lastteleport: 1412455082550
+  logout: 1412455429902
+ipAddress: 50.1.102.195
+lastlocation:
+  world: worlds/oldhome
+  x: 254.5
+  y: 93.0625
+  z: -6.5
+  yaw: 246.15033
+  pitch: 44.55
+logoutlocation:
+  world: worlds/oldhome
+  x: 255.97220740391094
+  y: 83.0
+  z: -4.568407368039897
+  yaw: -115.949585
+  pitch: 15.900003

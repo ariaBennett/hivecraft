@@ -1,0 +1,21 @@
+uuid: 603f43a3-0e11-4e48-b2d7-744c75ed102e
+timestamps:
+  login: 1412393293919
+  logout: 1412396118790
+  lastteleport: 1412395248592
+ipAddress: 50.131.225.116
+afk: false
+logoutlocation:
+  world: worlds/oldhome
+  x: 200.7269808905447
+  y: 70.0
+  z: 328.50915564162995
+  yaw: 67.77036
+  pitch: 22.6499
+lastlocation:
+  world: worlds/oldhome_nether
+  x: 28.842038211032307
+  y: 61.0
+  z: 42.99524938404923
+  yaw: 31.930658
+  pitch: 2.250005

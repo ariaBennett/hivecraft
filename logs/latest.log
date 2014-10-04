@@ -1,154 +1,659 @@
-[21:30:03] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[21:30:03] [Server thread/INFO]: Loading properties
-[21:30:03] [Server thread/INFO]: Default game type: SURVIVAL
-[21:30:04] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[21:30:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:30:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:30:04] [Server thread/INFO]: Debug logging is disabled
-[21:30:04] [Server thread/INFO]: Generating keypair
-[21:30:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:30:05] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[21:30:05] [Server thread/INFO]: [Carbon] Loading Carbon v1.5
-[21:30:05] [Server thread/INFO]: [Carbon] Modifying world generation...
-[21:30:05] [Server thread/INFO]: [Carbon] Injected Carbon.injector().stoneBlock into Blocks.STONE
-[21:30:05] [Server thread/INFO]: [Carbon] Injected Carbon.injector().spongeBlock into Blocks.SPONGE
-[21:30:05] [Server thread/INFO]: [Carbon] Done with world generation editing.
-[21:30:05] [Server thread/INFO]: Carbon has finished injecting all 1.8 functionalities.
-[21:30:05] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[21:30:05] [Server thread/INFO]: Preparing level "worlds/oldhome"
-[21:30:05] [Server thread/INFO]: -------- World Settings For [worlds/oldhome] --------
-[21:30:05] [Server thread/INFO]: Mob Spawn Range: 4
-[21:30:05] [Server thread/INFO]: Anti X-Ray: true
-[21:30:05] [Server thread/INFO]: 	Engine Mode: 1
-[21:30:05] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[21:30:05] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[21:30:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:30:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:30:05] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:30:05] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:30:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:30:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:30:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:30:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:30:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[21:30:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:30:05] [Server thread/INFO]: Alternative Hopper Ticking: false
-[21:30:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[21:30:05] [Server thread/INFO]: Random Lighting Updates: false
-[21:30:05] [Server thread/INFO]: Structure Info Saving: true
-[21:30:05] [Server thread/INFO]: Sending up to 5 chunks per packet
-[21:30:05] [Server thread/INFO]: Max Entity Collisions: 8
-[21:30:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[21:30:05] [Server thread/INFO]: Max TNT Explosions: 100
-[21:30:05] [Server thread/INFO]: View Distance: 10
-[21:30:05] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[21:30:05] [Server thread/INFO]: Clear tick list: false
-[21:30:05] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:30:05] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:30:05] [Server thread/INFO]: Item Merge Radius: 2.5
-[21:30:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[21:30:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:30:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:30:06] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_nether] --------
-[21:30:06] [Server thread/INFO]: Mob Spawn Range: 4
-[21:30:06] [Server thread/INFO]: Anti X-Ray: true
-[21:30:06] [Server thread/INFO]: 	Engine Mode: 1
-[21:30:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[21:30:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[21:30:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:30:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[21:30:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:30:06] [Server thread/INFO]: Alternative Hopper Ticking: false
-[21:30:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[21:30:06] [Server thread/INFO]: Random Lighting Updates: false
-[21:30:06] [Server thread/INFO]: Structure Info Saving: true
-[21:30:06] [Server thread/INFO]: Sending up to 5 chunks per packet
-[21:30:06] [Server thread/INFO]: Max Entity Collisions: 8
-[21:30:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[21:30:06] [Server thread/INFO]: Max TNT Explosions: 100
-[21:30:06] [Server thread/INFO]: View Distance: 10
-[21:30:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[21:30:06] [Server thread/INFO]: Clear tick list: false
-[21:30:06] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:30:06] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:30:06] [Server thread/INFO]: Item Merge Radius: 2.5
-[21:30:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[21:30:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:30:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:30:06] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_the_end] --------
-[21:30:06] [Server thread/INFO]: Mob Spawn Range: 4
-[21:30:06] [Server thread/INFO]: Anti X-Ray: true
-[21:30:06] [Server thread/INFO]: 	Engine Mode: 1
-[21:30:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[21:30:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[21:30:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:30:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:30:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[21:30:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:30:06] [Server thread/INFO]: Alternative Hopper Ticking: false
-[21:30:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[21:30:06] [Server thread/INFO]: Random Lighting Updates: false
-[21:30:06] [Server thread/INFO]: Structure Info Saving: true
-[21:30:06] [Server thread/INFO]: Sending up to 5 chunks per packet
-[21:30:06] [Server thread/INFO]: Max Entity Collisions: 8
-[21:30:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[21:30:06] [Server thread/INFO]: Max TNT Explosions: 100
-[21:30:06] [Server thread/INFO]: View Distance: 10
-[21:30:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[21:30:06] [Server thread/INFO]: Clear tick list: false
-[21:30:06] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:30:06] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:30:06] [Server thread/INFO]: Item Merge Radius: 2.5
-[21:30:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[21:30:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:30:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:30:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7463534065174579158)
-[21:30:07] [Server thread/INFO]: Preparing spawn area: 15%
-[21:30:08] [Server thread/INFO]: Preparing spawn area: 74%
-[21:30:08] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7463534065174579158)
-[21:30:09] [Server thread/INFO]: Preparing spawn area: 30%
-[21:30:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7463534065174579158)
-[21:30:10] [Server thread/INFO]: [Carbon] Enabling Carbon v1.5
-[21:30:10] [Server thread/INFO]: [Carbon] Carbon is enabled.
-[21:30:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:30:11] [Server thread/INFO]: Done (5.327s)! For help, type "help" or "?"
-[21:30:15] [User Authenticator #1/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[21:30:16] [Server thread/INFO]: Chani[/98.210.147.109:65473] logged in with entity id 285 at ([worlds/oldhome] 196.90861046954535, 32.0, 55.77042098131751)
-[21:30:22] [Server thread/INFO]: Chani issued server command: /tp 0 64 0
-[21:30:22] [Server thread/INFO]: Chani: Teleported Chani to 0.50, 64.50, 0.50[m
-[21:30:39] [Server thread/INFO]: Chani issued server command: /tp 184 40 61
-[21:30:39] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 40.50, 61.50[m
-[21:34:29] [Server thread/INFO]: Chani issued server command: /tp 184 40 61
-[21:34:29] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 40.50, 61.50[m
-[21:37:55] [Server thread/INFO]: Chani issued server command: /time set 0
-[21:37:55] [Server thread/INFO]: Chani: Set time to 0[m
-[21:43:31] [Server thread/INFO]: Chani issued server command: /tp 184 40 61
-[21:43:31] [Server thread/INFO]: Chani: Teleported Chani to 184.50, 40.50, 61.50[m
-[21:43:50] [Server thread/INFO]: Chani issued server command: /give chani torch 62
-[21:43:50] [Server thread/INFO]: Chani: Gave Chani some 50 (TORCH)[m
-[21:54:15] [Server thread/INFO]: Chani lost connection: Disconnected
-[21:54:15] [Server thread/INFO]: Chani left the game.
-[21:55:00] [User Authenticator #2/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[21:55:00] [Server thread/INFO]: Chani[/98.210.147.109:1120] logged in with entity id 3769 at ([worlds/oldhome] 193.85126169479003, 40.0, 68.8483254096463)
-[22:03:36] [Server thread/INFO]: Chani issued server command: /set time 0
-[22:03:45] [Server thread/INFO]: Chani issued server command: /time set 0
-[22:03:45] [Server thread/INFO]: Chani: Set time to 0[m
-[22:14:19] [Server thread/INFO]: Chani issued server command: /time set 0
-[22:14:19] [Server thread/INFO]: Chani: Set time to 0[m
-[22:25:27] [Server thread/INFO]: Chani issued server command: /time set 0
-[22:25:27] [Server thread/INFO]: Chani: Set time to 0[m
-[23:15:00] [Thread-4/INFO]: Stopping server
-[23:15:00] [Thread-4/INFO]: [Carbon] Disabling Carbon v1.5
+[16:43:53] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:43:53] [Server thread/INFO]: Loading properties
+[16:43:53] [Server thread/INFO]: Default game type: SURVIVAL
+[16:43:53] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[16:43:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:43:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:43:53] [Server thread/INFO]: Debug logging is disabled
+[16:43:53] [Server thread/INFO]: Generating keypair
+[16:43:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:43:55] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:43:55] [Server thread/INFO]: [Carbon] Loading Carbon v1.5
+[16:43:55] [Server thread/INFO]: [Carbon] Modifying world generation...
+[16:43:55] [Server thread/INFO]: [Carbon] Injected Carbon.injector().stoneBlock into Blocks.STONE
+[16:43:55] [Server thread/INFO]: [Carbon] Injected Carbon.injector().spongeBlock into Blocks.SPONGE
+[16:43:55] [Server thread/INFO]: [Carbon] Done with world generation editing.
+[16:43:55] [Server thread/INFO]: Carbon has finished injecting all 1.8 functionalities.
+[16:43:55] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.7.2
+[16:43:55] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[16:43:55] [Server thread/INFO]: [BloodMoon] Loading BloodMoon v0.23.1
+[16:43:55] [Server thread/INFO]: [ChopTree2] Loading ChopTree2 v2.3.0
+[16:43:55] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[16:43:55] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[16:43:55] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[16:43:55] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[16:43:55] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[16:43:55] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v0.23.1
+[16:43:55] [Server thread/ERROR]: Error occurred while enabling BloodMoon v0.23.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/v1_4_R1/EntityCreeper
+	at uk.co.jacekk.bukkit.bloodmoon.entity.BloodMoonEntityType.<clinit>(BloodMoonEntityType.java:13) ~[?:?]
+	at uk.co.jacekk.bukkit.bloodmoon.BloodMoon.onEnable(BloodMoon.java:55) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[spigot-1649.jar:git-Spigot-1649]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [spigot-1649.jar:git-Spigot-1649]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) [spigot-1649.jar:git-Spigot-1649]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [spigot-1649.jar:git-Spigot-1649]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [spigot-1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.init(DedicatedServer.java:153) [spigot-1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:458) [spigot-1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [spigot-1649.jar:git-Spigot-1649]
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_4_R1.EntityCreeper
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[spigot-1649.jar:git-Spigot-1649]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot-1649.jar:git-Spigot-1649]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425) ~[?:1.7.0_65]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358) ~[?:1.7.0_65]
+	... 10 more
+[16:43:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:43:56] [Server thread/INFO]: Preparing level "worlds/oldhome"
+[16:43:56] [Server thread/INFO]: -------- World Settings For [worlds/oldhome] --------
+[16:43:56] [Server thread/INFO]: Mob Spawn Range: 4
+[16:43:56] [Server thread/INFO]: Anti X-Ray: true
+[16:43:56] [Server thread/INFO]: 	Engine Mode: 1
+[16:43:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:43:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:43:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:43:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:43:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:43:56] [Server thread/INFO]: Alternative Hopper Ticking: false
+[16:43:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:43:56] [Server thread/INFO]: Random Lighting Updates: false
+[16:43:56] [Server thread/INFO]: Structure Info Saving: true
+[16:43:56] [Server thread/INFO]: Sending up to 5 chunks per packet
+[16:43:56] [Server thread/INFO]: Max Entity Collisions: 8
+[16:43:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:43:56] [Server thread/INFO]: Max TNT Explosions: 100
+[16:43:56] [Server thread/INFO]: View Distance: 10
+[16:43:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:43:56] [Server thread/INFO]: Clear tick list: false
+[16:43:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:43:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:43:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:43:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:43:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:43:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:43:56] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_nether] --------
+[16:43:56] [Server thread/INFO]: Mob Spawn Range: 4
+[16:43:56] [Server thread/INFO]: Anti X-Ray: true
+[16:43:56] [Server thread/INFO]: 	Engine Mode: 1
+[16:43:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:43:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:43:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:43:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:43:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:43:56] [Server thread/INFO]: Alternative Hopper Ticking: false
+[16:43:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:43:56] [Server thread/INFO]: Random Lighting Updates: false
+[16:43:56] [Server thread/INFO]: Structure Info Saving: true
+[16:43:56] [Server thread/INFO]: Sending up to 5 chunks per packet
+[16:43:56] [Server thread/INFO]: Max Entity Collisions: 8
+[16:43:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:43:56] [Server thread/INFO]: Max TNT Explosions: 100
+[16:43:56] [Server thread/INFO]: View Distance: 10
+[16:43:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:43:56] [Server thread/INFO]: Clear tick list: false
+[16:43:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:43:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:43:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:43:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:43:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:43:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:43:56] [Server thread/INFO]: -------- World Settings For [worlds/oldhome_the_end] --------
+[16:43:56] [Server thread/INFO]: Mob Spawn Range: 4
+[16:43:56] [Server thread/INFO]: Anti X-Ray: true
+[16:43:56] [Server thread/INFO]: 	Engine Mode: 1
+[16:43:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:43:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:43:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:43:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:43:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:43:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:43:56] [Server thread/INFO]: Alternative Hopper Ticking: false
+[16:43:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:43:56] [Server thread/INFO]: Random Lighting Updates: false
+[16:43:56] [Server thread/INFO]: Structure Info Saving: true
+[16:43:56] [Server thread/INFO]: Sending up to 5 chunks per packet
+[16:43:56] [Server thread/INFO]: Max Entity Collisions: 8
+[16:43:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:43:56] [Server thread/INFO]: Max TNT Explosions: 100
+[16:43:56] [Server thread/INFO]: View Distance: 10
+[16:43:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:43:56] [Server thread/INFO]: Clear tick list: false
+[16:43:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:43:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:43:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:43:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:43:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:43:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:43:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7463534065174579158)
+[16:43:57] [Server thread/INFO]: Preparing spawn area: 28%
+[16:43:58] [Server thread/INFO]: Preparing spawn area: 88%
+[16:43:59] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7463534065174579158)
+[16:44:00] [Server thread/INFO]: Preparing spawn area: 59%
+[16:44:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7463534065174579158)
+[16:44:00] [Server thread/INFO]: [Carbon] Enabling Carbon v1.5
+[16:44:00] [Server thread/INFO]: [Carbon] Carbon is enabled.
+[16:44:00] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.7.2
+[16:44:00] [Server thread/INFO]: [ClearLag] Loading modules...
+[16:44:00] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[16:44:00] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[16:44:00] [Thread-8/INFO]: [ClearLag] Checking for updates...
+[16:44:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[16:44:01] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:44:02] [Server thread/INFO]: [ChopTree2] Enabling ChopTree2 v2.3.0
+[16:44:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[16:44:02] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[16:44:02] [Server thread/INFO]: git-Spigot-1649 (MC: 1.7.10)
+[16:44:02] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[16:44:04] [Thread-8/INFO]: [ClearLag] No updates found!
+[16:44:05] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[16:44:05] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[16:44:05] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[16:44:05] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[16:44:05] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[16:44:05] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[16:44:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:44:06] [Server thread/INFO]: Done (10.046s)! For help, type "help" or "?"
+[16:44:20] [User Authenticator #1/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
+[16:44:21] [Server thread/INFO]: Chani[/98.210.147.109:7477] logged in with entity id 276 at ([worlds/oldhome] 191.57091891644663, 70.0, 327.83794619826597)
+[16:45:00] [Server thread/INFO]: Chani issued server command: /deop aygtets
+[16:45:00] [Server thread/INFO]: Chani: De-opped aygtets[m
+[16:45:06] [Server thread/INFO]: Chani issued server command: /deop op
+[16:45:07] [Server thread/INFO]: Chani: De-opped op[m
+[16:45:09] [Server thread/INFO]: Chani issued server command: /op
+[16:45:11] [Server thread/INFO]: Chani issued server command: /list
+[16:45:15] [Server thread/INFO]: Chani issued server command: /op list
+[16:45:16] [Server thread/INFO]: Chani: Opped list[m
+[16:45:19] [Server thread/INFO]: Chani issued server command: /deop list
+[16:45:19] [Server thread/INFO]: Chani: De-opped list[m
+[16:45:58] [Server thread/INFO]: Chani issued server command: /deop UncannyMelon
+[16:45:58] [Server thread/INFO]: Chani: De-opped UncannyMelon[m
+[16:46:03] [Server thread/INFO]: Chani issued server command: /deop Alex
+[16:46:03] [Server thread/INFO]: Chani: De-opped Alex[m
+[16:46:23] [Server thread/INFO]: Chani issued server command: /deop chani
+[16:46:23] [Server thread/INFO]: Chani: De-opped chani[m
+[16:51:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:51:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:52:06] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 12 Entities![m
+[16:59:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:59:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:00:06] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 21 Entities![m
+[17:07:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:07:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:08:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 24 Entities![m
+[17:13:32] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_1710
+[17:15:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:15:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:16:13] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 28 Entities![m
+[17:23:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:23:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:24:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 21 Entities![m
+[17:31:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:31:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:32:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 22 Entities![m
+[17:32:30] [Server thread/INFO]: Chani lost connection: Disconnected
+[17:32:30] [Server thread/INFO]: Chani left the game.
+[17:39:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:40:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:40:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 19 Entities![m
+[17:47:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:48:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:48:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 12 Entities![m
+[17:55:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:56:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:56:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 14 Entities![m
+[18:03:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:04:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:04:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 19 Entities![m
+[18:07:40] [User Authenticator #2/INFO]: UUID of player UncannyMelon is 2491ef2d-b142-48c9-8431-f0d781c898f1
+[18:07:40] [Server thread/INFO]: UncannyMelon[/76.14.71.96:50081] logged in with entity id 4521 at ([worlds/oldhome] 210.30000001192093, 70.0, 328.7136290217682)
+[18:08:42] [Server thread/INFO]: UncannyMelon issued server command: /gamemode 0 UncannyMelon
+[18:08:42] [Server thread/INFO]: §cUncannyMelon §4was denied access to command.
+[18:10:48] [Server thread/INFO]: UncannyMelon lost connection: Disconnected
+[18:10:48] [Server thread/INFO]: UncannyMelon left the game.
+[18:10:54] [User Authenticator #3/INFO]: UUID of player UncannyMelon is 2491ef2d-b142-48c9-8431-f0d781c898f1
+[18:10:54] [Server thread/INFO]: UncannyMelon[/76.14.71.96:50751] logged in with entity id 4843 at ([worlds/oldhome] 194.50128756259392, 30.0, 327.97741985301144)
+[18:10:56] [Server thread/INFO]: UncannyMelon issued server command: /home
+[18:11:09] [Async Chat Thread - #0/INFO]: [m<UncannyMelon[m> home[m
+[18:11:11] [Server thread/INFO]: UncannyMelon issued server command: /home
+[18:11:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:12:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:12:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[18:19:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:20:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:20:30] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[18:27:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:28:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:28:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 24 Entities![m
+[18:35:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:36:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:36:34] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 17 Entities![m
+[18:42:53] [User Authenticator #4/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
+[18:42:54] [Server thread/INFO]: Chani[/98.210.147.109:8841] logged in with entity id 8210 at ([worlds/oldhome] 182.22470637860755, 40.0, 63.01476482522415)
+[18:43:00] [Async Chat Thread - #1/INFO]: [m<~Aria[m> meow[m
+[18:43:01] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> oh good[m
+[18:43:23] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Can you /gamemode 0 UncannyMelon?[m
+[18:43:32] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> I'm stuck on creative[m
+[18:43:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:43:36] [Async Chat Thread - #1/INFO]: [m<~Aria[m> sure[m
+[18:43:46] [Server thread/INFO]: CONSOLE issued server command: /gamemode 0 uncannymelon
+[18:43:46] [Server thread/INFO]: [0;33;22mSet game mode[0;31;1m survival [0;33;22mfor UncannyMelon[m[0;33;22m.[m
+[18:43:59] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> My deck is coming along :)[m
+[18:44:03] [Async Chat Thread - #1/INFO]: [m<~Aria[m> :)[m
+[18:44:15] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> And upstairs we're gonna have trees[m
+[18:44:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:44:20] [Async Chat Thread - #1/INFO]: [m<~Aria[m> i've removed mod powers from everyone, even me, michael and i were depressed about being gods[m
+[18:44:26] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> And this'll be for the sheep[m
+[18:44:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 23 Entities![m
+[18:44:43] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> probably gonn go out and wrap a bit around the house as I expand[m
+[18:45:11] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> oh so i did steal this jukebox[m
+[18:45:25] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> But I had a record in the last world[m
+[18:45:27] [Async Chat Thread - #1/INFO]: [m<~Aria[m> it's ok[m
+[18:45:29] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> and wanted to pick one here[m
+[18:46:11] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Did you grab my iron?[m
+[18:46:16] [Async Chat Thread - #1/INFO]: [m<~Aria[m> no[m
+[18:46:19] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> weird[m
+[18:46:30] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Your additions were cute[m
+[18:46:35] [Async Chat Thread - #1/INFO]: [m<~Aria[m> :)[m
+[18:46:42] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> I added to this one\[m
+[18:47:06] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> ah excellent[m
+[18:47:31] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> I'll be going tree hunting at some point[m
+[18:47:39] [Async Chat Thread - #1/INFO]: [m<~Aria[m> trees are choppy[m
+[18:47:49] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Yeah I checked the plugins list[m
+[18:47:51] [Server thread/INFO]: UncannyMelon issued server command: /plugins
+[18:48:02] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Blood moon too[m
+[18:48:08] [Async Chat Thread - #1/INFO]: [m<~Aria[m> i haven't seen a blood moon yet[m
+[18:48:19] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> I think carbon is a little superflous with essentials installed but whatev s[m
+[18:48:26] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> and you have to configure blood moon probably[m
+[18:48:32] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> oh man[m
+[18:48:46] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> your island if it wasn't lit would be the perfect place to hold it[m
+[18:49:03] [Async Chat Thread - #1/INFO]: [m<~Aria[m> sounds good[m
+[18:49:14] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Oh and I should look up the creeper heal plugin[m
+[18:49:49] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> I know you want survival and a challenge and all but trust me it will mean fewer headaches[m
+[18:49:51] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> in the long run[m
+[18:50:04] [Async Chat Thread - #1/INFO]: [m<~Aria[m> im not sure how to get the survival feel back[m
+[18:50:09] [Async Chat Thread - #1/INFO]: [m<~Aria[m> i dont really want to do anything[m
+[18:50:21] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> WEll you could try you know[m
+[18:50:24] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> building things[m
+[18:50:29] [Async Chat Thread - #1/INFO]: [m<~Aria[m> nothing i want to build[m
+[18:50:48] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Hm[m
+[18:51:07] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> Ugh I have to go[m
+[18:51:10] [Async Chat Thread - #1/INFO]: [m<~Aria[m> ok[m
+[18:51:17] [Async Chat Thread - #1/INFO]: [m<UncannyMelon[m> l8r[m
+[18:51:18] [Server thread/INFO]: UncannyMelon lost connection: Disconnected
+[18:51:18] [Server thread/INFO]: UncannyMelon left the game.
+[18:51:20] [Async Chat Thread - #1/INFO]: [m<~Aria[m> bye[m
+[18:51:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:52:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:52:20] [Server thread/INFO]: Chani lost connection: Disconnected
+[18:52:20] [Server thread/INFO]: Chani left the game.
+[18:52:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[18:59:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:00:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:00:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 17 Entities![m
+[19:07:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:08:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:08:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[19:15:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:16:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:16:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 17 Entities![m
+[19:23:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:24:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:24:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[19:31:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:32:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:32:48] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 21 Entities![m
+[19:39:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:40:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:40:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 14 Entities![m
+[19:47:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:48:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:48:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[19:55:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:56:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:56:52] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 19 Entities![m
+[20:03:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:04:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:04:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[20:11:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:12:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:12:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[20:19:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:20:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:21:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 20 Entities![m
+[20:27:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:28:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:29:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[20:30:40] [User Authenticator #5/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.nether_wart is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.fence_gate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.sandstone_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.netherrack is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.carpet is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.netherrack is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.glass is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_hoe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.fence is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.red_mushroom_block is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.crouchOneCm is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.shears is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.potato is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.double_plant is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.iron_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.flint_and_steel is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.yellow_flower is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wool is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.bowl is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.anvil is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.chest is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.furnace is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.cobblestone_wall is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.bed is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.sand is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.cobblestone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.iron_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.cooked_chicken is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.wooden_axe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.sandstone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.birch_fence_gate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.waterlily is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.chest is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.redstone_torch is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_door is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.map is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.diamond_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.rabbit is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.flower_pot is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.birch_fence_gate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.fence_gate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.log is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.furnace is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.torch is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.log is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.obsidian is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.planks is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.talkedToVillager is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.sandstone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.cooked_chicken is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.boat is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.torch is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.coal is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.bread is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.bed is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stone_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.cooked_mutton is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.golden_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.wooden_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.water_bucket is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stone_axe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.clay is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wheat_seeds is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.yellow_flower is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.gold_ore is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.melon_seeds is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.furnace is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.birch_door is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.sandstone_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.rabbit_stew is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.ladder is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.double_plant is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.potion is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.golden_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.stone_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.bookshelf is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.book is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.pumpkin is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.cooked_mutton is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.melon is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.vine is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_button is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.chest is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.red_flower is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.torch is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.birch_fence is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.cooked_beef is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.iron_ore is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.birch_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_pressure_plate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_pressure_plate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.brown_mushroom is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.oak_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stone_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.cobblestone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.ladder is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_shovel is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.carpet is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stained_hardened_clay is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.stone_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.flower_pot is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.wooden_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.melon_seeds is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.log2 is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stone_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.flint_and_steel is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.sapling is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.golden_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.anvil is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.boat is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.cooked_beef is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.wooden_slab is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.rabbit_stew is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.crafting_table is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.birch_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stone_slab is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.cactus is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.fence is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.oak_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.melon_block is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.egg is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.iron_block is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.planks is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.crafting_table is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.paper is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stone_slab is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.killEntity.Rabbit is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.bookshelf is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stone_hoe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_hoe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.obsidian is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.painting is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.iron_ingot is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.wooden_shovel is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.glass is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.ender_pearl is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stone_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.sapling is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.timeSinceDeath is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.leaves is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.leaves2 is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.gravel is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.golden_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.painting is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.bucket is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.pumpkin_seeds is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_door is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.birch_fence is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.reeds is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.red_flower is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.stone_slab is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.sand is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.dye is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.fence is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.gold_ingot is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.pumpkin_seeds is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.birch_fence is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.golden_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.leather is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.birch_fence_gate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.glass is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stick is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_axe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_slab is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.baked_potato is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.sandstone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.compass is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.coal_ore is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.wooden_button is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.bread is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.log2 is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.wooden_pressure_plate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.tallgrass is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stone_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.iron_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stone_axe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.crafting_table is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.stone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.bucket is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.cobblestone_wall is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.dirt is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.sign is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.deadbush is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.golden_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.birch_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.bookshelf is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.fence_gate is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.brick is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.birch_door is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.carrot is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.trapdoor is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.anvil is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.sandstone_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.lava_bucket is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.oak_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stone_hoe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.lapis_ore is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.carpet is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.stained_hardened_clay is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_button is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.stone is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.apple is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.iron_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.ladder is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.cobblestone_wall is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.sign is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_slab is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.gravel is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.cooked_rabbit is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.stone_stairs is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.planks is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.trapdoor is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.mineBlock.minecraft.redstone_ore is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_axe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.shears is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.wooden_sword is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.wooden_shovel is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.iron_pickaxe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.craftItem.minecraft.sugar is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.breakItem.minecraft.stone_axe is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.sprintOneCm is
+[20:30:40] [Server thread/WARN]: Invalid statistic in ./worlds/oldhome/stats/232f5f76-3c82-4ff0-b524-24ab40bf7f63.json: Don't know what stat.useItem.minecraft.dirt is
+[20:30:40] [Server thread/INFO]: Chexala[/50.1.102.195:51874] logged in with entity id 9963 at ([worlds/oldhome] 256.55676774919664, 83.0, -4.000950703385735)
+[20:30:41] [pool-4-thread-1/INFO]: Creating empty config: /home/aria/hivecraft/plugins/Essentials/userdata/chexala.yml
+[20:30:57] [Server thread/INFO]: Chexala issued server command: /help
+[20:31:26] [Server thread/INFO]: Chexala issued server command: /help 2
+[20:31:56] [Server thread/INFO]: Chexala issued server command: /help 3
+[20:32:27] [Server thread/INFO]: Chexala issued server command: /help 5
+[20:32:46] [Server thread/INFO]: Chexala issued server command: /spawn
+[20:35:39] [Server thread/INFO]: Chexala issued server command: /home
+[20:36:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:36:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:37:03] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 17 Entities![m
+[20:38:02] [Server thread/INFO]: Chexala issued server command: /home
+[20:43:52] [Server thread/INFO]: Chexala lost connection: Disconnected
+[20:43:52] [Server thread/INFO]: Chexala left the game.
+[20:44:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:44:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:45:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 19 Entities![m
+[20:52:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:52:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:53:10] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[21:00:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:00:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:01:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[21:08:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:08:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:09:18] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[21:16:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:16:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:17:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[21:24:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:24:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:25:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 20 Entities![m
+[21:32:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:32:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:33:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[21:40:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:40:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:41:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 19 Entities![m
+[21:48:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:49:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:49:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[21:56:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[21:57:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[21:57:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[22:04:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[22:05:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[22:05:30] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[22:12:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[22:13:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[22:13:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[22:20:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[22:21:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[22:21:34] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[22:28:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[22:29:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[22:29:36] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[22:36:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[22:37:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[22:37:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 17 Entities![m
+[22:44:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[22:45:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[22:45:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[22:52:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[22:53:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[22:53:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+[23:00:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[23:01:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[23:01:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 19 Entities![m
+[23:08:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[23:09:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[23:09:41] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[23:16:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[23:17:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[23:17:46] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 13 Entities![m
+[23:24:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[23:25:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[23:25:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[23:32:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[23:33:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[23:33:52] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 19 Entities![m
+[23:40:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[23:41:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[23:41:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[23:48:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[23:49:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[23:49:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[23:51:51] [Thread-4/INFO]: Stopping server
+[23:51:51] [Thread-4/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1

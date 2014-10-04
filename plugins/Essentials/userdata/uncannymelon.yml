@@ -1,0 +1,21 @@
+uuid: 2491ef2d-b142-48c9-8431-f0d781c898f1
+timestamps:
+  login: 1412446254150
+  logout: 1412448677336
+  lastteleport: 1412446271999
+ipAddress: 76.14.71.96
+socialspy: true
+logoutlocation:
+  world: worlds/oldhome
+  x: 217.11258493282173
+  y: 63.0
+  z: 322.257336769006
+  yaw: 288.44562
+  pitch: 13.050011
+lastlocation:
+  world: worlds/oldhome
+  x: 98.75677364554804
+  y: 61.0
+  z: 222.3501695628806
+  yaw: 76.05004
+  pitch: 20.250006
