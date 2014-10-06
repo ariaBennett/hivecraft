@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "usingWater": false,
+  "pigmanPortalSpawnAllowed": true,
+  "maxarea": 200,
+  "blocksrequired": {
+    "EMERALD_BLOCK": 2
+  },
+  "removingCreateToolName": true,
+  "removingCreateToolItem": false,
+  "materialCreate": "WATCH",
+  "materialInspect": "BLAZE_POWDER",
+  "materialSecret": "MAGMA_CREAM",
+  "materialMode": "BLAZE_ROD"
+}

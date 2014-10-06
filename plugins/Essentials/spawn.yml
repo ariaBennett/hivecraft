@@ -1,0 +1,8 @@
+spawns: 
+  default: 
+    world: worlds/bravenewworld
+    x: 20.454038002366847
+    y: 85.0
+    z: 680.3768781618254
+    yaw: 0.026996052
+    pitch: 5.82448

@@ -1,23 +1,23 @@
 uuid: 9625841f-6332-495c-ad91-0505c6d81186
 timestamps:
-  login: 1412448174065
-  lastteleport: 1412393703869
-  logout: 1412448739735
+  login: 1412617293169
+  lastteleport: 1412617587781
+  logout: 1412617626031
 ipAddress: 98.210.147.109
 godmode: false
 nickname: Aria
 lastlocation:
-  world: worlds/oldhome_nether
-  x: 25.203920767641673
-  y: 62.0
-  z: 51.04723140461341
-  yaw: -173.38637
-  pitch: 8.42993
+  world: worlds/bravenewworld
+  x: 61.699999988079085
+  y: 20.0
+  z: 631.6999999880791
+  yaw: 59.251892
+  pitch: 16.246199
 afk: false
 logoutlocation:
-  world: worlds/oldhome
-  x: 196.5219243242503
-  y: 71.0
-  z: 322.85252900615137
-  yaw: 10.668427
-  pitch: 7.0270295
+  world: worlds/bravenewworld
+  x: 7.102319686789507
+  y: 82.0
+  z: 711.0361528037922
+  yaw: -225.7945
+  pitch: 2.2169514

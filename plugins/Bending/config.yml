@@ -1,0 +1,228 @@
+Chat:
+  Enabled: true
+  Colors: true
+  Compatibility: false
+  Prefix:
+    Air: '[Airbender] '
+    Fire: '[Firebender ]'
+    Avatar: '[Avatar] '
+    Water: '[Waterbender] '
+    Earth: '[Earthbender] '
+    ChiBlocker: '[Chiblocker] '
+  Color:
+    Avatar: DARK_PURPLE
+    Air: GRAY
+    Fire: RED
+    Earth: GREEN
+    Water: AQUA
+    ChiBlocker: GOLD
+Bending:
+  Damage:
+    AirSwipe: 2
+    EarthBlast: 4
+    WaterManipulation: 3
+  Option:
+    Bend-To-Item: false
+    Use-TagAPI: true
+    Reverse-Earthbending: true
+    Reverse-Earthbending-Check-Time: 300000
+    Firebending-Dissipate-Time: 400
+    Sea-Level: 62
+    EarthBendable:
+    - STONE
+    - CLAY
+    - COAL_ORE
+    - DIAMOND_ORE
+    - DIRT
+    - GOLD_ORE
+    - EMERALD_ORE
+    - GRASS
+    - GRAVEL
+    - IRON_ORE
+    - LAPIS_ORE
+    - REDSTONE_ORE
+    - SAND
+    - SANDSTONE
+    - GLOWING_REDSTONE_ORE
+    - MYCEL
+Properties:
+  ChiBlocker:
+    ChiBlock-Duration: 2500
+    Dodge-Chance: 25.0
+    Punch-Damage: 3.0
+    Fall-Damage-Reduction: 50.0
+    HighJump:
+      Height: 1
+      Cooldown: 10000
+    Paralyze:
+      Cooldown: 15000
+      Duration: 2000
+    RapidPunch:
+      Damage: 1
+      Distance: 4
+      Cooldown: 15000
+      Punches: 4
+  GlobalCooldown: 500
+  Air:
+    AirBlast:
+      Speed: 25.0
+      Range: 20.0
+      Affecting-Radius: 2.0
+      Push-Factor: 3.5
+    AirBubble:
+      Radius: 7
+    Passive:
+      Factor: 0.3
+    AirShield:
+      Radius: 7.0
+    AirSuction:
+      Speed: 25.0
+      Range: 20.0
+      Affecting-Radius: 2.0
+      Push-Factor: 3.5
+    AirSwipe:
+      Range: 16.0
+      Arc: 20
+      Speed: 25.0
+      Affecting-Radius: 2.0
+      Push-Factor: 1.0
+      Cooldown: 1500
+    Tornado:
+      Radius: 10.0
+      Height: 25.0
+      Range: 25.0
+      Mob-Push-Factor: 1.0
+      Player-Push-Factor: 1.0
+    AirScooter:
+      Speed: 0.675
+    AirSpout:
+      Height: 20.0
+  Earth:
+    Catapult:
+      Length: 7
+      Speed: 12.0
+      Push: 5.0
+    CompactColumn:
+      Range: 20.0
+      Speed: 8.0
+    EarthBlast:
+      Hit-Self: false
+      Prepare-Range: 7.0
+      Range: 20.0
+      Speed: 35.0
+      Revert: true
+    EarthColumn:
+      Height: 6
+    EarthGrab:
+      Range: 15.0
+    EarthPassive:
+      Wait-Before-Reverse-Changes: 3000
+    EarthTunnel:
+      Max-Radius: 1.0
+      Range: 10.0
+      Radius: 0.25
+      Interval: 30
+      Revert: true
+    EarthWall:
+      Range: 15
+      Height: 6
+      Width: 6
+    Collapse:
+      Range: 20
+      Radius: 7.0
+    Tremorsense:
+      Cooldown: 1000
+      Max-Depth: 10
+      Radius: 5
+      Light-Threshold: 7
+    EarthArmor:
+      Duration: 10000
+      Strength: 2
+      Cooldown: 17500
+  Fire:
+    FireBlast:
+      Range: 15.0
+      Speed: 15.0
+      Push: 0.3
+      Radius: 2.0
+      Cooldown: 1500
+      Damage: 2
+      Dissipates: false
+    ArcOfFire:
+      Arc: 20
+      Range: 9
+    RingOfFire:
+      Range: 7
+    Extinguish:
+      Range: 20.0
+      Radius: 7.0
+    Fireball:
+      Cooldown: 2000
+      Speed: 0.3
+    FireJet:
+      Speed: 0.7
+      Duration: 1500
+      CoolDown: 6000
+    FireStream:
+      Speed: 15.0
+    WallOfFire:
+      Range: 4
+      Height: 4
+      Width: 4
+      Duration: 5000
+      Damage: 2
+      Interval: 500
+      Cooldown: 7500
+    HeatMelt:
+      Range: 15
+      Radius: 5
+    Illumination:
+      Range: 5
+    Lightning:
+      Warmup: 3500
+      Range: 15
+      Miss-Chance: 10.0
+    Day-Power-Factor: 1.5
+  Water:
+    Bloodbending:
+      Throw-Factor: 2.0
+      Range: 10
+    FreezeMelt:
+      Range: 20
+      Radius: 5
+    HealingWaters:
+      Radius: 5.0
+      Interval: 750
+    Plantbending:
+      Regrow-Time: 180000
+    WaterManipulation:
+      Range: 20.0
+      Speed: 35.0
+    WaterSpout:
+      Height: 15
+    WaterWall:
+      Range: 5.0
+      Radius: 2.0
+    Wave:
+      Radius: 3.0
+      Horizontal-Push-Force: 1.0
+      Vertical-Push-Force: 0.2
+    FastSwimming:
+      Factor: 0.7
+    IceSpike:
+      Cooldown: 2000
+      Damage: 2
+      Range: 20
+      ThrowingMult: 0.7
+      AreaCooldown: 3000
+      AreaDamage: 2
+      AreaRadius: 6
+      AreaThrowingMult: 1.0
+    Night-Power-Factor: 1.5
+MySQL:
+  Use-MySQL: false
+  MySQL-host: localhost
+  User: root
+  Password: ''
+  Database: minecraft
+  MySQL-portnumber: 3306
