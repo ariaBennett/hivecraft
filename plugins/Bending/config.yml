@@ -24,7 +24,7 @@ Bending:
   Option:
     Bend-To-Item: false
     Use-TagAPI: true
-    Reverse-Earthbending: true
+    Reverse-Earthbending: false
     Reverse-Earthbending-Check-Time: 300000
     Firebending-Dissipate-Time: 400
     Sea-Level: 62
@@ -45,6 +45,7 @@ Bending:
     - SANDSTONE
     - GLOWING_REDSTONE_ORE
     - MYCEL
+    - COBBLESTONE
 Properties:
   ChiBlocker:
     ChiBlock-Duration: 2500
@@ -112,9 +113,9 @@ Properties:
       Speed: 35.0
       Revert: true
     EarthColumn:
-      Height: 6
+      Height: 256
     EarthGrab:
-      Range: 15.0
+      Range: 20.0
     EarthPassive:
       Wait-Before-Reverse-Changes: 3000
     EarthTunnel:
@@ -125,8 +126,8 @@ Properties:
       Revert: true
     EarthWall:
       Range: 15
-      Height: 6
-      Width: 6
+      Height: 16
+      Width: 12
     Collapse:
       Range: 20
       Radius: 7.0
@@ -134,10 +135,10 @@ Properties:
       Cooldown: 1000
       Max-Depth: 10
       Radius: 5
-      Light-Threshold: 7
+      Light-Threshold: 10
     EarthArmor:
       Duration: 10000
-      Strength: 2
+      Strength: 8
       Cooldown: 17500
   Fire:
     FireBlast:
@@ -161,8 +162,8 @@ Properties:
       Speed: 0.3
     FireJet:
       Speed: 0.7
-      Duration: 1500
-      CoolDown: 6000
+      Duration: 5000
+      CoolDown: 1000
     FireStream:
       Speed: 15.0
     WallOfFire:
@@ -177,7 +178,7 @@ Properties:
       Range: 15
       Radius: 5
     Illumination:
-      Range: 5
+      Range: 10
     Lightning:
       Warmup: 3500
       Range: 15

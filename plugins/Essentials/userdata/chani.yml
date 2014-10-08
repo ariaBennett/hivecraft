@@ -1,23 +1,23 @@
 uuid: 9625841f-6332-495c-ad91-0505c6d81186
 timestamps:
-  login: 1412617293169
-  lastteleport: 1412617587781
-  logout: 1412617626031
+  login: 1412718874446
+  lastteleport: 1412723756189
+  logout: 1412723983017
 ipAddress: 98.210.147.109
 godmode: false
-nickname: Aria
+nickname: EarthFuckerAria
 lastlocation:
   world: worlds/bravenewworld
-  x: 61.699999988079085
-  y: 20.0
-  z: 631.6999999880791
-  yaw: 59.251892
-  pitch: 16.246199
+  x: 77.25652910698332
+  y: 104.72942694485678
+  z: 562.8383720389322
+  yaw: -281.96106
+  pitch: 84.58873
 afk: false
 logoutlocation:
   world: worlds/bravenewworld
-  x: 7.102319686789507
-  y: 82.0
-  z: 711.0361528037922
-  yaw: -225.7945
-  pitch: 2.2169514
+  x: 46.509517745577774
+  y: 86.0
+  z: 655.935502894103
+  yaw: 253.45789
+  pitch: 25.641108

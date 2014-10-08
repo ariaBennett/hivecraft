@@ -1,1022 +1,558 @@
-[00:02:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:03:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:03:29] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 7 Entities![m
-[00:10:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:11:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:11:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[00:18:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:19:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:19:34] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[00:26:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:27:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:27:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[00:29:42] [Craft Scheduler Thread - 815/INFO]: [Metrics] Connection timed out
-[00:34:15] [User Authenticator #20/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
-[00:34:15] [Server thread/INFO]: Chexala[/50.1.102.195:52623] logged in with entity id 254216 at ([worlds/bravenewworld] 179.648799013964, 66.0, 611.5697105927259)
-[00:34:20] [Async Chat Thread - #98/INFO]: <[0;37;22maygtets[m[0;37;1m> hihihi[m
-[00:34:25] [Async Chat Thread - #98/INFO]: <[0;36;1mChexala[m[0;37;1m> hallo[m
-[00:34:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:35:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:35:36] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 4 Entities![m
-[00:35:53] [Server thread/INFO]: Chexala lost connection: Disconnected
-[00:35:53] [Server thread/INFO]: Chexala left the game.
-[00:36:27] [User Authenticator #21/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
-[00:36:27] [Server thread/INFO]: Chexala[/50.1.102.195:52815] logged in with entity id 254755 at ([worlds/bravenewworld] 180.36060178061518, 66.0, 612.2586939483203)
-[00:36:39] [Async Chat Thread - #99/INFO]: <[0;36;1mChexala[m[0;37;1m> so, how's things?[m
-[00:36:48] [Async Chat Thread - #99/INFO]: <[0;37;22maygtets[m[0;37;1m> good, I'm at the village[m
-[00:36:57] [Async Chat Thread - #99/INFO]: <[0;36;1mChexala[m[0;37;1m> village?[m
-[00:36:59] [Async Chat Thread - #99/INFO]: <[0;37;22maygtets[m[0;37;1m> Making a village spawn building[m
-[00:37:04] [Async Chat Thread - #99/INFO]: <[0;37;22maygtets[m[0;37;1m> yeah, it's far far away[m
-[00:37:10] [Async Chat Thread - #99/INFO]: <[0;36;1mChexala[m[0;37;1m> ah, cool[m
-[00:37:21] [Async Chat Thread - #99/INFO]: <[0;37;22maygtets[m[0;37;1m> but maybe we can do some kind of long distance migration with all our powers combined![m
-[00:37:30] [Async Chat Thread - #99/INFO]: <[0;36;1mChexala[m[0;37;1m> that would be cool[m
-[00:38:08] [Async Chat Thread - #99/INFO]: <[0;37;22maygtets[m[0;37;1m> I'm thinking aria builds a large tunnel. I push and pull them through it. And you would help us[m
-[00:38:14] [Async Chat Thread - #99/INFO]: <[0;37;22maygtets[m[0;37;1m> when we get to large bodies of water[m
-[00:38:48] [Async Chat Thread - #99/INFO]: <[0;36;1mChexala[m[0;37;1m> yah[m
-[00:39:25] [Async Chat Thread - #99/INFO]: <[0;36;1mChexala[m[0;37;1m> so wait, where are you?[m
-[00:39:57] [Async Chat Thread - #99/INFO]: <[0;37;22maygtets[m[0;37;1m> -350, 80, 2631[m
-[00:40:13] [Server thread/INFO]: Chexala issued server command: /help
-[00:40:19] [Server thread/INFO]: Chexala issued server command: /help essentials
-[00:40:30] [Server thread/INFO]: Chexala issued server command: /help essentials 2
-[00:40:37] [Server thread/INFO]: Chexala issued server command: /help essentials 3
-[00:40:50] [Server thread/INFO]: Chexala issued server command: /help essentials 4
-[00:41:25] [Server thread/INFO]: Chexala issued server command: /sethome
-[00:41:31] [Server thread/INFO]: Chexala issued server command: /help essentials 5
-[00:41:56] [Server thread/INFO]: Chexala issued server command: /tpa aygtets
-[00:42:10] [Server thread/INFO]: aygtets issued server command: /tpaccept
-[00:42:18] [Async Chat Thread - #100/INFO]: <[0;37;22maygtets[m[0;37;1m> cute![m
-[00:42:24] [Async Chat Thread - #100/INFO]: <[0;36;1mChexala[m[0;37;1m> water tribe![m
-[00:42:25] [Async Chat Thread - #100/INFO]: <[0;37;22maygtets[m[0;37;1m> I need to make a real skin again[m
-[00:42:33] [Async Chat Thread - #100/INFO]: <[0;37;22maygtets[m[0;37;1m> I effed up and lost my real skin[m
-[00:42:36] [Async Chat Thread - #100/INFO]: <[0;37;22maygtets[m[0;37;1m> oh! Good idea![m
-[00:42:41] [Async Chat Thread - #100/INFO]: <[0;36;1mChexala[m[0;37;1m> <.< >.> there is a Tenzin skin[m
-[00:42:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:43:08] [Async Chat Thread - #100/INFO]: <[0;37;22maygtets[m[0;37;1m> I don't think I'll do Tenzin. But, a michael with airbending tattoos[m
-[00:43:17] [Async Chat Thread - #100/INFO]: <[0;36;1mChexala[m[0;37;1m> cute[m
-[00:43:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:43:56] [Async Chat Thread - #100/INFO]: <[0;37;22maygtets[m[0;37;1m> I dispise clearlag[m
-[00:44:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 8 Entities![m
-[00:44:05] [Async Chat Thread - #100/INFO]: <[0;36;1mChexala[m[0;37;1m> me too[m
-[00:44:34] [Async Chat Thread - #100/INFO]: <[0;36;1mChexala[m[0;37;1m> whoa, this town has two libraries[m
-[00:47:17] [Async Chat Thread - #101/INFO]: <[0;36;1mChexala[m[0;37;1m> what are you building here?[m
-[00:47:28] [Async Chat Thread - #101/INFO]: <[0;37;22maygtets[m[0;37;1m> basically an excuse to have a lot of doors[m
-[00:47:37] [Async Chat Thread - #101/INFO]: <[0;37;22maygtets[m[0;37;1m> it's like... a hotel or something?[m
-[00:47:42] [Async Chat Thread - #101/INFO]: <[0;36;1mChexala[m[0;37;1m> lol[m
-[00:48:45] [Async Chat Thread - #102/INFO]: <[0;36;1mChexala[m[0;37;1m> haha, I jumped into the well[m
-[00:49:00] [Async Chat Thread - #102/INFO]: <[0;36;1mChexala[m[0;37;1m> i could have a hidey hole down here[m
-[00:49:06] [Async Chat Thread - #102/INFO]: <[0;37;22maygtets[m[0;37;1m> that'd be cool[m
-[00:50:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:51:06] [Craft Scheduler Thread - 825/INFO]: [Metrics] Connection timed out
-[00:51:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:52:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
-[00:53:33] [Async Chat Thread - #103/INFO]: <[0;37;22maygtets[m[0;37;1m> nope, gonna be a brewery, just decided[m
-[00:53:45] [Async Chat Thread - #103/INFO]: <[0;36;1mChexala[m[0;37;1m> nice[m
-[00:55:11] [Async Chat Thread - #104/INFO]: <[0;36;1mChexala[m[0;37;1m> haha, we now have a pointless room at the bottom of the well[m
-[00:55:22] [Server thread/INFO]: CONSOLE issued server command: /list 
-[00:55:22] [Server thread/INFO]: [0;33;22mThere are [0;31;1m2[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
-[00:55:22] [Server thread/INFO]: [0;33;22m[0;33;22mConnected players[m[m: [maygtets[m[0;37;1m, Chexala[m[0;37;1m[m
-[00:55:27] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] HI GUYS[m
-[00:55:32] [Async Chat Thread - #104/INFO]: <[0;37;22maygtets[m[0;37;1m> hihihi![m
-[00:55:42] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] we watched the new kora episode[m
-[00:55:54] [Async Chat Thread - #104/INFO]: <[0;37;22maygtets[m[0;37;1m> don't tell me nooothinnnnnn[m
-[00:55:55] [Async Chat Thread - #104/INFO]: <[0;36;1mChexala[m[0;37;1m> oh god, no spoilers![m
-[00:56:00] [Async Chat Thread - #104/INFO]: <[0;37;22maygtets[m[0;37;1m> haha[m
-[00:56:06] [Async Chat Thread - #104/INFO]: <[0;36;1mChexala[m[0;37;1m> i haven't finished season 2 yet T__T[m
-[00:56:07] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] she became a sandwich bender[m
-[00:56:17] [Async Chat Thread - #104/INFO]: <[0;37;22maygtets[m[0;37;1m> SPOINER[m
-[00:56:19] [Async Chat Thread - #104/INFO]: <[0;36;1mChexala[m[0;37;1m> noooooooooooo Korra whyyyyyyyyyyyyyyyyy[m
-[00:56:27] [Async Chat Thread - #104/INFO]: <[0;37;22maygtets[m[0;37;1m> it was her destiny[m
-[00:56:30] [Async Chat Thread - #104/INFO]: <[0;36;1mChexala[m[0;37;1m> the betrayal![m
-[00:56:34] [Async Chat Thread - #104/INFO]: <[0;36;1mChexala[m[0;37;1m> it's so intense![m
-[00:56:37] [Async Chat Thread - #104/INFO]: <[0;37;22maygtets[m[0;37;1m> I knew it was gonna happen by the second episode[m
-[00:56:56] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] where is alex i want to shame him[m
-[00:57:02] [Async Chat Thread - #104/INFO]: <[0;36;1mChexala[m[0;37;1m> shame him?[m
-[00:57:14] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] turn him into a fire bender'[m
-[00:57:36] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] not shame i guess[m
-[00:57:47] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] idk how to do it if he isn't online easily though[m
-[00:58:17] [Async Chat Thread - #105/INFO]: <[0;36;1mChexala[m[0;37;1m> what are these skills I keep leveling up?[m
-[00:58:26] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> I'm actually not sure what they do yet[m
-[00:58:40] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] all sorts of stuff i'm sure![m
-[00:58:45] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> because so far it doesn't seem like they make me do anyhting faster[m
-[00:58:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:59:05] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] if you want to know check out the docs for mcmmo[m
-[00:59:06] [Async Chat Thread - #105/INFO]: <[0;36;1mChexala[m[0;37;1m> also sometimes I make fireworks?[m
-[00:59:13] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] yeah that's mcmmo[m
-[00:59:26] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] oh yeah[m
-[00:59:33] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] i had an idea[m
-[00:59:35] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] oh wait[m
-[00:59:37] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> oh crap, I already messed up[m
-[00:59:39] [Async Chat Thread - #105/INFO]: <[0;36;1mChexala[m[0;37;1m> michael, is that going to be a window?[m
-[00:59:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:59:42] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> daaaaaang[m
-[00:59:48] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] do you all know about the spirit world[m
-[00:59:50] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> nope! A big barrel![m
-[00:59:58] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> In korra, or this game?[m
-[01:00:01] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 10 Entities![m
-[01:00:03] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] korra[m
-[01:00:09] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> yeah[m
-[01:00:16] [Async Chat Thread - #105/INFO]: <[0;36;1mChexala[m[0;37;1m> sort of[m
-[01:00:33] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] I am going to make another map that we can go to that will be the spirit world[m
-[01:00:43] [Async Chat Thread - #105/INFO]: <[0;37;22maygtets[m[0;37;1m> :D[m
-[01:00:47] [Async Chat Thread - #105/INFO]: <[0;36;1mChexala[m[0;37;1m> cool![m
-[01:01:09] [Server thread/INFO]: Chexala issued server command: /help
-[01:01:30] [Server thread/INFO]: Chexala issued server command: /help essentialspawn
-[01:01:49] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] also, fart bending[m
-[01:01:49] [Server thread/INFO]: Chexala issued server command: /help 2
-[01:02:11] [Server thread/INFO]: Chexala issued server command: /help 3
-[01:04:01] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] i'd also like to add a single flying bison for us to use if there's something like that out there[m
-[01:04:16] [Async Chat Thread - #106/INFO]: <[0;36;1mChexala[m[0;37;1m> that would be awesome![m
-[01:04:44] [Async Chat Thread - #106/INFO]: <[0;36;1mChexala[m[0;37;1m> well, that's enough procrastination from me[m
-[01:04:47] [Async Chat Thread - #106/INFO]: <[0;36;1mChexala[m[0;37;1m> laters[m
-[01:04:54] [Async Chat Thread - #106/INFO]: <[0;37;22maygtets[m[0;37;1m> see ya![m
-[01:05:07] [Server thread/INFO]: Chexala lost connection: Disconnected
-[01:05:07] [Server thread/INFO]: Chexala left the game.
-[01:05:42] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] mmmmm ooooh ahhhh][m
-[01:05:52] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] yeah, this is jussssst riggght[m
-[01:06:10] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] show me your bits[m
-[01:06:18] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] show them to me so I can eat them[m
-[01:06:27] [Async Chat Thread - #107/INFO]: <[0;37;22maygtets[m[0;37;1m> eh?[m
-[01:06:31] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] idk[m
-[01:06:37] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] all I can see is chat[m
-[01:06:51] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] I'm in a terminal.[m
-[01:07:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:07:05] [Async Chat Thread - #107/INFO]: <[0;37;22maygtets[m[0;37;1m> ah, I see[m
-[01:07:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:08:04] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 7 Entities![m
-[01:08:27] [Async Chat Thread - #108/INFO]: <[0;37;22maygtets[m[0;37;1m> that thing shouldn't remove items that are in close proximity[m
-[01:08:37] [Async Chat Thread - #108/INFO]: <[0;37;22maygtets[m[0;37;1m> I swear it exists only to take items I'm about to grab[m
-[01:08:40] [Async Chat Thread - #108/INFO]: <[0;37;22maygtets[m[0;37;1m> and experience[m
-[01:15:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:15:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:16:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 9 Entities![m
-[01:23:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:23:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:24:11] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
-[01:31:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:31:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:32:16] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
-[01:39:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:39:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:40:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 9 Entities![m
-[01:47:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:47:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:48:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 13 Entities![m
-[01:54:33] [Server thread/INFO]: aygtets lost connection: Disconnected
-[01:54:33] [Server thread/INFO]: aygtets left the game.
-[01:55:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:56:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:56:23] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:03:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:04:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:04:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:11:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:12:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:12:30] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[02:19:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:20:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:20:30] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:27:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:28:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:28:31] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[02:35:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:36:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:36:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:43:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:44:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:44:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[02:51:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:52:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:52:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:59:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:00:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:00:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[03:07:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:08:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:08:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[03:15:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:16:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:16:46] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[03:17:51] [Craft Scheduler Thread - 906/INFO]: [Metrics] Connection timed out
-[03:23:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:24:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:24:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[03:31:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:32:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:32:53] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[03:38:50] [Craft Scheduler Thread - 921/INFO]: [Metrics] Connection timed out
-[03:39:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:40:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:40:56] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[03:47:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:48:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:48:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[03:49:18] [Craft Scheduler Thread - 924/INFO]: [Metrics] Connection timed out
-[03:55:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:56:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:56:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[04:03:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[04:04:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[04:04:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[04:11:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[04:12:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[04:13:02] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[04:20:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[04:20:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[04:21:03] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[04:28:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[04:28:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[04:29:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[04:36:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[04:36:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[04:37:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[04:44:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[04:44:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[04:45:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[04:52:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[04:52:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[04:53:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[05:00:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:00:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:01:11] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[05:08:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:08:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:09:11] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[05:16:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:16:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:17:12] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[05:18:17] [User Authenticator #22/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[05:18:17] [Server thread/INFO]: Chani[/98.210.147.109:57611] logged in with entity id 274685 at ([worlds/bravenewworld] 22.819642122652382, 85.0, 679.2200006933758)
-[05:20:52] [Server thread/INFO]: Chani lost connection: Disconnected
-[05:20:52] [Server thread/INFO]: Chani left the game.
-[05:24:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:24:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:25:13] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[05:32:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:32:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:33:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[05:40:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:41:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:41:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[05:41:24] [User Authenticator #23/INFO]: UUID of player UncannyMelon is 2491ef2d-b142-48c9-8431-f0d781c898f1
-[05:41:24] [Server thread/INFO]: UncannyMelon[/76.14.71.96:51355] logged in with entity id 275214 at ([worlds/bravenewworld] -155.11003459489945, 74.0, 193.7607296054518)
-[05:41:42] [Server thread/INFO]: UncannyMelon issued server command: /home
-[05:42:10] [Server thread/INFO]: UncannyMelon issued server command: /bending bind tornado
-[05:42:28] [User Authenticator #24/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
-[05:42:28] [Server thread/INFO]: Chexala[/50.1.102.195:57222] logged in with entity id 275600 at ([worlds/bravenewworld] -354.5997148766252, 75.0, 2632.82532848411)
-[05:42:43] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> I figured out how to use tornado and my other abilities[m
-[05:42:46] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Gotta sneak[m
-[05:43:00] [Async Chat Thread - #109/INFO]: <[0;36;1mChexala[m[0;37;1m> yeah, sneaking is key for most of mine too[m
-[05:43:54] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Oh and we can be water budds. I've got airbubble wich is analagous to waterbubble[m
-[05:44:01] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Can't make ice though[m
-[05:44:11] [Async Chat Thread - #109/INFO]: <[0;36;1mChexala[m[0;37;1m> yep[m
-[05:44:30] [Craft Scheduler Thread - 983/INFO]: [Metrics] Connection timed out
-[05:44:35] [Async Chat Thread - #109/INFO]: <[0;36;1mChexala[m[0;37;1m> i can't decide what I want to do[m
-[05:45:23] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> wekks[m
-[05:45:29] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> *well[m
-[05:45:38] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> There are two things I always do on a new server[m
-[05:46:03] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> The first is to build an inventory room or shack[m
-[05:46:08] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> or cave[m
-[05:46:37] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> A room big enough to fit a dozen double chests a bed and some furnaces[m
-[05:46:48] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Wall mounted except for the bed of course[m
-[05:46:49] [Async Chat Thread - #109/INFO]: <[0;36;1mChexala[m[0;37;1m> i've got the witch hut for now[m
-[05:46:57] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> huh, kay[m
-[05:47:01] [Server thread/INFO]: Chexala issued server command: /home
-[05:47:22] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> So you mean you don't know what to do after that[m
-[05:47:29] [Server thread/INFO]: UncannyMelon issued server command: /bending display air
-[05:47:44] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airshield
-[05:47:48] [Async Chat Thread - #109/INFO]: <[0;36;1mChexala[m[0;37;1m> yeah. i suppose I should go mining for supplies[m
-[05:47:59] [Async Chat Thread - #109/INFO]: <[0;36;1mChexala[m[0;37;1m> but I don't want to be undergraound, so I'd rather build something[m
-[05:48:07] [Async Chat Thread - #109/INFO]: <[0;36;1mChexala[m[0;37;1m> but i don't have any plans[m
-[05:48:19] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Well,[m
-[05:48:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:48:38] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> I build my inventory room so I have a foundation for the next thing I do. Building a housee[m
-[05:48:55] [Async Chat Thread - #109/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Or universal farm[m
-[05:49:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:49:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 7 Entities![m
-[05:50:49] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> So perhaps you should explore for a nice place to settle down?[m
-[05:51:02] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> if you've got a bed we can sleep to morning[m
-[05:51:22] [Async Chat Thread - #110/INFO]: <[0;36;1mChexala[m[0;37;1m> haven't got a bed yet[m
-[05:51:36] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> oh, well I have some wool to spare[m
-[05:51:44] [Async Chat Thread - #110/INFO]: <[0;36;1mChexala[m[0;37;1m> where you at?[m
-[05:51:54] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> I"m only a few words away[m
-[05:51:59] [Server thread/INFO]: UncannyMelon issued server command: /tpa Chexala
-[05:52:33] [Server thread/INFO]: UncannyMelon issued server command: /tpa Chexala
-[05:52:40] [Server thread/INFO]: Chexala issued server command: /tpaccept
-[05:52:44] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> yo[m
-[05:52:47] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> ah nice avatar[m
-[05:52:48] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> fitting[m
-[05:52:55] [Async Chat Thread - #110/INFO]: <[0;36;1mChexala[m[0;37;1m> :D[m
-[05:52:58] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> ooh lookit what I figured out![m
-[05:53:08] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Tornado[m
-[05:53:23] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> anywhoo[m
-[05:53:36] [Async Chat Thread - #110/INFO]: <[0;36;1mChexala[m[0;37;1m> thanks[m
-[05:53:38] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> np[m
-[05:53:44] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> oh what[m
-[05:53:47] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> that was air shield[m
-[05:54:01] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Didn't know it would effect other players[m
-[05:54:07] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> ahlookit the zombie htough[m
-[05:54:19] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> oooh[m
-[05:54:20] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> nice[m
-[05:54:25] [Async Chat Thread - #110/INFO]: <[0;36;1mChexala[m[0;37;1m> hehe[m
-[05:54:40] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> I"m super defense based but[m
-[05:54:44] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> I have learned a trick[m
-[05:55:00] [Craft Scheduler Thread - 992/INFO]: [Metrics] Connection timed out
-[05:55:06] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> omg octopus form[m
-[05:55:22] [Async Chat Thread - #110/INFO]: <[0;36;1mChexala[m[0;37;1m> good for defense apparently[m
-[05:55:43] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Makes sense, Creeper blasts are negated pretty quick by layers of water[m
-[05:56:20] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Oh the sun has risen[m
-[05:56:26] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[05:57:02] [Async Chat Thread - #110/INFO]: <[0;36;1mChexala[m[0;37;1m> careful with that air shield[m
-[05:57:07] [Async Chat Thread - #110/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> sorreh[m
-[05:57:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[05:57:26] [Server thread/INFO]: Chexala has just earned the achievement [Hot Topic]
-[05:57:29] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 6 Entities![m
-[05:58:44] [Server thread/INFO]: UncannyMelon issued server command: /home
-[06:01:52] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] HEY[m
-[06:01:56] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] PEOPLE[m
-[06:01:56] [Server thread/INFO]: CONSOLE issued server command: /list 
-[06:01:56] [Server thread/INFO]: [0;33;22mThere are [0;31;1m2[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
-[06:01:56] [Server thread/INFO]: [0;33;22m[0;33;22mConnected players[m[m: [mChexala[m[0;37;1m, UncannyMelon[m[0;37;1m[m
-[06:01:57] [Async Chat Thread - #111/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Hi Aria[m
-[06:02:01] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] alex[m
-[06:02:05] [Async Chat Thread - #111/INFO]: <[0;36;1mChexala[m[0;37;1m> hah! i love that falling in water protects against fall damage[m
-[06:02:06] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] I have bad news[m
-[06:02:08] [Async Chat Thread - #111/INFO]: <[0;36;1mChexala[m[0;37;1m> hi aria[m
-[06:02:20] [Async Chat Thread - #111/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> :smug: What fall damage?[m
-[06:02:37] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] we've decided, you must be a fire bender[m
-[06:02:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[06:02:48] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[06:02:53] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[06:02:55] [Async Chat Thread - #111/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> I've decided you're aaaaaall selfish[m
-[06:02:56] [Server thread/INFO]: [Bending] §cUse /bending help to see a list of commands.
-[06:02:56] [Server thread/INFO]: [Bending] §cUse /bending help <command> to see how to use that command.
-[06:02:56] [Server thread/INFO]: [Bending] §cUse /bending help <ability> to get help with that ability.
-[06:03:03] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] that may be[m
-[06:03:11] [Server thread/INFO]: [Bending] §cUse /bending help to see a list of commands.
-[06:03:11] [Server thread/INFO]: [Bending] §cUse /bending help <command> to see how to use that command.
-[06:03:11] [Server thread/INFO]: [Bending] §cUse /bending help <ability> to get help with that ability.
-[06:03:16] [Server thread/INFO]: Bending aliases: bending bend b mtla tla
-[06:03:16] [Server thread/INFO]: /bending bind <ability> [Slot#]
-[06:03:16] [Server thread/INFO]: /bending clear [Slot#]
-[06:03:16] [Server thread/INFO]: /bending choose [player] <element>
-[06:03:16] [Server thread/INFO]: /bending add [player] <element>
-[06:03:16] [Server thread/INFO]: /bending remove <player1> [player2] [player3] ...
-[06:03:16] [Server thread/INFO]: /bending permaremove <player1> [player2] [player3] ...
-[06:03:16] [Server thread/INFO]: /bending toggle [player]
-[06:03:16] [Server thread/INFO]: /bending display [element]
-[06:03:16] [Server thread/INFO]: /bending reload
-[06:03:16] [Server thread/INFO]: /bending import
-[06:03:16] [Server thread/INFO]: /bending who [player]
-[06:03:16] [Server thread/INFO]: /bending language [language]
-[06:03:16] [Server thread/INFO]: /bending bindmode [slot/item]
-[06:03:16] [Server thread/INFO]: /bending version
-[06:03:21] [Server thread/INFO]: Chexala lost connection: Disconnected
-[06:03:21] [Server thread/INFO]: Chexala left the game.
-[06:03:30] [User Authenticator #25/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
-[06:03:30] [Server thread/INFO]: Chexala[/50.1.102.195:57290] logged in with entity id 281312 at ([worlds/bravenewworld] 78.77722425914162, 15.0, 674.2014692301921)
-[06:03:33] [Server thread/INFO]: §bUsage: /bending choose <element>
-[06:03:33] [Server thread/INFO]: §b-Choose your <element> (Options: air, water, earth, fire, chiblocker).
-[06:03:33] [Server thread/INFO]: §bUsage: /bending choose <player> <element>
-[06:03:33] [Server thread/INFO]: §b-Choose <element> for <player>.
-[06:03:45] [Server thread/INFO]: You have changed UncannyMelon's bending.
-[06:03:50] [Async Chat Thread - #111/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> motherfucker[m
-[06:04:00] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] this is how it must be[m
-[06:04:02] [Async Chat Thread - #111/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> I'm slow as a tortise[m
-[06:04:21] [Async Chat Thread - #111/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> I'm going to go find a cliff[m
-[06:04:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[06:04:50] [User Authenticator #26/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[06:04:50] [Server thread/INFO]: Chani[/98.210.147.109:62077] logged in with entity id 281998 at ([worlds/bravenewworld] 48.69999998807907, 86.5625, 654.8489758578257)
-[06:05:02] [Server thread/INFO]: UncannyMelon hit the ground too hard
-[06:05:05] [Server thread/INFO]: UncannyMelon lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[06:05:05] [Server thread/INFO]: UncannyMelon left the game.
-[06:05:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[06:05:31] [Craft Scheduler Thread - 999/INFO]: [Metrics] Connection timed out
-[06:05:31] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
-[06:05:34] [Async Chat Thread - #112/INFO]: <[0;36;1mChexala[m[0;37;1m> do you think he took it.. hard?[m
-[06:05:38] [Async Chat Thread - #112/INFO]: <[0;32;1m~Aria[m[0;37;1m> looool[m
-[06:06:38] [Async Chat Thread - #113/INFO]: <[0;32;1m~Aria[m[0;37;1m> fire benders are so dramatic[m
-[06:07:12] [Async Chat Thread - #113/INFO]: <[0;36;1mChexala[m[0;37;1m> drama llamas[m
-[06:08:12] [Server thread/INFO]: Chexala issued server command: /home
-[06:08:24] [Async Chat Thread - #114/INFO]: <[0;36;1mChexala[m[0;37;1m> oh god. i love the home teleport[m
-[06:09:13] [Server thread/INFO]: Chexala has just earned the achievement [Acquire Hardware]
-[06:10:36] [Async Chat Thread - #115/INFO]: <[0;32;1m~Aria[m[0;37;1m> i like that you have this lake nearby[m
-[06:10:44] [Async Chat Thread - #115/INFO]: <[0;36;1mChexala[m[0;37;1m> yeah[m
-[06:10:55] [Async Chat Thread - #115/INFO]: <[0;36;1mChexala[m[0;37;1m> my powers would be really boring otherwise[m
-[06:11:03] [Async Chat Thread - #115/INFO]: <[0;32;1m~Aria[m[0;37;1m> yeah i understand[m
-[06:11:12] [Async Chat Thread - #115/INFO]: <[0;32;1m~Aria[m[0;37;1m> i like the idea though[m
-[06:11:35] [Async Chat Thread - #115/INFO]: <[0;36;1mChexala[m[0;37;1m> how do you mean?[m
-[06:11:37] [Async Chat Thread - #115/INFO]: <[0;32;1m~Aria[m[0;37;1m> it gives everyone different things, so they express themselves differently[m
-[06:12:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[06:13:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[06:13:11] [Async Chat Thread - #116/INFO]: <[0;32;1m~Aria[m[0;37;1m> i feel both powerful and scared of my powers because they can get me and everyone else killed[m
-[06:13:20] [Async Chat Thread - #116/INFO]: <[0;32;1m~Aria[m[0;37;1m> and fuck up the landscape[m
-[06:13:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 6 Entities![m
-[06:13:49] [Async Chat Thread - #116/INFO]: <[0;36;1mChexala[m[0;37;1m> i like your pensive stance[m
-[06:14:15] [Async Chat Thread - #116/INFO]: <[0;32;1m~Aria[m[0;37;1m> your powers are beautiful, you just have to have the right situation[m
-[06:14:40] [Async Chat Thread - #116/INFO]: <[0;32;1m~Aria[m[0;37;1m> air powers let them do passive stuff better, but dont change anythign really[m
-[06:14:47] [Async Chat Thread - #116/INFO]: <[0;32;1m~Aria[m[0;37;1m> fire.. we'll see[m
-[06:15:56] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> alex wanted air because he's still thinking outside of boundaries[m
-[06:16:45] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> but the boundaries are what give us dynamic interactions.[m
-[06:17:43] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> your avatar looks so morose, contemplating the balance of the world[m
-[06:17:51] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> hahaha[m
-[06:17:54] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> good[m
-[06:18:05] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> that's how it shouldbe[m
-[06:18:24] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> i got some screenshots of you watching the sunrise[m
-[06:18:31] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> :)[m
-[06:18:37] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> I have some too[m
-[06:18:45] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> we should post them in that group[m
-[06:18:48] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> you made[m
-[06:19:02] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> that's just what I was thinking[m
-[06:19:05] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> :)[m
-[06:19:11] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> it's on my todo list[m
-[06:19:19] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> now[m
-[06:19:59] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> alex played it perfectly, if he comes back[m
-[06:20:28] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> he died in betrayel, and will be reborn with a desire for vengence[m
-[06:20:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[06:20:56] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> hahahaha[m
-[06:20:58] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> all heroes need a villian[m
-[06:21:01] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> couldn't ask more than that[m
-[06:21:06] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> :)[m
-[06:21:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[06:21:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
-[06:21:44] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> did you find an ocean?[m
-[06:21:49] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> not yet[m
-[06:21:57] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> went out exploring and got lost[m
-[06:22:11] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> i've jumped around the area and didn't see anything[m
-[06:22:17] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> too many trees[m
-[06:22:19] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> and teleported home after I got caught in a glitch[m
-[06:22:21] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> yeah[m
-[06:22:22] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> trees get me killed[m
-[06:22:35] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> if i jump and land on a tree i die[m
-[06:22:40] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> that sucks[m
-[06:22:57] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> yeah[m
-[06:23:02] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> it makes sense[m
-[06:23:19] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> if i didn't have that, air benders wouldn't have the mobilitiy i do[m
-[06:23:50] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> do we have any maps yet?[m
-[06:23:57] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> not yet[m
-[06:24:03] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> no redstone?[m
-[06:24:05] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> we should work on one[m
-[06:24:08] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> i have some[m
-[06:24:13] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> let's see[m
-[06:24:18] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> yeah. exploring is better with a map[m
-[06:24:20] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> i think what i'd need i paper[m
-[06:24:24] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> is[m
-[06:24:27] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> ah[m
-[06:24:53] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> if you have some time we can do that, make a zoomed out map[m
-[06:24:58] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> if you copy it[m
-[06:25:00] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> anyone[m
-[06:25:04] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> oops, sorry, I think I dropped you in the lake[m
-[06:25:15] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> who has it will reveal places for evertone[m
-[06:25:22] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> it[m
-[06:25:29] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> oh, neat. i didn't know that[m
-[06:25:29] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> it's ok, i have my ways[m
-[06:25:32] [Async Chat Thread - #117/INFO]: <[0;36;1mChexala[m[0;37;1m> lol[m
-[06:25:54] [Async Chat Thread - #117/INFO]: <[0;32;1m~Aria[m[0;37;1m> i'll look for some sugar cane[m
-[06:27:47] [Server thread/INFO]: Chani fell from a high place
-[06:27:52] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> alas[m
-[06:27:56] [Server thread/INFO]: Chani issued server command: /return
-[06:28:04] [Async Chat Thread - #118/INFO]: <[0;36;1mChexala[m[0;37;1m> ouch[m
-[06:28:10] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> twas a tre[m
-[06:28:11] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> e[m
-[06:28:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[06:28:52] [Server thread/INFO]: Chani fell from a high place
-[06:28:57] [Server thread/INFO]: Chani issued server command: /return
-[06:28:59] [Async Chat Thread - #118/INFO]: <[0;36;1mChexala[m[0;37;1m> :([m
-[06:29:03] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> also a tree[m
-[06:29:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[06:29:32] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> i travel a lot lighter on this server[m
-[06:29:54] [Server thread/INFO]: Chani tried to swim in lava
-[06:30:02] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 8 Entities![m
-[06:30:07] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> hah...[m
-[06:30:10] [Server thread/INFO]: Chani issued server command: /return
-[06:30:51] [Server thread/INFO]: Chani fell from a high place
-[06:30:57] [Server thread/INFO]: Chani issued server command: /return
-[06:30:57] [Async Chat Thread - #118/INFO]: <[0;36;1mChexala[m[0;37;1m> i think i found an alex house[m
-[06:31:04] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> lol[m
-[06:31:17] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> what makes it alexy[m
-[06:31:21] [Async Chat Thread - #118/INFO]: <[0;36;1mChexala[m[0;37;1m> an air bender house anyway[m
-[06:31:41] [Async Chat Thread - #118/INFO]: <[0;36;1mChexala[m[0;37;1m> its up a tree and you'd need flying of some sort to get in[m
-[06:31:46] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> ah[m
-[06:32:11] [Server thread/INFO]: Chani fell from a high place
-[06:32:16] [Server thread/INFO]: Chani issued server command: /return
-[06:32:32] [Async Chat Thread - #118/INFO]: <[0;32;1m~Aria[m[0;37;1m> where is it?[m
-[06:33:41] [Async Chat Thread - #119/INFO]: <[0;36;1mChexala[m[0;37;1m> dunno the coords[m
-[06:34:18] [Async Chat Thread - #119/INFO]: <[0;36;1mChexala[m[0;37;1m> lets see[m
-[06:34:33] [Async Chat Thread - #119/INFO]: <[0;36;1mChexala[m[0;37;1m> 202 / 77 / 141[m
-[06:34:53] [Async Chat Thread - #119/INFO]: <[0;32;1m~Aria[m[0;37;1m> i'll check it out[m
-[06:35:01] [Async Chat Thread - #119/INFO]: <[0;32;1m~Aria[m[0;37;1m> i can't find ocean anywhere[m
-[06:35:12] [Async Chat Thread - #119/INFO]: <[0;32;1m~Aria[m[0;37;1m> in this direction, anyway\[m
-[06:35:24] [Async Chat Thread - #119/INFO]: <[0;36;1mChexala[m[0;37;1m> i see some hills I wanna climb, might get a good view of the land down this way[m
-[06:36:15] [Async Chat Thread - #119/INFO]: <[0;32;1m~Aria[m[0;37;1m> so many treees...[m
-[06:36:25] [Async Chat Thread - #119/INFO]: <[0;32;1m~Aria[m[0;37;1m> would be nice to be a tree bender[m
-[06:36:32] [Async Chat Thread - #119/INFO]: <[0;36;1mChexala[m[0;37;1m> hah, yeah[m
-[06:37:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[06:37:23] [Async Chat Thread - #119/INFO]: <[0;36;1mChexala[m[0;37;1m> the tree house is in a savanah area[m
-[06:37:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[06:38:14] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 82 Entities![m
-[06:38:44] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> oooo[m
-[06:38:45] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> ocean[m
-[06:38:48] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> at last[m
-[06:39:05] [Async Chat Thread - #120/INFO]: <[0;36;1mChexala[m[0;37;1m> yeah?[m
-[06:39:10] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> and surgar cane[m
-[06:39:26] [Async Chat Thread - #120/INFO]: <[0;36;1mChexala[m[0;37;1m> oh, i found ocean too, and desert[m
-[06:39:41] [User Authenticator #27/INFO]: UUID of player UncannyMelon is 2491ef2d-b142-48c9-8431-f0d781c898f1
-[06:39:41] [Server thread/INFO]: UncannyMelon[/76.14.71.96:55549] logged in with entity id 298806 at ([worlds/bravenewworld] -131.65085461932208, 65.0, 186.6466777677016)
-[06:39:57] [Server thread/INFO]: UncannyMelon issued server command: /bending choose
-[06:40:01] [Server thread/INFO]: UncannyMelon issued server command: /bending choose air
-[06:40:12] [Async Chat Thread - #120/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Sigh[m
-[06:40:26] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> embrace yourself alex[m
-[06:40:34] [Server thread/INFO]: Chani issued server command: /spawn
-[06:40:52] [Async Chat Thread - #120/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> This isn't myself. I want to create, You've only given me the capacity to destroy[m
-[06:41:11] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> destruction is creation in its own way[m
-[06:41:26] [Async Chat Thread - #120/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Regardless it is not my way[m
-[06:41:38] [Server thread/INFO]: UncannyMelon issued server command: /bending display fire
-[06:41:43] [Server thread/INFO]: UncannyMelon issued server command: /bending bind blaze
-[06:41:50] [Server thread/INFO]: UncannyMelon issued server command: /bending bind fireblast
-[06:41:59] [Server thread/INFO]: UncannyMelon issued server command: /bending bind fireburst
-[06:42:01] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> you might be surprised[m
-[06:42:37] [Async Chat Thread - #120/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> I doubt that. I cannot hover to build tall things, I am not swift to limit the boredom of travel[m
-[06:42:48] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> you can fly[m
-[06:43:14] [Async Chat Thread - #120/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Swifter than a bird? I think not[m
-[06:43:34] [Async Chat Thread - #120/INFO]: <[0;32;1m~Aria[m[0;37;1m> try it out[m
-[06:43:42] [Async Chat Thread - #120/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> okay then[m
-[06:43:48] [Server thread/INFO]: UncannyMelon issued server command: /tpa Chani
-[06:44:00] [Server thread/INFO]: UncannyMelon issued server command: /bending bind firejet
-[06:44:07] [Server thread/WARN]: UncannyMelon moved wrongly!
-[06:44:33] [Server thread/INFO]: UncannyMelon issued server command: /bending bind walloffire
-[06:44:41] [Server thread/INFO]: UncannyMelon issued server command: /bending bind lightning
-[06:45:07] [Server thread/INFO]: UncannyMelon issued server command: /tpa Chani
-[06:45:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[06:45:24] [Server thread/WARN]: UncannyMelon moved wrongly!
-[06:45:49] [Server thread/INFO]: UncannyMelon issued server command: /bending diplay fire
-[06:45:53] [Server thread/INFO]: UncannyMelon issued server command: /bending display fire
-[06:45:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[06:46:17] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 52 Entities![m
-[06:46:19] [Server thread/INFO]: UncannyMelon issued server command: /tpa Chexala
-[06:46:47] [Server thread/INFO]: Chani fell from a high place
-[06:46:57] [Server thread/INFO]: Chani issued server command: /back
-[06:47:04] [Server thread/INFO]: Chexala issued server command: /help
-[06:47:11] [Server thread/INFO]: Chani fell from a high place
-[06:47:18] [Server thread/INFO]: Chani issued server command: /return
-[06:47:22] [Server thread/INFO]: Chexala issued server command: /hrlp 2
-[06:47:25] [Async Chat Thread - #121/INFO]: <[0;32;1m~Aria[m[0;37;1m> D:[m
-[06:47:29] [Async Chat Thread - #121/INFO]: <[0;32;1m~Aria[m[0;37;1m> itburns![m
-[06:47:31] [Server thread/INFO]: Chexala issued server command: /help 2
-[06:47:38] [Async Chat Thread - #121/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> As does the pain of my loss[m
-[06:47:52] [Async Chat Thread - #121/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Know that your pain is half[m
-[06:47:53] [Server thread/INFO]: Chexala issued server command: /help 3
-[06:48:06] [Server thread/INFO]: Chexala issued server command: /help 5
-[06:48:23] [Server thread/INFO]: Chexala issued server command: /warp
-[06:48:29] [Async Chat Thread - #121/INFO]: <[0;32;1m~Aria[m[0;37;1m> pain is the soul growing stronger, that is what i was taught[m
-[06:48:50] [Async Chat Thread - #121/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Your teacher was a drunk and you a fool[m
-[06:49:08] [Async Chat Thread - #121/INFO]: <[0;32;1m~Aria[m[0;37;1m> he... was drunk, but i respect him nontheless[m
-[06:49:24] [Async Chat Thread - #121/INFO]: <[0;36;1mChexala[m[0;37;1m> i found a new witch hut out in this ocean[m
-[06:49:29] [Async Chat Thread - #121/INFO]: <[0;32;1m~Aria[m[0;37;1m> :D[m
-[06:50:15] [Async Chat Thread - #121/INFO]: <[0;36;1mChexala[m[0;37;1m> how do I set a home again?[m
-[06:50:20] [Async Chat Thread - #121/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> ./sethome home[m
-[06:50:28] [Server thread/INFO]: UncannyMelon walked into fire whilst fighting a mob
-[06:50:31] [Server thread/INFO]: Chexala issued server command: /sethome
-[06:50:41] [Async Chat Thread - #121/INFO]: <[0;32;1m~Aria[m[0;37;1m> appropriate[m
-[06:50:43] [Server thread/INFO]: UncannyMelon issued server command: /bending display fire
-[06:51:04] [Server thread/INFO]: UncannyMelon issued server command: /bending bind blaze
-[06:51:19] [Server thread/INFO]: Chani fell from a high place
-[06:51:44] [Server thread/INFO]: Chexala issued server command: /spawn
-[06:52:18] [Server thread/INFO]: Chexala issued server command: /home
-[06:52:19] [Server thread/INFO]: UncannyMelon issued server command: /bending bind blaze
-[06:52:25] [Server thread/INFO]: UncannyMelon issued server command: /bending bind fireblast
-[06:52:40] [Async Chat Thread - #122/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> ah[m
-[06:52:43] [Async Chat Thread - #122/INFO]: <[0;32;1m~Aria[m[0;37;1m> we are not enemies![m
-[06:52:44] [Async Chat Thread - #122/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> I can destroy things[m
-[06:52:47] [Server thread/INFO]: Chani issued server command: /return
-[06:52:48] [Async Chat Thread - #122/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Like HELL WE AREN'T[m
-[06:52:57] [Async Chat Thread - #122/INFO]: <[0;36;1mChexala[m[0;37;1m> :D[m
-[06:52:58] [Server thread/INFO]: UncannyMelon was shot by Skeleton
-[06:52:59] [Server thread/INFO]: Chani issued server command: /spawn
-[06:53:18] [Server thread/INFO]: Chexala issued server command: /spawn
-[06:53:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[06:54:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[06:54:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 22 Entities![m
-[06:54:22] [Server thread/INFO]: UncannyMelon issued server command: /BENDING BIND BLAST
-[06:54:28] [Server thread/INFO]: UncannyMelon issued server command: /bending display
-[06:55:03] [Server thread/INFO]: Chani was slain by Spider
-[06:55:16] [Server thread/INFO]: UncannyMelon fell from a high place
-[06:56:22] [Server thread/INFO]: UncannyMelon issued server command: /bending
-[06:56:26] [Server thread/INFO]: UncannyMelon issued server command: /bending display fire
-[06:56:40] [Server thread/INFO]: UncannyMelon issued server command: /bending bind fireburst
-[06:57:03] [Server thread/WARN]: UncannyMelon moved wrongly!
-[06:57:32] [Server thread/INFO]: UncannyMelon issued server command: /bending bind fireblast
-[06:57:47] [Server thread/INFO]: UncannyMelon issued server command: /bending bind blaze
-[06:57:58] [Server thread/INFO]: UncannyMelon issued server command: /bending bind fireshield
-[06:58:08] [Server thread/INFO]: UncannyMelon issued server command: /bending bind firejet
-[06:58:33] [Craft Scheduler Thread - 1030/INFO]: [Metrics] Connection timed out
-[06:58:36] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[06:58:43] [Server thread/INFO]: UncannyMelon issued server command: /bending display
-[06:58:49] [Server thread/INFO]: UncannyMelon issued server command: /bending display fire
-[06:59:09] [Server thread/INFO]: UncannyMelon issued server command: /bending bind heatcontrol
-[06:59:29] [Server thread/INFO]: UncannyMelon issued server command: /bending display
-[06:59:36] [Server thread/INFO]: Chani fell from a high place
-[06:59:44] [Server thread/INFO]: Chexala issued server command: /home
-[07:00:18] [Async Chat Thread - #123/INFO]: <[0;32;1m~Aria[m[0;37;1m> alex.... no...[m
-[07:00:24] [Async Chat Thread - #123/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> offensive power my ass[m
-[07:00:27] [Async Chat Thread - #123/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> its just a bunch of fluff[m
-[07:00:32] [Async Chat Thread - #123/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> with no real utility[m
-[07:00:34] [Server thread/INFO]: Chani burned to death
-[07:00:36] [Async Chat Thread - #123/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> behond fire immmunity[m
-[07:00:44] [Server thread/INFO]: Chani lost connection: Disconnected
-[07:00:44] [Server thread/INFO]: Chani left the game.
-[07:01:10] [Server thread/INFO]: UncannyMelon issued server command: /bending display fire
-[07:01:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:01:39] [Server thread/INFO]: Chexala issued server command: /spawn
-[07:01:43] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] And so, bitter conflict was born.[m
-[07:02:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:02:01] [Async Chat Thread - #124/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Why don't you go ruin Michael's experience instead?[m
-[07:02:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 14 Entities![m
-[07:02:23] [Async Chat Thread - #124/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Also apparently I don't have fire immunity[m
-[07:02:34] [Async Chat Thread - #124/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> I can just turn lave into cobble[m
-[07:02:37] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] The fire benders, consumed with desire, began a campaign of terror.[m
-[07:02:52] [Async Chat Thread - #124/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> You mean consumed with vengance[m
-[07:03:08] [Server thread/INFO]: UncannyMelon went up in flames
-[07:03:17] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] A vengful desire.[m
-[07:03:32] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
-[07:04:01] [Server thread/INFO]: UncannyMelon issued server command: /bending display
-[07:04:13] [Async Chat Thread - #125/INFO]: <[0;36;1mChexala[m[0;37;1m> welp, gonna go hide in my water tribe area now[m
-[07:04:16] [Server thread/INFO]: Chexala issued server command: /home
-[07:05:08] [Async Chat Thread - #125/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> I noticed you spoke not a word against this injustice[m
-[07:05:15] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] The four tribes have been brought together.  But how long, until they are blown apart?[m
-[07:05:37] [Async Chat Thread - #125/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Speaking of blowing things apart. I Assume that wooden house by spawn is yours?[m
-[07:05:45] [Async Chat Thread - #125/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> A lovely dwelling[m
-[07:05:52] [Async Chat Thread - #125/INFO]: <[0;36;1mChexala[m[0;37;1m> which wooden house?[m
-[07:06:07] [Async Chat Thread - #125/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> The one in the high cliff[m
-[07:06:13] [Async Chat Thread - #125/INFO]: <[0;36;1mChexala[m[0;37;1m> oh yeah that[m
-[07:06:15] [Async Chat Thread - #125/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Or perhaps I should say formerly[m
-[07:06:37] [Async Chat Thread - #125/INFO]: <[0;36;1mChexala[m[0;37;1m> what, did you burn it down?[m
-[07:06:41] [Async Chat Thread - #125/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> About too[m
-[07:06:49] [Async Chat Thread - #125/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Unless of course FATE INTERVENES[m
-[07:07:44] [Server thread/INFO]: UncannyMelon issued server command: /bending display
-[07:08:31] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] Fate is but the board the pieces play upon.[m
-[07:08:37] [Async Chat Thread - #126/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> What a lovely collection of records[m
-[07:09:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:09:39] [Server thread/INFO]: UncannyMelon issued server command: /bending display
-[07:10:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:10:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 13 Entities![m
-[07:11:12] [Async Chat Thread - #127/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> These explosions are tiny, but wood is soft[m
-[07:12:02] [Async Chat Thread - #127/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> Your house burns Aria. It's not too late[m
-[07:12:43] [Server thread/INFO]: UncannyMelon hit the ground too hard
-[07:13:04] [Async Chat Thread - #128/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> sigh[m
-[07:13:08] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] And so the wheel turns.[m
-[07:13:30] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] Who is to say where it will stop.[m
-[07:14:44] [Server thread/INFO]: Chexala issued server command: /spawn
-[07:14:52] [Server thread/INFO]: Chexala issued server command: /home
-[07:15:19] [Server thread/INFO]: Chexala issued server command: /spwan
-[07:15:23] [Server thread/INFO]: Chexala issued server command: /spawn
-[07:17:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:18:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:18:23] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 25 Entities![m
-[07:19:08] [Server thread/INFO]: UncannyMelon issued server command: /bending display
-[07:19:21] [Server thread/INFO]: UncannyMelon fell from a high place
-[07:19:36] [Server thread/INFO]: Chexala issued server command: /home
-[07:20:19] [Server thread/WARN]: UncannyMelon moved wrongly!
-[07:20:36] [Server thread/INFO]: UncannyMelon fell from a high place
-[07:21:40] [Server thread/INFO]: UncannyMelon fell from a high place
-[07:22:09] [Server thread/INFO]: UncannyMelon burned to death
-[07:22:23] [Server thread/INFO]: UncannyMelon burned to death
-[07:22:36] [Server thread/INFO]: UncannyMelon burned to death
-[07:22:51] [Server thread/INFO]: UncannyMelon burned to death
-[07:23:04] [Server thread/INFO]: UncannyMelon burned to death
-[07:23:18] [Server thread/INFO]: UncannyMelon went up in flames
-[07:23:33] [Server thread/INFO]: UncannyMelon burned to death
-[07:24:04] [Server thread/INFO]: UncannyMelon burned to death
-[07:25:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:25:23] [Async Chat Thread - #129/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> I will turn this world into hell[m
-[07:26:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:26:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
-[07:26:54] [Server thread/INFO]: UncannyMelon issued server command: /home
-[07:27:27] [Server thread/INFO]: UncannyMelon went up in flames
-[07:27:43] [Server thread/INFO]: UncannyMelon burned to death
-[07:27:57] [Server thread/INFO]: UncannyMelon burned to death
-[07:28:02] [Server thread/INFO]: UncannyMelon issued server command: /home
-[07:28:15] [Server thread/INFO]: UncannyMelon issued server command: /home
-[07:28:17] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:29:12] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:30:35] [Server thread/INFO]: Chexala issued server command: /home
-[07:30:45] [Server thread/INFO]: Chexala lost connection: Disconnected
-[07:30:45] [Server thread/INFO]: Chexala left the game.
-[07:32:28] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:32:33] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:32:46] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:33:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:34:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:34:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
-[07:35:43] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:35:46] [Server thread/INFO]: UncannyMelon went up in flames
-[07:35:54] [Async Chat Thread - #130/INFO]: <[0;31;1mUncannyMelon[m[0;37;1m> excellent[m
-[07:35:55] [Server thread/INFO]: UncannyMelon issued server command: /home
-[07:41:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:41:27] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:41:59] [Server thread/INFO]: UncannyMelon burned to death
-[07:42:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:42:13] [Server thread/INFO]: UncannyMelon burned to death
-[07:42:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
-[07:42:27] [Server thread/INFO]: UncannyMelon burned to death
-[07:47:35] [Server thread/INFO]: UncannyMelon issued server command: /home
-[07:48:13] [Server thread/INFO]: UncannyMelon issued server command: /spawn
-[07:49:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:50:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:50:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
-[07:50:37] [Server thread/INFO]: UncannyMelon lost connection: Disconnected
-[07:50:37] [Server thread/INFO]: UncannyMelon left the game.
-[07:57:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[07:58:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[07:58:30] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[08:01:19] [Craft Scheduler Thread - 1064/INFO]: [Metrics] Connection timed out
-[08:05:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[08:06:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[08:06:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[08:13:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[08:14:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[08:14:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[08:21:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[08:22:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[08:22:18] [Craft Scheduler Thread - 1078/INFO]: [Metrics] Connection timed out
-[08:22:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[08:29:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[08:30:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[08:30:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[08:32:50] [Craft Scheduler Thread - 1082/INFO]: [Metrics] Connection timed out
-[08:37:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[08:38:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[08:38:46] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[08:45:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[08:46:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[08:46:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[08:53:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[08:54:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[08:54:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[09:01:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:02:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:02:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[09:04:11] [Craft Scheduler Thread - 1098/INFO]: [Metrics] Connection timed out
-[09:09:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:10:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:10:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[09:17:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:18:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:18:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[09:25:08] [Craft Scheduler Thread - 1114/INFO]: [Metrics] Connection timed out
-[09:25:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:26:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:26:52] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[09:33:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:34:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:34:53] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[09:35:37] [Craft Scheduler Thread - 1118/INFO]: [Metrics] Connection timed out
-[09:41:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:42:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:42:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[09:46:04] [Craft Scheduler Thread - 1126/INFO]: [Metrics] Connection timed out
-[09:49:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:50:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:50:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[09:57:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[09:58:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[09:58:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[10:05:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[10:06:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[10:06:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[10:13:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[10:14:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[10:14:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[10:17:27] [Craft Scheduler Thread - 1143/INFO]: [Metrics] Connection timed out
-[10:21:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[10:22:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[10:23:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[10:29:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[10:30:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[10:31:02] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[10:38:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[10:38:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[10:39:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[10:46:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[10:46:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[10:47:06] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[10:54:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[10:54:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[10:55:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[10:59:26] [Craft Scheduler Thread - 1162/INFO]: [Metrics] Connection timed out
-[11:02:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:02:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:03:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[11:10:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:10:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:11:12] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[11:18:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:18:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:19:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[11:20:20] [Craft Scheduler Thread - 1176/INFO]: [Metrics] Connection timed out
-[11:26:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:27:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:27:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[11:30:52] [Craft Scheduler Thread - 1180/INFO]: [Metrics] Connection timed out
-[11:34:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:35:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:35:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[11:42:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:43:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:43:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[11:50:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:51:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:51:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[11:51:46] [Craft Scheduler Thread - 1192/INFO]: [Metrics] Connection timed out
-[11:58:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[11:59:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[11:59:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[12:06:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[12:07:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[12:07:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[12:12:43] [Craft Scheduler Thread - 1201/INFO]: [Metrics] Connection timed out
-[12:14:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[12:15:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[12:15:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[12:22:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[12:23:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[12:23:29] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[12:30:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[12:31:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[12:31:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[12:33:39] [Craft Scheduler Thread - 1214/INFO]: [Metrics] Connection timed out
-[12:38:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[12:39:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[12:39:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[12:44:05] [Craft Scheduler Thread - 1218/INFO]: [Metrics] Connection timed out
-[12:46:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[12:47:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[12:47:36] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[12:54:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[12:55:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[12:55:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[13:02:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:03:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:03:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[13:10:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:11:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:11:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[13:15:33] [Craft Scheduler Thread - 1235/INFO]: [Metrics] Connection timed out
-[13:18:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:19:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:19:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[13:26:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:27:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:27:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[13:34:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:35:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:35:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[13:42:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:43:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:43:46] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[13:46:55] [Craft Scheduler Thread - 1252/INFO]: [Metrics] Connection timed out
-[13:50:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:51:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:51:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[13:57:20] [Craft Scheduler Thread - 1260/INFO]: [Metrics] Connection timed out
-[13:58:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[13:59:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[13:59:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[14:06:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[14:07:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[14:07:48] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[14:14:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[14:15:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[14:15:48] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[14:18:21] [Craft Scheduler Thread - 1268/INFO]: [Metrics] Connection timed out
-[14:22:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[14:23:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[14:23:51] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[14:30:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[14:31:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[14:31:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[14:38:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[14:39:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[14:39:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[14:46:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[14:47:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[14:47:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[14:55:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[14:55:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[14:56:03] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[15:00:15] [Craft Scheduler Thread - 1294/INFO]: [Metrics] Connection timed out
-[15:03:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:03:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[15:04:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[15:10:43] [Craft Scheduler Thread - 1299/INFO]: [Metrics] Connection timed out
-[15:11:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:11:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[15:12:06] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[15:19:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:19:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[15:20:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[15:27:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:27:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[15:28:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[15:35:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:35:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[15:36:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[15:43:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:43:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[15:44:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[15:51:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:51:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[15:52:14] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[15:59:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[15:59:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:00:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[16:07:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[16:08:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:08:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[16:15:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[16:16:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:16:28] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[16:23:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[16:24:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:24:30] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[16:31:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[16:32:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:32:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[16:39:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[16:40:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:40:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[16:47:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[16:48:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:48:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[16:55:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[16:56:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[16:56:41] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[17:03:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:04:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:04:41] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[17:11:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:12:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:12:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[17:19:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:20:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:20:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[17:27:01] [Craft Scheduler Thread - 1372/INFO]: [Metrics] Connection timed out
-[17:27:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:28:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:28:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[17:35:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:36:26] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:36:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[17:41:33] [User Authenticator #28/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[17:41:33] [Server thread/INFO]: Chani[/98.210.147.109:62184] logged in with entity id 325645 at ([worlds/bravenewworld] 20.445071880584397, 80.0, 694.2664137074202)
-[17:43:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:44:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:44:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
-[17:46:27] [Server thread/INFO]: Chani issued server command: /spawn
-[17:47:06] [Server thread/INFO]: Chani lost connection: Disconnected
-[17:47:06] [Server thread/INFO]: Chani left the game.
-[17:51:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:52:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:52:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
-[17:58:25] [Craft Scheduler Thread - 1389/INFO]: [Metrics] Connection timed out
-[17:59:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:00:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:00:51] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[18:05:19] [User Authenticator #29/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
-[18:05:19] [Server thread/INFO]: Chexala[/50.1.102.195:52196] logged in with entity id 326517 at ([worlds/bravenewworld] -748.5, 66.0, -252.5)
-[18:05:36] [Server thread/INFO]: Chexala issued server command: /spwan
-[18:05:40] [Server thread/INFO]: Chexala issued server command: /spawn
-[18:06:27] [Server thread/INFO]: Chexala issued server command: /home
-[18:07:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:08:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:08:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 17 Entities![m
-[18:11:14] [Server thread/INFO]: Chexala lost connection: Disconnected
-[18:11:14] [Server thread/INFO]: Chexala left the game.
-[18:11:22] [User Authenticator #30/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
-[18:11:22] [Server thread/INFO]: Chexala[/50.1.102.195:52325] logged in with entity id 327765 at ([worlds/bravenewworld] -749.2813112221875, 59.0, -252.31784277856116)
-[18:15:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:16:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:16:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
-[18:23:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:24:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:24:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 9 Entities![m
-[18:31:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:32:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:32:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 7 Entities![m
-[18:37:37] [Server thread/INFO]: Chexala lost connection: Disconnected
-[18:37:37] [Server thread/INFO]: Chexala left the game.
-[18:38:04] [User Authenticator #31/INFO]: UUID of player Chexala is 232f5f76-3c82-4ff0-b524-24ab40bf7f63
-[18:38:04] [Server thread/INFO]: Chexala[/50.1.102.195:52373] logged in with entity id 329600 at ([worlds/bravenewworld] -747.3000000119209, 63.0, -252.12548606118773)
-[18:39:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:40:21] [Craft Scheduler Thread - 1414/INFO]: [Metrics] Connection timed out
-[18:40:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:41:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 4 Entities![m
-[18:42:01] [Server thread/INFO]: Chexala lost connection: Disconnected
-[18:42:01] [Server thread/INFO]: Chexala left the game.
-[18:48:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:48:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:49:02] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[18:56:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:56:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:57:04] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[19:02:15] [Thread-4/INFO]: Stopping server
-[19:02:15] [Thread-4/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[00:05:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:06:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:06:52] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[00:10:02] [Craft Scheduler Thread - 178/INFO]: [Metrics] Connection timed out
+[00:13:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:14:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:14:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[00:21:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:22:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:23:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[00:29:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:30:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:31:02] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[00:31:02] [Craft Scheduler Thread - 186/INFO]: [Metrics] Connection timed out
+[00:38:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:38:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:39:06] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[00:41:34] [Craft Scheduler Thread - 195/INFO]: [Metrics] Connection timed out
+[00:46:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:46:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:47:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[00:52:01] [Craft Scheduler Thread - 199/INFO]: [Metrics] Connection timed out
+[00:54:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:54:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:55:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[01:02:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:02:31] [Craft Scheduler Thread - 204/INFO]: [Metrics] Connection timed out
+[01:02:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:03:10] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[01:10:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:10:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:11:12] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[01:18:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:18:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:19:14] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[01:23:26] [Craft Scheduler Thread - 217/INFO]: [Metrics] Connection timed out
+[01:26:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:26:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:27:18] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[01:34:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:34:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:35:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[01:42:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:42:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:43:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[01:44:25] [Craft Scheduler Thread - 229/INFO]: [Metrics] Connection timed out
+[01:50:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:51:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:51:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[01:54:52] [Craft Scheduler Thread - 233/INFO]: [Metrics] Connection timed out
+[01:58:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:59:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:59:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[02:05:20] [Craft Scheduler Thread - 240/INFO]: [Metrics] Connection timed out
+[02:06:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:07:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:07:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[02:14:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:15:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:15:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[02:22:26] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:23:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:23:28] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[02:30:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:31:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:31:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[02:36:48] [Craft Scheduler Thread - 254/INFO]: [Metrics] Connection timed out
+[02:38:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:39:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:39:36] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[02:46:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:47:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:47:19] [Craft Scheduler Thread - 263/INFO]: [Metrics] Connection timed out
+[02:47:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[02:54:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:55:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:55:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[02:57:47] [Craft Scheduler Thread - 268/INFO]: [Metrics] Connection timed out
+[03:02:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:03:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:03:41] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[03:10:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:11:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:11:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[03:18:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:19:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:19:41] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[03:26:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:27:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:27:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[03:29:08] [Craft Scheduler Thread - 284/INFO]: [Metrics] Connection timed out
+[03:34:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:35:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:35:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[03:39:33] [Craft Scheduler Thread - 287/INFO]: [Metrics] Connection timed out
+[03:42:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:43:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:43:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[03:50:04] [Craft Scheduler Thread - 296/INFO]: [Metrics] Connection timed out
+[03:50:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:51:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:51:48] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[03:58:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[03:59:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[03:59:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[04:06:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[04:07:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[04:07:53] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[04:14:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[04:15:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[04:15:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[04:22:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[04:23:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[04:23:56] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[04:30:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[04:31:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[04:31:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[04:38:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[04:39:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[04:39:56] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[04:42:24] [Craft Scheduler Thread - 322/INFO]: [Metrics] Connection timed out
+[04:46:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[04:47:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[04:48:01] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[04:55:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[04:55:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[04:56:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[05:03:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:03:29] [Craft Scheduler Thread - 335/INFO]: [Metrics] Connection timed out
+[05:03:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[05:04:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[05:11:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:11:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[05:12:11] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[05:17:27] [User Authenticator #17/INFO]: UUID of player UncannyMelon is 2491ef2d-b142-48c9-8431-f0d781c898f1
+[05:17:27] [Server thread/INFO]: UncannyMelon[/76.14.71.96:62702] logged in with entity id 90077 at ([worlds/bravenewworld] -128.4848582069984, 73.0, 200.38543264830386)
+[05:18:16] [Async Chat Thread - #19/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> lkjh[m
+[05:19:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:19:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[05:20:13] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 4 Entities![m
+[05:24:26] [Craft Scheduler Thread - 344/INFO]: [Metrics] Connection timed out
+[05:27:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:27:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[05:28:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
+[05:30:22] [Server thread/INFO]: UncannyMelon issued server command: /home
+[05:31:18] [Server thread/INFO]: UncannyMelon issued server command: /home
+[05:34:53] [Craft Scheduler Thread - 344/INFO]: [Metrics] Connection timed out
+[05:35:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:35:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[05:36:14] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 8 Entities![m
+[05:39:55] [Server thread/INFO]: UncannyMelon issued server command: /home
+[05:40:00] [Server thread/INFO]: UncannyMelon issued server command: /back
+[05:40:39] [Server thread/INFO]: UncannyMelon issued server command: /bending display
+[05:42:09] [Server thread/INFO]: UncannyMelon issued server command: /home
+[05:43:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:43:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[05:44:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 10 Entities![m
+[05:45:18] [Craft Scheduler Thread - 360/INFO]: [Metrics] Connection timed out
+[05:46:38] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[05:51:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:51:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[05:52:17] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 31 Entities![m
+[05:53:21] [Server thread/INFO]: UncannyMelon issued server command: /back
+[05:53:23] [Server thread/INFO]: UncannyMelon issued server command: /back
+[05:53:25] [Server thread/INFO]: UncannyMelon issued server command: /home
+[05:53:29] [Server thread/INFO]: UncannyMelon issued server command: /back
+[05:53:32] [Server thread/INFO]: UncannyMelon issued server command: /back
+[05:55:49] [Craft Scheduler Thread - 367/INFO]: [Metrics] Connection timed out
+[05:57:08] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airburst
+[05:57:51] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[05:59:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[05:59:40] [Server thread/INFO]: UncannyMelon issued server command: /bendin gbind airsuction
+[05:59:49] [Server thread/INFO]: UncannyMelon issued server command: /bending dispay air
+[05:59:52] [Server thread/INFO]: UncannyMelon issued server command: /bending display air
+[05:59:56] [Server thread/INFO]: UncannyMelon issued server command: /bendig bind airsuction
+[05:59:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:00:02] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airsuction
+[06:00:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
+[06:00:23] [Server thread/INFO]: UncannyMelon issued server command: /display
+[06:00:29] [Server thread/INFO]: UncannyMelon issued server command: /bending display
+[06:01:36] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airblast
+[06:05:25] [Server thread/WARN]: UncannyMelon moved wrongly!
+[06:06:18] [Craft Scheduler Thread - 371/INFO]: [Metrics] Connection timed out
+[06:07:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[06:08:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:08:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 12 Entities![m
+[06:08:24] [Server thread/INFO]: UncannyMelon issued server command: /bending display
+[06:08:38] [Server thread/INFO]: UncannyMelon issued server command: /bending display air
+[06:08:50] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airswipe
+[06:09:05] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airblast
+[06:09:15] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airshield
+[06:12:56] [Server thread/INFO]: UncannyMelon issued server command: /display
+[06:12:59] [Server thread/INFO]: UncannyMelon issued server command: /bending display
+[06:13:08] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airshield
+[06:13:26] [Server thread/INFO]: UncannyMelon issued server command: /bending bind tornado
+[06:14:08] [Server thread/INFO]: UncannyMelon issued server command: /display
+[06:15:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[06:16:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:16:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 10 Entities![m
+[06:16:34] [Server thread/INFO]: UncannyMelon issued server command: /display
+[06:16:48] [Craft Scheduler Thread - 379/INFO]: [Metrics] Connection timed out
+[06:16:50] [Server thread/INFO]: UncannyMelon issued server command: /bending display air
+[06:16:57] [Server thread/INFO]: UncannyMelon issued server command: /bending display
+[06:17:17] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airburst
+[06:19:03] [Server thread/INFO]: UncannyMelon issued server command: /back
+[06:19:18] [Server thread/INFO]: UncannyMelon issued server command: /back
+[06:21:13] [Server thread/INFO]: UncannyMelon lost connection: Disconnected
+[06:21:13] [Server thread/INFO]: UncannyMelon left the game.
+[06:23:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[06:24:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:24:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[06:27:16] [Craft Scheduler Thread - 382/INFO]: [Metrics] Connection timed out
+[06:31:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[06:32:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:32:29] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[06:37:44] [Craft Scheduler Thread - 388/INFO]: [Metrics] Connection timed out
+[06:39:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[06:40:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:40:31] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[06:47:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[06:48:11] [Craft Scheduler Thread - 391/INFO]: [Metrics] Connection timed out
+[06:48:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:48:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[06:55:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[06:56:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[06:56:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[07:03:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[07:04:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[07:04:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[07:11:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[07:12:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[07:12:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[07:19:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[07:20:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[07:20:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[07:27:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[07:28:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[07:28:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[07:30:07] [Craft Scheduler Thread - 420/INFO]: [Metrics] Connection timed out
+[07:35:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[07:36:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[07:36:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[07:43:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[07:44:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[07:44:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[07:51:01] [Craft Scheduler Thread - 425/INFO]: [Metrics] Connection timed out
+[07:51:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[07:52:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[07:52:46] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[07:59:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:00:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:00:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[08:07:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:08:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:08:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[08:12:00] [Craft Scheduler Thread - 438/INFO]: [Metrics] Connection timed out
+[08:15:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:16:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:16:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[08:23:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:24:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:24:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[08:31:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:32:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:32:53] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[08:32:56] [Craft Scheduler Thread - 450/INFO]: [Metrics] Connection timed out
+[08:39:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:40:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:40:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[08:43:23] [Craft Scheduler Thread - 454/INFO]: [Metrics] Connection timed out
+[08:47:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:48:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:48:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[08:55:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[08:56:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[08:56:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[09:03:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[09:04:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[09:05:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[09:11:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[09:12:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[09:13:03] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[09:20:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[09:20:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[09:21:02] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[09:25:19] [Craft Scheduler Thread - 473/INFO]: [Metrics] Connection timed out
+[09:28:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[09:28:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[09:29:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[09:35:47] [Craft Scheduler Thread - 483/INFO]: [Metrics] Connection timed out
+[09:36:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[09:36:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[09:37:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[09:44:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[09:44:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[09:45:10] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[09:46:15] [Craft Scheduler Thread - 487/INFO]: [Metrics] Connection timed out
+[09:52:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[09:52:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[09:53:14] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[10:00:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:00:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:01:16] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[10:08:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:08:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:09:18] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[10:16:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:16:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:17:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[10:24:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:25:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:25:23] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[10:32:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:33:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:33:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[10:40:26] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:41:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:41:28] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[10:48:26] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:49:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:49:28] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[10:56:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[10:57:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[10:57:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[10:59:39] [Craft Scheduler Thread - 521/INFO]: [Metrics] Connection timed out
+[11:04:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:05:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:05:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[11:10:11] [Craft Scheduler Thread - 530/INFO]: [Metrics] Connection timed out
+[11:12:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:13:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:13:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[11:20:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:20:40] [Craft Scheduler Thread - 534/INFO]: [Metrics] Connection timed out
+[11:21:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:21:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[11:28:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:29:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:29:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[11:31:15] [Craft Scheduler Thread - 537/INFO]: [Metrics] Connection timed out
+[11:36:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:37:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:37:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[11:44:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:45:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:45:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[11:52:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:53:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:53:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[12:00:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:01:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:01:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[12:08:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:09:26] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:09:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[12:16:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:17:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:17:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[12:23:25] [Craft Scheduler Thread - 567/INFO]: [Metrics] Connection timed out
+[12:24:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:25:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:25:52] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[12:32:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:33:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:33:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[12:33:56] [Craft Scheduler Thread - 570/INFO]: [Metrics] Connection timed out
+[12:40:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:41:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:41:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[12:48:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:49:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:49:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[12:54:52] [Craft Scheduler Thread - 583/INFO]: [Metrics] Connection timed out
+[12:56:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:57:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:57:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[13:04:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:05:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:05:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[13:12:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:13:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:14:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[13:15:46] [Craft Scheduler Thread - 595/INFO]: [Metrics] Connection timed out
+[13:21:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:21:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:22:06] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[13:29:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:29:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:30:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[13:37:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:37:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:38:12] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[13:45:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:45:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:46:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[13:53:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:53:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:54:18] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[14:01:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:01:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:02:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:08:17] [Craft Scheduler Thread - 618/INFO]: [Metrics] Connection timed out
+[14:09:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:09:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:10:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[14:17:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:17:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:18:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[14:25:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:25:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:26:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:33:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:34:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:34:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[14:41:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:42:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:42:26] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[14:49:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:50:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:50:14] [Craft Scheduler Thread - 644/INFO]: [Metrics] Connection timed out
+[14:50:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[14:57:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:58:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:58:29] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[15:05:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:06:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:06:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:13:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:14:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:14:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:21:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:21:31] [Craft Scheduler Thread - 661/INFO]: [Metrics] Connection timed out
+[15:22:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:22:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[15:29:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:30:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:30:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[15:37:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:38:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:38:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[15:45:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:46:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:46:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[15:53:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:54:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:54:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[16:01:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:02:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:02:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[16:03:26] [Craft Scheduler Thread - 683/INFO]: [Metrics] Connection timed out
+[16:09:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:10:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:10:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[16:17:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:18:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:18:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:24:19] [Craft Scheduler Thread - 696/INFO]: [Metrics] Connection timed out
+[16:25:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:26:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:26:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[16:33:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:34:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:34:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[16:41:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:42:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:42:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[16:49:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:50:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:50:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[16:55:43] [Craft Scheduler Thread - 713/INFO]: [Metrics] Connection timed out
+[16:57:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:58:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:58:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[17:05:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:06:12] [Craft Scheduler Thread - 717/INFO]: [Metrics] Connection timed out
+[17:06:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:06:51] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[17:13:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:14:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:14:52] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:16:38] [Craft Scheduler Thread - 720/INFO]: [Metrics] Connection timed out
+[17:21:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:22:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:22:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[17:29:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:30:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:31:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[17:37:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:38:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:39:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[17:45:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:46:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:47:01] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[17:48:05] [Craft Scheduler Thread - 737/INFO]: [Metrics] Connection timed out
+[17:54:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:54:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:55:04] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:02:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:02:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:03:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[18:10:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:10:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:11:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[18:18:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:18:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:19:13] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[18:19:36] [Craft Scheduler Thread - 753/INFO]: [Metrics] Connection timed out
+[18:26:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:26:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:27:17] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:34:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:34:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:35:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[18:40:33] [Craft Scheduler Thread - 766/INFO]: [Metrics] Connection timed out
+[18:42:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:42:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:43:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[18:50:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:51:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:51:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:58:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:59:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:59:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[19:06:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:07:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:07:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[19:14:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:15:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:15:29] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[19:22:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:23:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:23:32] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[19:30:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:31:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:31:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[19:38:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:39:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:39:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[19:46:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:47:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:47:34] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[19:54:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:55:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:55:34] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[20:02:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:03:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:03:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[20:10:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:11:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:11:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[20:18:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:19:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:19:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[20:23:04] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] meow[m
+[20:23:22] [Server thread/INFO]: CONSOLE issued server command: /list 
+[20:23:22] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[20:23:26] [Thread-4/INFO]: Stopping server
+[20:23:26] [Thread-4/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
