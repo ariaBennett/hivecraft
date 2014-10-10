@@ -59,6 +59,27 @@ stats:
 world-settings:
   default:
     verbose: true
+    anti-xray:
+      enabled: true
+      engine-mode: 1
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
+    mob-spawn-range: 4
     nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
@@ -96,34 +117,13 @@ world-settings:
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
     max-tnt-per-tick: 100
-    mob-spawn-range: 4
-    anti-xray:
-      enabled: true
-      engine-mode: 1
-      hide-blocks:
-      - 14
-      - 15
-      - 16
-      - 21
-      - 48
-      - 49
-      - 54
-      - 56
-      - 73
-      - 74
-      - 82
-      - 129
-      - 130
-      replace-blocks:
-      - 1
-      - 5
+    item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     view-distance: 10
     chunks-per-tick: 650
     clear-tick-list: false
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0

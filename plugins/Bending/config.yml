@@ -46,6 +46,7 @@ Bending:
     - GLOWING_REDSTONE_ORE
     - MYCEL
     - COBBLESTONE
+    - NETHERRACK
 Properties:
   ChiBlocker:
     ChiBlock-Duration: 2500
