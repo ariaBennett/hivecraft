@@ -143,48 +143,48 @@ Properties:
       Cooldown: 17500
   Fire:
     FireBlast:
-      Range: 1.0
-      Speed: 1.0
+      Range: 15.0
+      Speed: 15.0
       Push: 0.3
-      Radius: 1.0
+      Radius: 2.0
       Cooldown: 1500
-      Damage: 1
+      Damage: 2
       Dissipates: false
     ArcOfFire:
-      Arc: 2
-      Range: 2
+      Arc: 20
+      Range: 9
     RingOfFire:
-      Range: 1
+      Range: 7
     Extinguish:
-      Range: 2.0
-      Radius: 1.0
+      Range: 20.0
+      Radius: 7.0
     Fireball:
-      Cooldown: 10000
-      Speed: 0.1
+      Cooldown: 2000
+      Speed: 0.3
     FireJet:
-      Speed: 0.2
-      Duration: 1000
-      CoolDown: 5000
+      Speed: 0.7
+      Duration: 5000
+      CoolDown: 1000
     FireStream:
-      Speed: 1.0
+      Speed: 15.0
     WallOfFire:
-      Range: 1
-      Height: 1
-      Width: 1
-      Duration: 1000
-      Damage: 1
+      Range: 4
+      Height: 4
+      Width: 4
+      Duration: 5000
+      Damage: 2
       Interval: 500
       Cooldown: 7500
     HeatMelt:
-      Range: 1
-      Radius: 1
+      Range: 15
+      Radius: 5
     Illumination:
-      Range: 1
+      Range: 10
     Lightning:
-      Warmup: 13500
-      Range: 1
-      Miss-Chance: 50.0
-    Day-Power-Factor: 1.0
+      Warmup: 3500
+      Range: 15
+      Miss-Chance: 10.0
+    Day-Power-Factor: 1.5
   Water:
     Bloodbending:
       Throw-Factor: 0.5
