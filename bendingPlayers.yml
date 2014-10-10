@@ -2,19 +2,22 @@ version: 1
 Chani:
   ==: BendingPlayer
   SlotAbilities:
-  - 13
-  - 9
-  - 17
+  - 23
   - -1
   - -1
-  - 11
-  - 12
-  - 14
-  - 10
   - -1
-  LastTime: 1412905533446
+  - -1
+  - -1
+  - -1
+  - 20
+  - 40
+  - -1
+  LastTime: 1412910597245
   BendingTypes:
   - 2
+  - 3
+  - 1
+  - 0
   Permaremove: false
   BendToItem: false
   Language: en

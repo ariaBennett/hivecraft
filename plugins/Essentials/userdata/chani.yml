@@ -1,11 +1,11 @@
 uuid: 9625841f-6332-495c-ad91-0505c6d81186
 timestamps:
-  login: 1412903638142
+  login: 1412909237478
   lastteleport: 1412904235030
-  logout: 1412905863183
+  logout: 1412911020153
 ipAddress: 98.210.147.109
 godmode: false
-nickname: EarthFuckerAria
+nickname: Ratava
 lastlocation:
   world: worlds/bravenewworld_nether
   x: 72.30000001192093
@@ -15,9 +15,9 @@ lastlocation:
   pitch: 90.0
 afk: false
 logoutlocation:
-  world: worlds/bravenewworld
-  x: 49.886129553000366
-  y: 75.0
-  z: 674.6202375440407
-  yaw: 296.84515
-  pitch: 10.233681
+  world: worlds/firefort
+  x: -358.6348985858968
+  y: 77.48661502008778
+  z: -137.6709249972302
+  yaw: -101.117165
+  pitch: 2.8182156
