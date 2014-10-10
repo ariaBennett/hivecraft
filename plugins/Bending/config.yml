@@ -67,71 +67,71 @@ Properties:
   GlobalCooldown: 500
   Air:
     AirBlast:
-      Speed: 25.0
-      Range: 20.0
-      Affecting-Radius: 2.0
-      Push-Factor: 3.5
+      Speed: 2.0
+      Range: 2.0
+      Affecting-Radius: 1.0
+      Push-Factor: 0.5
     AirBubble:
-      Radius: 7
+      Radius: 2
     Passive:
-      Factor: 0.3
+      Factor: 0.1
     AirShield:
-      Radius: 7.0
+      Radius: 1.0
     AirSuction:
-      Speed: 25.0
-      Range: 20.0
-      Affecting-Radius: 2.0
-      Push-Factor: 3.5
+      Speed: 2.0
+      Range: 2.0
+      Affecting-Radius: 1.0
+      Push-Factor: 0.5
     AirSwipe:
-      Range: 16.0
-      Arc: 20
-      Speed: 25.0
+      Range: 1.0
+      Arc: 2
+      Speed: 2.0
       Affecting-Radius: 2.0
       Push-Factor: 1.0
-      Cooldown: 1500
+      Cooldown: 5500
     Tornado:
-      Radius: 10.0
-      Height: 25.0
-      Range: 25.0
-      Mob-Push-Factor: 1.0
-      Player-Push-Factor: 1.0
+      Radius: 1.0
+      Height: 2.0
+      Range: 2.0
+      Mob-Push-Factor: 0.0
+      Player-Push-Factor: 0.0
     AirScooter:
-      Speed: 0.675
+      Speed: 0.005
     AirSpout:
-      Height: 20.0
+      Height: 2.0
   Earth:
     Catapult:
-      Length: 7
-      Speed: 12.0
-      Push: 5.0
+      Length: 1
+      Speed: 1.0
+      Push: 1.0
     CompactColumn:
-      Range: 20.0
-      Speed: 8.0
+      Range: 2.0
+      Speed: 1.0
     EarthBlast:
       Hit-Self: false
-      Prepare-Range: 7.0
-      Range: 20.0
-      Speed: 35.0
+      Prepare-Range: 1.0
+      Range: 2.0
+      Speed: 2.0
       Revert: true
     EarthColumn:
-      Height: 256
+      Height: 2
     EarthGrab:
-      Range: 20.0
+      Range: 2.0
     EarthPassive:
       Wait-Before-Reverse-Changes: 3000
     EarthTunnel:
       Max-Radius: 1.0
-      Range: 10.0
+      Range: 1.0
       Radius: 0.25
-      Interval: 30
+      Interval: 3000
       Revert: true
     EarthWall:
-      Range: 15
-      Height: 16
-      Width: 12
+      Range: 1
+      Height: 2
+      Width: 1
     Collapse:
-      Range: 20
-      Radius: 7.0
+      Range: 2
+      Radius: 1.0
     Tremorsense:
       Cooldown: 1000
       Max-Depth: 10
@@ -139,86 +139,86 @@ Properties:
       Light-Threshold: 10
     EarthArmor:
       Duration: 10000
-      Strength: 8
+      Strength: 1
       Cooldown: 17500
   Fire:
     FireBlast:
-      Range: 15.0
-      Speed: 15.0
+      Range: 1.0
+      Speed: 1.0
       Push: 0.3
-      Radius: 2.0
+      Radius: 1.0
       Cooldown: 1500
-      Damage: 2
+      Damage: 1
       Dissipates: false
     ArcOfFire:
-      Arc: 20
-      Range: 9
+      Arc: 2
+      Range: 2
     RingOfFire:
-      Range: 7
+      Range: 1
     Extinguish:
-      Range: 20.0
-      Radius: 7.0
+      Range: 2.0
+      Radius: 1.0
     Fireball:
-      Cooldown: 2000
-      Speed: 0.3
+      Cooldown: 10000
+      Speed: 0.1
     FireJet:
-      Speed: 0.7
-      Duration: 5000
-      CoolDown: 1000
+      Speed: 0.2
+      Duration: 1000
+      CoolDown: 5000
     FireStream:
-      Speed: 15.0
+      Speed: 1.0
     WallOfFire:
-      Range: 4
-      Height: 4
-      Width: 4
-      Duration: 5000
-      Damage: 2
+      Range: 1
+      Height: 1
+      Width: 1
+      Duration: 1000
+      Damage: 1
       Interval: 500
       Cooldown: 7500
     HeatMelt:
-      Range: 15
-      Radius: 5
+      Range: 1
+      Radius: 1
     Illumination:
-      Range: 10
+      Range: 1
     Lightning:
-      Warmup: 3500
-      Range: 15
-      Miss-Chance: 10.0
-    Day-Power-Factor: 1.5
+      Warmup: 13500
+      Range: 1
+      Miss-Chance: 50.0
+    Day-Power-Factor: 1.0
   Water:
     Bloodbending:
-      Throw-Factor: 2.0
-      Range: 10
+      Throw-Factor: 0.5
+      Range: 2
     FreezeMelt:
-      Range: 20
-      Radius: 5
+      Range: 2
+      Radius: 1
     HealingWaters:
-      Radius: 5.0
-      Interval: 750
+      Radius: 1.0
+      Interval: 4750
     Plantbending:
       Regrow-Time: 180000
     WaterManipulation:
-      Range: 20.0
-      Speed: 35.0
+      Range: 2.0
+      Speed: 3.0
     WaterSpout:
-      Height: 15
+      Height: 2
     WaterWall:
-      Range: 5.0
-      Radius: 2.0
+      Range: 1.0
+      Radius: 0.5
     Wave:
-      Radius: 3.0
-      Horizontal-Push-Force: 1.0
-      Vertical-Push-Force: 0.2
+      Radius: 1.0
+      Horizontal-Push-Force: 0.4
+      Vertical-Push-Force: 0.1
     FastSwimming:
-      Factor: 0.7
+      Factor: 0.2
     IceSpike:
-      Cooldown: 2000
-      Damage: 2
-      Range: 20
-      ThrowingMult: 0.7
+      Cooldown: 10000
+      Damage: 1
+      Range: 2
+      ThrowingMult: 0.2
       AreaCooldown: 3000
-      AreaDamage: 2
-      AreaRadius: 6
+      AreaDamage: 1
+      AreaRadius: 2
       AreaThrowingMult: 1.0
     Night-Power-Factor: 1.5
 MySQL:
