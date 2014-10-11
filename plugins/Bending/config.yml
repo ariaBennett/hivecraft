@@ -96,9 +96,9 @@ Properties:
       Mob-Push-Factor: 0.0
       Player-Push-Factor: 0.0
     AirScooter:
-      Speed: 0.005
+      Speed: 0.305
     AirSpout:
-      Height: 2.0
+      Height: 10.0
   Earth:
     Catapult:
       Length: 1

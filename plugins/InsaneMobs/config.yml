@@ -1,0 +1,261 @@
+# InsaneMobs v1.9.7 by EmeraldDEV
+Configurations:
+  Info:
+  - If you don't want an effect, just set it's value to '0' (this doesn't work with invisibility effects)
+  Mobs:
+    Boomspider:
+      Spider_Speed: 1
+      Spider_Resistance: 1
+      Creeper_Invisible: true
+      Creeper_Resistance: 1
+    Batcreeper:
+      Creeper_Resistance: 1
+      Creeper_Invisibility: false
+      Bat_Resistance: 1
+      Bat_Invisible: true
+    Golem:
+      Destroy_Spawn_Block: true
+      Weapon_In_Hand: true
+      Spawn_Block_In_Hand: false
+      Resistance: 3
+      Fire_Resistance: true
+      Invisibility: true
+      Strength: 1
+    Flypig:
+      Pig_Resistance: 1
+      Bat_Resistance: 1
+    Towerspider:
+      Speed: 1
+      Resistance: 1
+    HauntedArmor:
+      Equip_One_By_One: true
+      Resistance: 1
+      Fire_Resistance: true
+    ZombieWarrior:
+      Resistance: 2
+      Fire_Resistance: 1
+      Speed: 2
+      Strength: 2
+    DarkKnight:
+      Spawn_Skeletons: true
+      Skeleton_Resistance: 2
+      Skeleton_Fire_Resistance: 1
+      Skeleton_Speed: 2
+      Skeleton_Strength: 2
+    SpiderWitch:
+      Witch_Speed: 0
+      Witch_Resistance: 2
+      Spider_Speed: 1
+      Spider_Strength: 1
+      Spider_Resistance: 1
+    ZombieMage:
+      Spawn_Minions: true
+      Zombie_Slowness: 1
+      Zombie_Weakness: 5
+      Zombie_Resistance: 2
+      Minion_Resistance: 0
+      Minion_Speed: 2
+      Minion_Strength: 1
+      Player_Use_Wand_Damage: 3
+      Particles_On_Use: true
+    Hellwolf:
+      Speed: 1
+      Resistance: 2
+      Strength: 2
+    Exxon:
+      Speed: 2
+      Resistance: 2
+      Fire_Resistance: 1
+      Damage: 10
+    Skelezomb:
+      Resistance: 2
+      Fire_Resistance: true
+    Festivalcreeper:
+      Creeper_Resistance: 1
+    Evilchicken:
+      Chicken_Resistance: 4
+      Zombie_Resistance: 2
+      Lightning_On_Death: true
+    Inferno:
+      Resistance: 3
+    Rootspider:
+      Resistance: 2
+      Slowness: 2
+      Baby_Speed: 2
+  Drops:
+    Info: All droprates are percentage (%)
+    BoomSpider:
+      Items:
+      - 287
+      Rate: 70
+    BatCreeper:
+      Items:
+      - 289
+      Rate: 70
+    Golem:
+      Items:
+      - 257
+      Rate: 60
+    FlyPig:
+      Items:
+      - 320
+      Rate: 80
+    TowerSpider:
+      Items:
+      - 287
+      Rate: 50
+    HauntedArmor:
+      Items:
+      - 265
+      Rate: 30
+    ZombieWarrior:
+      Items:
+      - 276
+      Rate: 20
+    DarkKnight:
+      Items:
+      - 276
+      Rate: 20
+    SpiderWitch:
+      Items:
+      - 376
+      Rate: 40
+    RainbowSheep:
+      Items:
+      - 322
+      Rate: 5
+    Giant:
+      Items:
+      - 367
+      Rate: 80
+    ZombieMage:
+      Items:
+      - 369
+      Rate: 30
+    BigSlime:
+      Items:
+      - 341
+      Rate: 90
+    BigCube:
+      Items:
+      - 378
+      Rate: 90
+    HellWolf:
+      Items:
+      - 352
+      Rate: 40
+    Skelezomb:
+      Items:
+      - 352
+      - 367
+      Rate: 70
+    Exxon:
+      Items:
+      - 42
+      Rate: 50
+    FestivalCreeper:
+      Items:
+      - 289
+      Rate: 20
+    ChickenRider:
+      Items:
+      - 344
+      Rate: 60
+    EvilChicken:
+      Items:
+      - 344
+      Rate: 70
+    Inferno:
+      Items:
+      - 259
+      Rate: 40
+    RootSpider:
+      Items:
+      - 287
+      Rate: 50
+  Spawnrate:
+    Info: All spawnrates are percentage (%)
+    Enabled: true
+    Can_Be_Spawned_By_Spawnereggs: false
+    Enabled_Worlds:
+    - world
+    - world_nether
+    - world_the_end
+    Enable_Boomspider: true
+    Boomspider: 20
+    Enable_Batcreeper: true
+    Batcreeper: 15
+    Enable_Golem: true
+    Golem: 10
+    Enable_Flypig: true
+    Flypig: 25
+    Enable_Towerspider: true
+    Towerspider: 15
+    Enable_Hauntedarmor: true
+    Hauntedarmor: 6
+    Enable_Zombiewarrior: true
+    Zombiewarrior: 5
+    Enable_Darkknight: true
+    Darkknight: 5
+    Enable_Spiderwitch: true
+    Spiderwitch: 19
+    Enable_Rainbowsheep: true
+    Rainbowsheep: 10
+    Enable_Giant: true
+    Giant: 5
+    Enable_Zombiemage: true
+    Zombiemage: 15
+    Enable_Hellwolf: true
+    Hellwolf: 20
+    Enable_Bigslime: true
+    Bigslime: 15
+    Enable_Bigcube: true
+    Bigcube: 15
+    Enable_Skelezomb: true
+    Skelezomb: 30
+    Enable_Festivalcreeper: true
+    Festivalcreeper: 10
+    Enable_Chickenrider: true
+    Chickenrider: 15
+    Enable_Evilchicken: true
+    Evilchicken: 10
+    Enable_Inferno: true
+    Inferno: 20
+    Enable_Rootspider: true
+    Rootspider: 10
+  Updater:
+    Check_For_Update: true
+    Download_Instantly: true
+  Messages:
+    Info: You can change every message of the plugin here. For colors use colorcodes and use %mob% for the name of a mob
+    Prefix: '&0[&4InsaneMobs&0]&r'
+    Mob_Spawn: '&6Spawned &c%mob%&6.'
+    Help: '&8Do "/insanemobs help" for a list of all mobs.'
+    Reloading: '&6Reloading...'
+    Reloaded: '&6Reload successfully.'
+    ConsoleSender: Only players can run this command!
+    NoPermission: '&cYou do not have permission for this command!'
+  Displaynames:
+    Boomspider: BoomSpider
+    Batcreeper: BatCreeper
+    Golem: Golem
+    Flypig: FlyPig
+    Towerspider: TowerSpider
+    Hauntedarmor: HauntedArmor
+    Zombiewarrior: ZombieWarrior
+    Darkknight: DarkKnight
+    Spiderwitch: SpiderWitch
+    Rainbowsheep: RainbowSheep
+    Giant: Giant
+    Zombiemage: ZombieMage
+    Hellwolf: HellWolf
+    Bigslime: BigSlime
+    Bigcube: BigCube
+    Exxon: E.X.X.O.N
+    Skelezomb: Skelezomb
+    Festivalcreeper: FestivalCreeper
+    Chickenrider: ChickenRider
+    Evilchicken: EvilChicken
+    Inferno: Inferno
+    Easterbunny: EasterBunny
+    Rootspider: RootSpider

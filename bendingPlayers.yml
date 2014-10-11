@@ -2,17 +2,17 @@ version: 1
 Chani:
   ==: BendingPlayer
   SlotAbilities:
+  - 19
   - 23
-  - -1
-  - -1
-  - -1
-  - -1
-  - -1
-  - -1
+  - 25
+  - 22
+  - 26
+  - 24
+  - 18
   - 20
   - 40
   - -1
-  LastTime: 1412910597245
+  LastTime: 1413058195144
   BendingTypes:
   - 2
   - 3
@@ -526,7 +526,7 @@ Chani:
 aygtets:
   ==: BendingPlayer
   SlotAbilities:
-  - 7
+  - 5
   - 6
   - 4
   - 2
@@ -536,7 +536,7 @@ aygtets:
   - -1
   - -1
   - -1
-  LastTime: 1412905986036
+  LastTime: 1412983522071
   BendingTypes:
   - 0
   Permaremove: false
@@ -1057,7 +1057,7 @@ Chexala:
   - -1
   - 33
   - -1
-  LastTime: 1412903827377
+  LastTime: 1412918845578
   BendingTypes:
   - 1
   Permaremove: false
@@ -1568,17 +1568,17 @@ Chexala:
 UncannyMelon:
   ==: BendingPlayer
   SlotAbilities:
-  - 7
-  - 6
   - 1
-  - 3
-  - 0
-  - 4
-  - 8
-  - 5
-  - 2
+  - 1
+  - 6
+  - 7
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
   - -1
-  LastTime: 1412835827859
+  LastTime: 1413059043188
   BendingTypes:
   - 0
   Permaremove: false

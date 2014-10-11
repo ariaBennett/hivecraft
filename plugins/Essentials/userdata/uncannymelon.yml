@@ -1,24 +1,24 @@
 uuid: 2491ef2d-b142-48c9-8431-f0d781c898f1
 timestamps:
-  login: 1412833982612
-  logout: 1412835844959
-  lastteleport: 1412835173235
+  login: 1413055764872
+  logout: 1413011080329
+  lastteleport: 1413059050917
 ipAddress: 76.14.71.96
 socialspy: true
 logoutlocation:
   world: worlds/bravenewworld
-  x: -135.6473253261507
-  y: 84.62377716307854
-  z: 214.73930626370452
-  yaw: 315.00293
-  pitch: 31.499954
+  x: -123.08017519571654
+  y: 68.0
+  z: 210.5421583161699
+  yaw: 93.62449
+  pitch: 35.10008
 lastlocation:
   world: worlds/bravenewworld
-  x: 11.643314967153795
-  y: 84.1532760155681
-  z: 681.1721211771309
-  yaw: 18.027039
-  pitch: 0.42443737
+  x: -103.62402549313097
+  y: 67.0
+  z: 196.04716919178782
+  yaw: 349.22455
+  pitch: 4.5000005
 homes:
   home:
     world: worlds/bravenewworld
@@ -28,3 +28,4 @@ homes:
     yaw: 89.57471
     pitch: 8.550033
 afk: false
+money: '0'

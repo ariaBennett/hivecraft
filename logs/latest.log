@@ -1,52 +1,51 @@
-[02:30:25] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[02:30:25] [Server thread/INFO]: Loading properties
-[02:30:25] [Server thread/INFO]: Default game type: SURVIVAL
-[02:30:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[02:30:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:30:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:30:25] [Server thread/INFO]: Debug logging is disabled
-[02:30:25] [Server thread/INFO]: Generating keypair
-[02:30:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:30:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[02:30:29] [Server thread/INFO]: [Bending] Loading Bending v1.1.0
-[02:30:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
-[02:30:29] [Server thread/INFO]: [ChopTree2] Loading ChopTree2 v2.3.0
-[02:30:29] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v7.4.0
-[02:30:29] [Server thread/INFO]: [ColoredSigns] Loading ColoredSigns v4.00 Release
-[02:30:29] [Server thread/INFO]: [Carbon] Loading Carbon v1.5
-[02:30:29] [Server thread/INFO]: [Carbon] Modifying world generation...
-[02:30:29] [Server thread/INFO]: [Carbon] Injected Carbon.injector().stoneBlock into Blocks.STONE
-[02:30:29] [Server thread/INFO]: [Carbon] Injected Carbon.injector().spongeBlock into Blocks.SPONGE
-[02:30:29] [Server thread/INFO]: [Carbon] Done with world generation editing.
-[02:30:29] [Server thread/INFO]: Carbon has finished injecting all 1.8 functionalities.
-[02:30:29] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.7.2
-[02:30:29] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
-[02:30:29] [Server thread/INFO]: [BloodMoon] Loading BloodMoon v0.23.1
-[02:30:29] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
-[02:30:29] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
-[02:30:29] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
-[02:30:29] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.6.1
-[02:30:29] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
-[02:30:29] [Server thread/INFO]: [ScoreboardStats] Loading ScoreboardStats v0.8.3
-[02:30:29] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
-[02:30:29] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v7.4.0
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Playerdat datas...[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Dbmojangapi datas...[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Found: [0;35;1m0[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Cached: [0;35;1m0[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Remaining: [0;35;1m0[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mNow fetching the remaining players from Mojang API ...[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1m ... done![m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m118[0;33;1mms.[m
-[02:30:29] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m360ms[0;33;1m) ===[m
-[02:30:30] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
-[02:30:41] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v0.23.1
-[02:30:41] [Server thread/ERROR]: Error occurred while enabling BloodMoon v0.23.1 (Is it up to date?)
+[19:28:12] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:28:12] [Server thread/INFO]: Loading properties
+[19:28:13] [Server thread/INFO]: Default game type: SURVIVAL
+[19:28:13] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[19:28:13] [Server thread/INFO]: Debug logging is disabled
+[19:28:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:28:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:28:13] [Server thread/INFO]: Generating keypair
+[19:28:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:28:15] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:28:16] [Server thread/INFO]: [Bending] Loading Bending v1.1.0
+[19:28:16] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[19:28:16] [Server thread/INFO]: [InsaneMobs] Loading InsaneMobs v1.9.7
+[19:28:16] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v7.4.0
+[19:28:16] [Server thread/INFO]: [ColoredSigns] Loading ColoredSigns v4.00 Release
+[19:28:16] [Server thread/INFO]: [Carbon] Loading Carbon v1.5
+[19:28:17] [Server thread/INFO]: [Carbon] Modifying world generation...
+[19:28:17] [Server thread/INFO]: [Carbon] Injected Carbon.injector().stoneBlock into Blocks.STONE
+[19:28:17] [Server thread/INFO]: [Carbon] Injected Carbon.injector().spongeBlock into Blocks.SPONGE
+[19:28:17] [Server thread/INFO]: [Carbon] Done with world generation editing.
+[19:28:17] [Server thread/INFO]: Carbon has finished injecting all 1.8 functionalities.
+[19:28:17] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[19:28:17] [Server thread/INFO]: [BloodMoon] Loading BloodMoon v0.23.1
+[19:28:17] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[19:28:17] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[19:28:17] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[19:28:17] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.6.1
+[19:28:17] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[19:28:17] [Server thread/INFO]: [ScoreboardStats] Loading ScoreboardStats v0.8.3
+[19:28:17] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[19:28:17] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v7.4.0
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Playerdat datas...[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Dbmojangapi datas...[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Found: [0;35;1m0[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Cached: [0;35;1m0[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Remaining: [0;35;1m0[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mNow fetching the remaining players from Mojang API ...[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1m ... done![m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m132[0;33;1mms.[m
+[19:28:17] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m383ms[0;33;1m) ===[m
+[19:28:17] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[19:28:24] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v0.23.1
+[19:28:24] [Server thread/ERROR]: Error occurred while enabling BloodMoon v0.23.1 (Is it up to date?)
 java.lang.NoClassDefFoundError: net/minecraft/server/v1_4_R1/EntityCreeper
 	at uk.co.jacekk.bukkit.bloodmoon.entity.BloodMoonEntityType.<clinit>(BloodMoonEntityType.java:13) ~[?:?]
 	at uk.co.jacekk.bukkit.bloodmoon.BloodMoon.onEnable(BloodMoon.java:55) ~[?:?]
@@ -64,313 +63,330 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_4_R1.Entity
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:425) ~[?:1.7.0_65]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:358) ~[?:1.7.0_65]
 	... 10 more
-[02:30:41] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[02:30:42] [Server thread/INFO]: Preparing level "worlds/firefort"
-[02:30:42] [Server thread/INFO]: -------- World Settings For [worlds/firefort] --------
-[02:30:42] [Server thread/INFO]: Anti X-Ray: true
-[02:30:42] [Server thread/INFO]: 	Engine Mode: 1
-[02:30:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[02:30:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[02:30:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[02:30:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[02:30:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[02:30:42] [Server thread/INFO]: Alternative Hopper Ticking: false
-[02:30:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[02:30:42] [Server thread/INFO]: Random Lighting Updates: false
-[02:30:42] [Server thread/INFO]: Structure Info Saving: true
-[02:30:42] [Server thread/INFO]: Sending up to 5 chunks per packet
-[02:30:42] [Server thread/INFO]: Max Entity Collisions: 8
-[02:30:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[02:30:42] [Server thread/INFO]: Max TNT Explosions: 100
-[02:30:42] [Server thread/INFO]: Mob Spawn Range: 4
-[02:30:42] [Server thread/INFO]: View Distance: 10
-[02:30:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[02:30:42] [Server thread/INFO]: Clear tick list: false
-[02:30:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[02:30:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[02:30:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[02:30:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[02:30:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[02:30:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[02:30:42] [Server thread/INFO]: ---- Migration of old nether folder required ----
-[02:30:42] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
-[02:30:42] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
-[02:30:42] [Server thread/INFO]: Attempting to move worlds/firefort/DIM-1 to worlds/firefort_nether/DIM-1...
-[02:30:42] [Server thread/INFO]: Success! To restore nether in the future, simply move worlds/firefort_nether/DIM-1 to worlds/firefort/DIM-1
-[02:30:42] [Server thread/INFO]: ---- Migration of old nether folder complete ----
-[02:30:42] [Server thread/INFO]: -------- World Settings For [worlds/firefort_nether] --------
-[02:30:42] [Server thread/INFO]: Anti X-Ray: true
-[02:30:42] [Server thread/INFO]: 	Engine Mode: 1
-[02:30:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[02:30:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[02:30:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[02:30:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[02:30:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[02:30:42] [Server thread/INFO]: Alternative Hopper Ticking: false
-[02:30:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[02:30:42] [Server thread/INFO]: Random Lighting Updates: false
-[02:30:42] [Server thread/INFO]: Structure Info Saving: true
-[02:30:42] [Server thread/INFO]: Sending up to 5 chunks per packet
-[02:30:42] [Server thread/INFO]: Max Entity Collisions: 8
-[02:30:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[02:30:42] [Server thread/INFO]: Max TNT Explosions: 100
-[02:30:42] [Server thread/INFO]: Mob Spawn Range: 4
-[02:30:42] [Server thread/INFO]: View Distance: 10
-[02:30:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[02:30:42] [Server thread/INFO]: Clear tick list: false
-[02:30:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[02:30:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[02:30:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[02:30:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[02:30:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[02:30:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[02:30:42] [Server thread/INFO]: ---- Migration of old the_end folder required ----
-[02:30:42] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
-[02:30:42] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
-[02:30:42] [Server thread/INFO]: Attempting to move worlds/firefort/DIM1 to worlds/firefort_the_end/DIM1...
-[02:30:42] [Server thread/INFO]: Success! To restore the_end in the future, simply move worlds/firefort_the_end/DIM1 to worlds/firefort/DIM1
-[02:30:42] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
-[02:30:42] [Server thread/INFO]: -------- World Settings For [worlds/firefort_the_end] --------
-[02:30:42] [Server thread/INFO]: Anti X-Ray: true
-[02:30:42] [Server thread/INFO]: 	Engine Mode: 1
-[02:30:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[02:30:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[02:30:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[02:30:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[02:30:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[02:30:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[02:30:42] [Server thread/INFO]: Alternative Hopper Ticking: false
-[02:30:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[02:30:42] [Server thread/INFO]: Random Lighting Updates: false
-[02:30:42] [Server thread/INFO]: Structure Info Saving: true
-[02:30:42] [Server thread/INFO]: Sending up to 5 chunks per packet
-[02:30:42] [Server thread/INFO]: Max Entity Collisions: 8
-[02:30:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[02:30:42] [Server thread/INFO]: Max TNT Explosions: 100
-[02:30:42] [Server thread/INFO]: Mob Spawn Range: 4
-[02:30:42] [Server thread/INFO]: View Distance: 10
-[02:30:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[02:30:42] [Server thread/INFO]: Clear tick list: false
-[02:30:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[02:30:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[02:30:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[02:30:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[02:30:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[02:30:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[02:30:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: -189192250052565325)
-[02:30:43] [Server thread/INFO]: Preparing spawn area: 12%
-[02:30:44] [Server thread/INFO]: Preparing spawn area: 95%
-[02:30:45] [Server thread/INFO]: Preparing start region for level 1 (Seed: -189192250052565325)
-[02:30:46] [Server thread/INFO]: Preparing spawn area: 4%
-[02:30:47] [Server thread/INFO]: Preparing spawn area: 8%
-[02:30:48] [Server thread/INFO]: Preparing spawn area: 13%
-[02:30:49] [Server thread/INFO]: Preparing spawn area: 18%
-[02:30:50] [Server thread/INFO]: Preparing spawn area: 24%
-[02:30:51] [Server thread/INFO]: Preparing spawn area: 29%
-[02:30:52] [Server thread/INFO]: Preparing spawn area: 39%
-[02:30:53] [Server thread/INFO]: Preparing spawn area: 50%
-[02:30:54] [Server thread/INFO]: Preparing spawn area: 65%
-[02:30:55] [Server thread/INFO]: Preparing spawn area: 73%
-[02:30:56] [Server thread/INFO]: Preparing spawn area: 88%
-[02:30:57] [Server thread/INFO]: Preparing start region for level 2 (Seed: -189192250052565325)
-[02:30:58] [Server thread/INFO]: Preparing spawn area: 40%
-[02:30:59] [Server thread/INFO]: Preparing spawn area: 88%
-[02:30:59] [Server thread/INFO]: [Bending] Enabling Bending v1.1.0
-[02:30:59] [Server thread/INFO]: [Bending] Bending v1.1.0 has been loaded.
-[02:30:59] [Server thread/INFO]: Bending is sending data for Plugin Metrics.
-[02:31:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
-[02:31:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[02:31:00] [Server thread/INFO]: [ChopTree2] Enabling ChopTree2 v2.3.0
-[02:31:00] [Server thread/INFO]: [ColoredSigns] Enabling ColoredSigns v4.00 Release
-[02:31:00] [Server thread/INFO]: [ColoredSigns] ColoredSigns v4.00 Release has been enabled.
-[02:31:00] [Server thread/INFO]: [Carbon] Enabling Carbon v1.5
-[02:31:00] [Server thread/INFO]: [Carbon] Carbon is enabled.
-[02:31:00] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.7.2
-[02:31:00] [Server thread/INFO]: [ClearLag] Loading modules...
-[02:31:00] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[02:31:00] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[02:31:00] [Thread-11/INFO]: [ClearLag] Checking for updates...
-[02:31:00] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
-[02:31:00] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[02:31:00] [Server thread/INFO]: git-Spigot-1649 (MC: 1.7.10)
-[02:31:00] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
-[02:31:01] [Thread-11/INFO]: [ClearLag] No updates found!
-[02:31:01] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[02:31:01] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[02:31:01] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
-[02:31:01] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
-[02:31:01] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.6.1
-[02:31:01] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.6.1[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[02:31:01] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.6.1[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m80ms[0;33;1m) ===[m
-[02:31:01] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
-[02:31:01] [Server thread/INFO]: [ScoreboardStats] Enabling ScoreboardStats v0.8.3
-[02:31:01] [Server thread/INFO]: Registered replacers: [PlayerPingVariable, McmmoVariables, GeneralVariables, StatsVariables]
-[02:31:01] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
-[02:31:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:31:02] [Server thread/INFO]: Done (19.706s)! For help, type "help" or "?"
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;22m============================================[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mWe are preparing for Mojangs switch to UUIDs.[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLearn more at: [0;36;1mhttps://forums.bukkit.org/threads/psa-the-switch-to-uuids-potential-plugin-server-breakage.250915/[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Playerdat datas...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Dbmojangapi datas...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Found: [0;35;1m0[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Cached: [0;35;1m0[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Remaining: [0;35;1m0[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mNow fetching the remaining players from Mojang API ...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1m ... done![m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mNow updating database for plugins that are ready ...[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;32;1m ... done![m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1m(database saving will now commence which might lock the server for a while)[m
-[02:31:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;22m============================================[m
-[02:33:09] [Craft Scheduler Thread - 5/INFO]: [Metrics] Connection timed out
-[02:36:32] [User Authenticator #1/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[02:36:32] [Server thread/INFO]: Chani[/98.210.147.109:21483] logged in with entity id 242 at ([worlds/firefort] 19.5, 65.0, 248.5)
-[02:36:33] [Server thread/INFO]: Trapped in a welcome message; send help.[m
-[02:36:34] [Server thread/INFO]: [ScoreboardStats] Couldnt replace variable with name: %money% Maybe you misspelled it or the replacer isnt available yet
-[02:36:50] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_1710
-[02:37:18] [Server thread/INFO]: Chani lost connection: Disconnected
-[02:37:18] [Server thread/INFO]: GOODBYE FOREVER
-[02:38:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:38:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:39:11] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 14 Entities![m
-[02:40:27] [User Authenticator #2/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[02:40:27] [Server thread/INFO]: Chani[/98.210.147.109:21615] logged in with entity id 314 at ([worlds/firefort] 18.688622198202918, 65.0, 244.54447087519625)
-[02:40:27] [Server thread/INFO]: Trapped in a welcome message; send help.[m
-[02:40:37] [Server thread/INFO]: Chani lost connection: Disconnected
-[02:40:37] [Server thread/INFO]: GOODBYE FOREVER
-[02:43:44] [Craft Scheduler Thread - 5/INFO]: [Metrics] Connection timed out
-[02:46:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:46:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:47:12] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 22 Entities![m
-[02:47:17] [User Authenticator #3/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
-[02:47:17] [Server thread/INFO]: Chani[/98.210.147.109:21823] logged in with entity id 397 at ([worlds/firefort] 18.688622198202918, 65.0, 244.54447087519625)
-[02:47:17] [Server thread/INFO]: Trapped in a welcome message; send help.[m
-[02:48:32] [Server thread/INFO]: Chani has just earned the achievement [Taking Inventory]
-[02:49:30] [Server thread/INFO]: [Bending] §cUse /bending help to see a list of commands.
-[02:49:30] [Server thread/INFO]: [Bending] §cUse /bending help <command> to see how to use that command.
-[02:49:30] [Server thread/INFO]: [Bending] §cUse /bending help <ability> to get help with that ability.
-[02:49:40] [Server thread/INFO]: Bending aliases: bending bend b mtla tla
-[02:49:40] [Server thread/INFO]: /bending bind <ability> [Slot#]
-[02:49:40] [Server thread/INFO]: /bending clear [Slot#]
-[02:49:40] [Server thread/INFO]: /bending choose [player] <element>
-[02:49:40] [Server thread/INFO]: /bending add [player] <element>
-[02:49:40] [Server thread/INFO]: /bending remove <player1> [player2] [player3] ...
-[02:49:40] [Server thread/INFO]: /bending permaremove <player1> [player2] [player3] ...
-[02:49:40] [Server thread/INFO]: /bending toggle [player]
-[02:49:40] [Server thread/INFO]: /bending display [element]
-[02:49:40] [Server thread/INFO]: /bending reload
-[02:49:40] [Server thread/INFO]: /bending import
-[02:49:40] [Server thread/INFO]: /bending who [player]
-[02:49:40] [Server thread/INFO]: /bending language [language]
-[02:49:40] [Server thread/INFO]: /bending bindmode [slot/item]
-[02:49:40] [Server thread/INFO]: /bending version
-[02:50:00] [Server thread/INFO]: §bUsage: /bending add <player> <element>
-[02:50:00] [Server thread/INFO]: §b-Adds <element> to <player>.
-[02:50:11] [Server thread/INFO]: [Bending] §cUse /bending help to see a list of commands.
-[02:50:11] [Server thread/INFO]: [Bending] §cUse /bending help <command> to see how to use that command.
-[02:50:11] [Server thread/INFO]: [Bending] §cUse /bending help <ability> to get help with that ability.
-[02:50:18] [Server thread/INFO]: Bending aliases: bending bend b mtla tla
-[02:50:18] [Server thread/INFO]: /bending bind <ability> [Slot#]
-[02:50:18] [Server thread/INFO]: /bending clear [Slot#]
-[02:50:18] [Server thread/INFO]: /bending choose [player] <element>
-[02:50:18] [Server thread/INFO]: /bending add [player] <element>
-[02:50:18] [Server thread/INFO]: /bending remove <player1> [player2] [player3] ...
-[02:50:18] [Server thread/INFO]: /bending permaremove <player1> [player2] [player3] ...
-[02:50:18] [Server thread/INFO]: /bending toggle [player]
-[02:50:18] [Server thread/INFO]: /bending display [element]
-[02:50:18] [Server thread/INFO]: /bending reload
-[02:50:18] [Server thread/INFO]: /bending import
-[02:50:18] [Server thread/INFO]: /bending who [player]
-[02:50:18] [Server thread/INFO]: /bending language [language]
-[02:50:18] [Server thread/INFO]: /bending bindmode [slot/item]
-[02:50:18] [Server thread/INFO]: /bending version
-[02:52:44] [Server thread/INFO]: CONSOLE: Opped chani[m
-[02:52:51] [Async Chat Thread - #0/INFO]: <[0;35;22m[0;31;22m~EarthFuckerAria[m[0;37;1m> test[m
-[02:53:57] [Server thread/INFO]: Chani issued server command: /nick Ratava
-[02:54:07] [Server thread/INFO]: Chani issued server command: /b b firejet
-[02:54:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:54:16] [Server thread/INFO]: Chani issued server command: /bending help
-[02:54:29] [Server thread/INFO]: Chani issued server command: /bending add chani fire
-[02:54:34] [Server thread/INFO]: Chani issued server command: /bending add chani water
-[02:54:38] [Server thread/INFO]: Chani issued server command: /bending add chani air
-[02:54:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:54:52] [Async Chat Thread - #1/INFO]: <[0;35;22m[0;31;22m~Ratava[m[0;37;1m> test[m
-[02:55:13] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 34 Entities![m
-[02:56:37] [Server thread/INFO]: Chani issued server command: /bending.avatar
-[02:56:41] [Server thread/INFO]: Chani issued server command: /bending avatar
-[02:57:31] [Server thread/INFO]: Chani issued server command: /bending help admin
-[02:57:37] [Server thread/INFO]: Chani issued server command: /bending admin
-[02:57:48] [Async Chat Thread - #2/INFO]: <[0;35;22m[0;31;22m~Ratava[m[0;37;1m> bending.admin[m
-[02:57:52] [Server thread/INFO]: Chani issued server command: /bending.admin
-[02:57:57] [Server thread/INFO]: Chani issued server command: /bending help admin
-[02:58:05] [Server thread/INFO]: Chani issued server command: /bending admin help
-[02:58:14] [Server thread/INFO]: Chani issued server command: /bending help
-[02:58:44] [Server thread/INFO]: Chani issued server command: /bending list
-[02:58:48] [Server thread/INFO]: Chani issued server command: /bending display
-[02:58:52] [Server thread/INFO]: Chani issued server command: /bending display avatar
-[02:58:55] [Server thread/INFO]: Chani issued server command: /bending display avatarstate
-[02:59:08] [Server thread/INFO]: Chani issued server command: /bending bind avatarstate
-[02:59:24] [Server thread/INFO]: Chani issued server command: /bending clear
-[02:59:34] [Server thread/INFO]: Chani issued server command: /bending bind firejet
-[02:59:59] [Server thread/INFO]: Chani issued server command: /bending bind avatarstate
-[03:00:12] [Server thread/INFO]: Chani issued server command: /bending bind flamejet
-[03:00:20] [Server thread/INFO]: Chani issued server command: /b b flamejet
-[03:00:24] [Server thread/INFO]: Chani issued server command: /b display fire
-[03:00:31] [Server thread/INFO]: Chani issued server command: /b b firejet
-[03:00:59] [Server thread/INFO]: Chani issued server command: /b b blaze
-[03:01:15] [Server thread/INFO]: Chani issued server command: /b b fireblast
-[03:01:28] [Server thread/INFO]: Chani issued server command: /b b fireburst
-[03:01:51] [Server thread/INFO]: Chani issued server command: /b b fireblast
-[03:02:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:02:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:03:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 28 Entities![m
-[03:06:29] [Server thread/INFO]: Chani issued server command: /give chani minecart 2
-[03:07:28] [Server thread/INFO]: Chani issued server command: /gamemode 3
-[03:07:42] [Server thread/INFO]: Chani issued server command: /gamemode adventure
-[03:08:10] [Server thread/INFO]: Chani issued server command: /gamemode survival
-[03:08:19] [Server thread/INFO]: Chani issued server command: /gamemode creative
-[03:10:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[03:10:27] [Server thread/INFO]: Chani issued server command: /pvp
-[03:10:51] [Server thread/INFO]: Chani issued server command: /help s
-[03:10:55] [Server thread/INFO]: Chani issued server command: /help s 2
-[03:10:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[03:11:03] [Server thread/INFO]: Chani issued server command: /help set
-[03:11:07] [Server thread/INFO]: Chani issued server command: /help set2
-[03:11:10] [Server thread/INFO]: Chani issued server command: /help set 2
-[03:11:15] [Server thread/INFO]: Chani issued server command: /help effect
-[03:11:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 25 Entities![m
-[03:11:42] [Server thread/INFO]: Chani issued server command: /help potion
-[03:12:16] [Server thread/INFO]: Chani issued server command: /visible
-[03:13:01] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[03:13:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[03:13:19] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[03:14:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[03:15:12] [Craft Scheduler Thread - 26/INFO]: [Metrics] Connection timed out
-[03:17:01] [Server thread/INFO]: Chani lost connection: Disconnected
-[03:17:01] [Server thread/INFO]: GOODBYE FOREVER
-[03:17:08] [Thread-4/INFO]: Stopping server
-[03:17:08] [Thread-4/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[19:28:24] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:28:24] [Server thread/INFO]: Preparing level "worlds/bravenewworld"
+[19:28:24] [Server thread/INFO]: -------- World Settings For [worlds/bravenewworld] --------
+[19:28:24] [Server thread/INFO]: Anti X-Ray: true
+[19:28:24] [Server thread/INFO]: 	Engine Mode: 1
+[19:28:24] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:28:24] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:28:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:28:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:28:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:28:24] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:28:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:28:24] [Server thread/INFO]: Random Lighting Updates: false
+[19:28:24] [Server thread/INFO]: Structure Info Saving: true
+[19:28:24] [Server thread/INFO]: Sending up to 5 chunks per packet
+[19:28:24] [Server thread/INFO]: Max Entity Collisions: 8
+[19:28:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:28:24] [Server thread/INFO]: Max TNT Explosions: 100
+[19:28:24] [Server thread/INFO]: Mob Spawn Range: 4
+[19:28:24] [Server thread/INFO]: View Distance: 10
+[19:28:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:28:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:28:24] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:28:24] [Server thread/INFO]: Clear tick list: false
+[19:28:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:28:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:28:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:28:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:28:24] [Server thread/INFO]: -------- World Settings For [worlds/bravenewworld_nether] --------
+[19:28:24] [Server thread/INFO]: Anti X-Ray: true
+[19:28:24] [Server thread/INFO]: 	Engine Mode: 1
+[19:28:24] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:28:24] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:28:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:28:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:28:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:28:24] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:28:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:28:24] [Server thread/INFO]: Random Lighting Updates: false
+[19:28:24] [Server thread/INFO]: Structure Info Saving: true
+[19:28:24] [Server thread/INFO]: Sending up to 5 chunks per packet
+[19:28:24] [Server thread/INFO]: Max Entity Collisions: 8
+[19:28:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:28:24] [Server thread/INFO]: Max TNT Explosions: 100
+[19:28:24] [Server thread/INFO]: Mob Spawn Range: 4
+[19:28:24] [Server thread/INFO]: View Distance: 10
+[19:28:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:28:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:28:24] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:28:24] [Server thread/INFO]: Clear tick list: false
+[19:28:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:28:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:28:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:28:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:28:24] [Server thread/INFO]: -------- World Settings For [worlds/bravenewworld_the_end] --------
+[19:28:24] [Server thread/INFO]: Anti X-Ray: true
+[19:28:24] [Server thread/INFO]: 	Engine Mode: 1
+[19:28:24] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:28:24] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:28:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:28:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:28:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:28:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:28:24] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:28:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:28:24] [Server thread/INFO]: Random Lighting Updates: false
+[19:28:24] [Server thread/INFO]: Structure Info Saving: true
+[19:28:24] [Server thread/INFO]: Sending up to 5 chunks per packet
+[19:28:24] [Server thread/INFO]: Max Entity Collisions: 8
+[19:28:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:28:24] [Server thread/INFO]: Max TNT Explosions: 100
+[19:28:24] [Server thread/INFO]: Mob Spawn Range: 4
+[19:28:24] [Server thread/INFO]: View Distance: 10
+[19:28:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:28:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:28:24] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:28:24] [Server thread/INFO]: Clear tick list: false
+[19:28:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:28:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:28:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:28:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:28:24] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7022332759775054181)
+[19:28:25] [Server thread/INFO]: Preparing spawn area: 6%
+[19:28:26] [Server thread/INFO]: Preparing spawn area: 53%
+[19:28:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7022332759775054181)
+[19:28:28] [Server thread/INFO]: Preparing spawn area: 88%
+[19:28:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7022332759775054181)
+[19:28:29] [Server thread/INFO]: [Bending] Enabling Bending v1.1.0
+[19:28:29] [Server thread/INFO]: [Bending] Bending v1.1.0 has been loaded.
+[19:28:29] [Server thread/INFO]: Bending is sending data for Plugin Metrics.
+[19:28:29] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[19:28:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:28:30] [Server thread/INFO]: [InsaneMobs] Enabling InsaneMobs v1.9.7
+[19:28:30] [Thread-10/ERROR]: [InsaneMobs] dev.bukkit.org rejected the API key provided in plugins/Updater/config.yml
+[19:28:30] [Thread-10/ERROR]: [InsaneMobs] Please double-check your configuration to ensure it is correct.
+[19:28:30] [Thread-10/ERROR]: [InsaneMobs] null
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.curseforge.com/servermods/files?projectIds=73357
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626) ~[?:1.7.0_65]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.7.0_65]
+	at me.sueswol.insanemobs.Updater.read(Updater.java:547) [InsaneMobs_v1.9.7.jar:?]
+	at me.sueswol.insanemobs.Updater.access$1(Updater.java:535) [InsaneMobs_v1.9.7.jar:?]
+	at me.sueswol.insanemobs.Updater$UpdateRunnable.run(Updater.java:585) [InsaneMobs_v1.9.7.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:28:30] [Server thread/INFO]: [InsaneMobs] [InsaneMobs] No new version found!
+[19:28:30] [Thread-11/ERROR]: [InsaneMobs] dev.bukkit.org rejected the API key provided in plugins/Updater/config.yml
+[19:28:30] [Thread-11/ERROR]: [InsaneMobs] Please double-check your configuration to ensure it is correct.
+[19:28:30] [Thread-11/ERROR]: [InsaneMobs] null
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.curseforge.com/servermods/files?projectIds=73357
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626) ~[?:1.7.0_65]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.7.0_65]
+	at me.sueswol.insanemobs.Updater.read(Updater.java:547) [InsaneMobs_v1.9.7.jar:?]
+	at me.sueswol.insanemobs.Updater.access$1(Updater.java:535) [InsaneMobs_v1.9.7.jar:?]
+	at me.sueswol.insanemobs.Updater$UpdateRunnable.run(Updater.java:585) [InsaneMobs_v1.9.7.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:28:30] [Server thread/INFO]: [InsaneMobs] Thanks for choosing this plugin!
+[19:28:30] [Server thread/INFO]: [InsaneMobs] Created by EmeraldDEV
+[19:28:30] [Server thread/INFO]: **************************************************************
+[19:28:30] [Server thread/INFO]: [InsaneMobs] Important: Monster spawnrates are now percentage!
+[19:28:30] [Server thread/INFO]: **************************************************************
+[19:28:30] [Server thread/INFO]: [ColoredSigns] Enabling ColoredSigns v4.00 Release
+[19:28:30] [Server thread/INFO]: [ColoredSigns] ColoredSigns v4.00 Release has been enabled.
+[19:28:30] [Server thread/INFO]: [Carbon] Enabling Carbon v1.5
+[19:28:30] [Server thread/INFO]: [Carbon] Carbon is enabled.
+[19:28:30] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[19:28:30] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[19:28:30] [Server thread/INFO]: git-Spigot-1649 (MC: 1.7.10)
+[19:28:30] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[19:28:31] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[19:28:31] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[19:28:31] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[19:28:31] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[19:28:31] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.6.1
+[19:28:31] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.6.1[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[19:28:31] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.6.1[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m56ms[0;33;1m) ===[m
+[19:28:31] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[19:28:31] [Server thread/INFO]: [ScoreboardStats] Enabling ScoreboardStats v0.8.3
+[19:28:31] [Server thread/INFO]: Registered replacers: [PlayerPingVariable, McmmoVariables, GeneralVariables, StatsVariables]
+[19:28:31] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[19:28:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:28:32] [Server thread/INFO]: Done (7.770s)! For help, type "help" or "?"
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;22m============================================[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mWe are preparing for Mojangs switch to UUIDs.[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLearn more at: [0;36;1mhttps://forums.bukkit.org/threads/psa-the-switch-to-uuids-potential-plugin-server-breakage.250915/[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Playerdat datas...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mLoading Dbmojangapi datas...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Found: [0;35;1m0[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Cached: [0;35;1m0[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;36;1mPlayer Strings Remaining: [0;35;1m0[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mNow fetching the remaining players from Mojang API ...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1m ... done![m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1mNow updating database for plugins that are ready ...[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;32;1m ... done![m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;1m(database saving will now commence which might lock the server for a while)[m
+[19:28:32] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 7.4.0[0;36;22m] [0;33;1m[0;33;22m============================================[m
+[19:28:32] [Craft Scheduler Thread - 4/INFO]: [mcMMO] Cleaned backup files. Deleted 3 of 9 files.
+[19:29:24] [User Authenticator #1/INFO]: UUID of player UncannyMelon is 2491ef2d-b142-48c9-8431-f0d781c898f1
+[19:29:24] [Server thread/INFO]: UncannyMelon[/76.14.71.96:52385] logged in with entity id 189 at ([worlds/bravenewworld] 90.54060792996727, 100.0, 709.9954097893792)
+[19:29:24] [Server thread/INFO]: A wild UncannyMelon[m appears![m
+[19:29:27] [Server thread/INFO]: [ScoreboardStats] Couldnt replace variable with name: %money% Maybe you misspelled it or the replacer isnt available yet
+[19:29:29] [Server thread/INFO]: UncannyMelon issued server command: /balance
+[19:29:47] [Server thread/INFO]: UncannyMelon issued server command: /spawn
+[19:30:14] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_1710
+[19:30:24] [Server thread/INFO]: UncannyMelon issued server command: /back
+[19:30:26] [Server thread/INFO]: UncannyMelon issued server command: /back
+[19:30:27] [Server thread/INFO]: UncannyMelon issued server command: /home
+[19:34:19] [User Authenticator #2/INFO]: UUID of player Chani is 9625841f-6332-495c-ad91-0505c6d81186
+[19:34:19] [Server thread/INFO]: Chani[/98.210.147.109:42464] logged in with entity id 861 at ([worlds/bravenewworld] 20.09662794718897, 83.0, 695.4613887696976)
+[19:34:19] [Server thread/INFO]: A wild [0;31;22m~DefinitlyNotCelosia[m appears![m
+[19:34:39] [Server thread/INFO]: UncannyMelon issued server command: /back
+[19:37:06] [Async Chat Thread - #0/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> I need to figure out how to use the money stuff[m
+[19:37:08] [Server thread/INFO]: Chani issued server command: /help
+[19:37:13] [Async Chat Thread - #0/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> oh?[m
+[19:37:14] [Server thread/INFO]: Chani issued server command: /help essentials
+[19:37:19] [Async Chat Thread - #0/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> i dont know the commands[m
+[19:37:23] [Server thread/INFO]: Chani issued server command: /help essentials 2
+[19:37:27] [Server thread/INFO]: Chani issued server command: /help essentials 3
+[19:37:29] [Async Chat Thread - #0/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> what plugin did you use?[m
+[19:37:31] [Server thread/INFO]: Chani issued server command: /help essentials 4
+[19:37:45] [Async Chat Thread - #0/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> Essentials[m
+[19:37:52] [Server thread/INFO]: UncannyMelon issued server command: /help essentials
+[19:37:57] [Server thread/INFO]: UncannyMelon issued server command: /help essentials 5
+[19:37:59] [Server thread/INFO]: Chani issued server command: /help essentials 5
+[19:38:01] [Server thread/INFO]: UncannyMelon issued server command: /help essentials 4
+[19:38:05] [Server thread/INFO]: Chani issued server command: /help essentials 6
+[19:38:08] [Server thread/INFO]: UncannyMelon issued server command: /help essentials 3
+[19:38:08] [Server thread/INFO]: Chani issued server command: /help essentials 7
+[19:38:13] [Server thread/INFO]: Chani issued server command: /help essentials 8
+[19:38:19] [Server thread/INFO]: Chani issued server command: /help essentials 9
+[19:38:20] [Server thread/INFO]: UncannyMelon issued server command: /help essentials 2
+[19:38:24] [Server thread/INFO]: Chani issued server command: /help essentials 10
+[19:38:37] [Server thread/INFO]: UncannyMelon issued server command: /worth
+[19:38:44] [Server thread/INFO]: UncannyMelon issued server command: /worth
+[19:38:47] [Server thread/INFO]: UncannyMelon issued server command: /worth
+[19:38:50] [Server thread/INFO]: Chani issued server command: /setworth diamond 100
+[19:38:55] [Server thread/INFO]: UncannyMelon issued server command: /worth
+[19:38:57] [Async Chat Thread - #1/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Hm[m
+[19:39:01] [Server thread/INFO]: Chani issued server command: /setworth iron_ore 10
+[19:39:05] [Server thread/INFO]: Chani issued server command: /setworth iron 10
+[19:39:09] [Server thread/INFO]: Chani issued server command: /setworth iron_ingot 10
+[19:39:18] [Server thread/INFO]: Chani issued server command: /setworth gold_ingot 20
+[19:39:18] [Async Chat Thread - #1/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> We tended to use third party pluging for currency[m
+[19:39:21] [Server thread/INFO]: Chani issued server command: /setworth gold_ore 20
+[19:39:23] [Server thread/INFO]: UncannyMelon issued server command: /transfert
+[19:39:33] [Server thread/INFO]: Chani issued server command: /help essentials 10
+[19:39:37] [Server thread/INFO]: Chani issued server command: /help essentials 11
+[19:39:40] [Server thread/INFO]: Chani issued server command: /help essentials 12
+[19:39:45] [Server thread/INFO]: Chani issued server command: /help essentials 13
+[19:39:47] [Server thread/INFO]: Chani issued server command: /help essentials 14
+[19:39:50] [Server thread/INFO]: Chani issued server command: /worth
+[19:40:01] [Server thread/INFO]: Chani issued server command: /sell
+[19:40:01] [Async Chat Thread - #1/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> ah here it is[m
+[19:40:09] [Async Chat Thread - #1/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> Perhaps look into Iconomy?[m
+[19:40:16] [Async Chat Thread - #1/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> I added values for iron, diamond and gold[m
+[19:40:26] [Async Chat Thread - #1/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> we dont need another plugin[m
+[19:40:37] [Async Chat Thread - #1/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> i just need the comand to admin give money[m
+[19:40:53] [Server thread/INFO]: Chani issued server command: /buy
+[19:40:57] [Server thread/INFO]: Chani issued server command: /?
+[19:40:59] [Server thread/INFO]: Chani issued server command: /$
+[19:41:01] [Server thread/INFO]: Chani issued server command: /money
+[19:41:21] [Server thread/INFO]: Chani issued server command: /give
+[19:41:27] [Server thread/INFO]: Chani issued server command: /givemoney
+[19:41:56] [Async Chat Thread - #2/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> well google it I suppose[m
+[19:42:10] [Server thread/INFO]: Chani issued server command: /exo
+[19:42:11] [Server thread/INFO]: Chani issued server command: /ecp
+[19:42:13] [Server thread/INFO]: Chani issued server command: /eco
+[19:42:16] [Async Chat Thread - #2/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> ah got it[m
+[19:42:19] [Async Chat Thread - #2/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> it's /eco[m
+[19:42:24] [Server thread/INFO]: UncannyMelon issued server command: /eco
+[19:42:24] [Server thread/INFO]: §cUncannyMelon §4was denied access to command.
+[19:42:41] [Server thread/INFO]: Chani issued server command: /eco give uncannymelon 3000
+[19:42:47] [Async Chat Thread - #2/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> did you get a message[m
+[19:42:50] [Async Chat Thread - #2/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> yup[m
+[19:42:52] [Async Chat Thread - #2/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> cool[m
+[19:42:52] [Async Chat Thread - #2/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> 3k[m
+[19:43:01] [Async Chat Thread - #2/INFO]: <[0;35;22m[0;31;22m~DefinitlyNotCelosia[m[0;37;1m> that's from the event[m
+[19:43:11] [Server thread/INFO]: Chani issued server command: /eco give aygtets 3000
+[19:43:24] [Server thread/INFO]: Chani issued server command: /eco give chexala 2999
+[19:43:27] [Server thread/INFO]: Chani issued server command: /eco give chexala 1
+[19:43:58] [Async Chat Thread - #2/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> I assumed so[m
+[19:46:04] [Server thread/INFO]: Chani issued server command: /setworth nether_gem 1000
+[19:46:08] [Server thread/INFO]: Chani issued server command: /setworth nethergem 1000
+[19:46:41] [Server thread/INFO]: Chani was slain by Zombie
+[19:49:32] [Server thread/INFO]: UncannyMelon issued server command: /bending display air
+[19:50:31] [Server thread/INFO]: UncannyMelon issued server command: /worth
+[19:51:13] [Server thread/INFO]: UncannyMelon issued server command: /display
+[19:51:15] [Server thread/INFO]: UncannyMelon issued server command: /bending display
+[19:51:23] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airblast
+[19:51:30] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airburst
+[19:51:46] [Craft Scheduler Thread - 13/INFO]: [Metrics] Connection timed out
+[19:53:10] [Server thread/INFO]: UncannyMelon issued server command: /home
+[19:53:16] [Server thread/INFO]: UncannyMelon issued server command: /back
+[20:07:05] [Server thread/INFO]: UncannyMelon issued server command: /home
+[20:10:56] [Server thread/INFO]: UncannyMelon issued server command: /home
+[20:11:09] [Server thread/INFO]: UncannyMelon issued server command: /bending bind clear
+[20:11:15] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
+[20:11:22] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:24] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:26] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:27] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:29] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
+[20:11:30] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
+[20:11:32] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
+[20:11:33] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
+[20:11:36] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
+[20:11:40] [Server thread/INFO]: UncannyMelon issued server command: /bending bind
+[20:11:46] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:50] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:53] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:54] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:56] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:11:58] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:12:00] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:12:02] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:12:04] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:12:05] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airbubble
+[20:16:01] [Server thread/INFO]: Chani issued server command: /setworth iron 20
+[20:16:05] [Server thread/INFO]: Chani issued server command: /setworth iron_ingot 20
+[20:16:10] [Server thread/INFO]: Chani issued server command: /setworth gold_ingot 20
+[20:16:13] [Server thread/INFO]: Chani issued server command: /setworth gold_ingot 30
+[20:16:16] [Server thread/INFO]: Chani issued server command: /setworth gold_ore 30
+[20:16:23] [Server thread/INFO]: Chani issued server command: /setworth iron_ore 20
+[20:16:49] [Server thread/INFO]: Chani issued server command: /setworth diamond 200
+[20:17:06] [Server thread/INFO]: UncannyMelon issued server command: /mcmmo
+[20:17:14] [Server thread/INFO]: UncannyMelon issued server command: /mcmmo help
+[20:17:30] [Server thread/INFO]: UncannyMelon issued server command: /mcstats
+[20:17:42] [Server thread/INFO]: UncannyMelon issued server command: /mcstats
+[20:20:19] [Server thread/INFO]: Chani issued server command: /setworth iron_ore 25
+[20:20:26] [Server thread/INFO]: Chani issued server command: /setworth iron_ingot 25
+[20:20:32] [Server thread/INFO]: Chani issued server command: /setworth gold_ore 40
+[20:20:37] [Server thread/INFO]: Chani issued server command: /setworth gold_ingot 40
+[20:20:56] [Server thread/INFO]: Chani issued server command: /eco take alex 3000
+[20:21:01] [Server thread/INFO]: Chani issued server command: /eco take uncannymelon 3000
+[20:21:09] [Server thread/INFO]: Chani issued server command: /eco take aygtets 3000
+[20:23:32] [Server thread/INFO]: UncannyMelon issued server command: /back
+[20:23:44] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airscooter
+[20:23:54] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airjet
+[20:24:00] [Server thread/INFO]: UncannyMelon issued server command: /bending bind airspout
+[20:24:10] [Server thread/INFO]: UncannyMelon issued server command: /back
+[20:24:13] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] Restarted server rq, to update skills.[m
+[20:24:16] [Async Chat Thread - #3/INFO]: <[0;37;22mUncannyMelon[m[0;37;1m> mk[m
+[20:24:17] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] restarting[m
+[20:24:19] [Thread-4/INFO]: Stopping server
+[20:24:19] [Thread-4/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1

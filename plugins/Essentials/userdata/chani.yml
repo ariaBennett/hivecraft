@@ -1,23 +1,23 @@
 uuid: 9625841f-6332-495c-ad91-0505c6d81186
 timestamps:
-  login: 1412909237478
-  lastteleport: 1412904235030
-  logout: 1412911020153
+  login: 1413056059327
+  lastteleport: 1412917821937
+  logout: 1412984131784
 ipAddress: 98.210.147.109
 godmode: false
-nickname: Ratava
+nickname: DefinitlyNotCelosia
 lastlocation:
-  world: worlds/bravenewworld_nether
-  x: 72.30000001192093
-  y: 31.0
-  z: 66.63922547570775
-  yaw: 20.565977
-  pitch: 90.0
+  world: worlds/bravenewworld
+  x: 36.614530587115155
+  y: 79.0
+  z: 677.2238123322221
+  yaw: -198.24637
+  pitch: 8.204755
 afk: false
 logoutlocation:
-  world: worlds/firefort
-  x: -358.6348985858968
-  y: 77.48661502008778
-  z: -137.6709249972302
-  yaw: -101.117165
-  pitch: 2.8182156
+  world: worlds/bravenewworld
+  x: 20.09662794718897
+  y: 83.0
+  z: 695.4613887696976
+  yaw: 14.998596
+  pitch: 36.664135
