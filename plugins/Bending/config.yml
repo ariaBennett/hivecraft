@@ -96,7 +96,7 @@ Properties:
       Mob-Push-Factor: 0.0
       Player-Push-Factor: 0.0
     AirScooter:
-      Speed: 0.305
+      Speed: 0.43
     AirSpout:
       Height: 10.0
   Earth:
@@ -121,10 +121,10 @@ Properties:
       Wait-Before-Reverse-Changes: 3000
     EarthTunnel:
       Max-Radius: 1.0
-      Range: 1.0
+      Range: 100.0
       Radius: 0.25
-      Interval: 3000
-      Revert: true
+      Interval: 30
+      Revert: false
     EarthWall:
       Range: 1
       Height: 2

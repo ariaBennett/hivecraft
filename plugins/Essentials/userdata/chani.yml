@@ -1,23 +1,24 @@
 uuid: 9625841f-6332-495c-ad91-0505c6d81186
 timestamps:
-  login: 1413056059327
-  lastteleport: 1412917821937
-  logout: 1412984131784
-ipAddress: 98.210.147.109
+  login: 1413229912686
+  lastteleport: 1413149310162
+  logout: 1413232930352
+ipAddress: 50.23.115.67
 godmode: false
 nickname: DefinitlyNotCelosia
 lastlocation:
   world: worlds/bravenewworld
-  x: 36.614530587115155
-  y: 79.0
-  z: 677.2238123322221
-  yaw: -198.24637
-  pitch: 8.204755
+  x: 9.292287855616715
+  y: 77.0
+  z: 675.2373987244208
+  yaw: 323.3855
+  pitch: 59.73694
 afk: false
 logoutlocation:
   world: worlds/bravenewworld
-  x: 20.09662794718897
-  y: 83.0
-  z: 695.4613887696976
-  yaw: 14.998596
-  pitch: 36.664135
+  x: 93.62249895637369
+  y: 68.20000004768372
+  z: 652.9690279683216
+  yaw: -143.38025
+  pitch: 35.085434
+money: '2100.0'

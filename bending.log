@@ -1,0 +1,14 @@
+Bending broke!
+java.lang.NullPointerException
+	at waterbending.OctopusForm.progress(OctopusForm.java:214)
+	at waterbending.OctopusForm.progressAll(OctopusForm.java:151)
+	at main.BendingManager.manageWaterbending(BendingManager.java:297)
+	at main.BendingManager.run(BendingManager.java:113)
+	at org.bukkit.craftbukkit.v1_7_R4.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_7_R4.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:641)
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:289)
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584)
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490)
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628)
+

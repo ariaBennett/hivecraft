@@ -12,17 +12,7 @@
 
 config-version: 8
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
-  filter-creative-items: true
-  user-cache-size: 1000
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-threshold: 100.0
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -34,7 +24,17 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-threshold: 100.0
+  bungeecord: false
+  late-bind: false
   global-api-cache: false
+  debug: false
 commands:
   tab-complete: 0
   spam-exclusions:
@@ -59,35 +59,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    anti-xray:
-      enabled: true
-      engine-mode: 1
-      hide-blocks:
-      - 14
-      - 15
-      - 16
-      - 21
-      - 48
-      - 49
-      - 54
-      - 56
-      - 73
-      - 74
-      - 82
-      - 129
-      - 130
-      replace-blocks:
-      - 1
-      - 5
-    nerf-spawner-mobs: false
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -117,13 +88,42 @@ world-settings:
       regen-exhaustion: 3.0
     max-tnt-per-tick: 100
     mob-spawn-range: 4
+    anti-xray:
+      enabled: true
+      engine-mode: 1
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
+    nerf-spawner-mobs: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
     view-distance: 10
-    item-despawn-rate: 6000
-    merge-radius:
-      item: 2.5
-      exp: 3.0
     chunks-per-tick: 650
     clear-tick-list: false
+    merge-radius:
+      exp: 3.0
+      item: 2.5
+    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
